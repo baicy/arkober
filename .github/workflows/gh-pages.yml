@@ -1,5 +1,5 @@
 # 将静态内容部署到 GitHub Pages 的简易工作流程
-name: Deployment to gh-Pages
+name: Deployment to GitHub Pages
 run-name: Observing... 🚀
 
 on:

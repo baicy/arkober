@@ -1,0 +1,298 @@
+[
+  {
+    "id": "LINKAGE_54_0_1",
+    "name": "泰拉饭，呜呼，泰拉饭",
+    "open": 1725249600,
+    "pick6": [],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_53_0_1",
+    "name": "在流沙上刻印",
+    "open": 1722484800,
+    "pick6": ["char_4058_pepe"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_50_0_1",
+    "name": "何以为我",
+    "open": 1714536000,
+    "pick6": ["char_1035_wisdel"],
+    "pick5": []
+  },
+  {
+    "id": "LINKAGE_48_0_3",
+    "name": "进攻·防守·战术交汇",
+    "open": 1711008000,
+    "pick6": [],
+    "pick5": []
+  },
+  {
+    "id": "LINKAGE_48_0_1",
+    "name": "突破，援助，任务循环",
+    "open": 1709784000,
+    "pick6": [],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_47_0_1",
+    "name": "千秋一粟",
+    "open": 1706760000,
+    "pick6": ["char_2025_shu"],
+    "pick5": []
+  },
+  {
+    "id": "ATTAIN_45_0_5",
+    "name": "跨年欢庆·展望",
+    "open": 1704038400,
+    "pick6": [
+      "char_400_weedy",
+      "char_197_poca",
+      "char_358_lisa",
+      "char_293_thorns",
+      "char_416_zumama",
+      "char_350_surtr",
+      "char_423_blemsh",
+      "char_311_mudrok",
+      "char_264_f12yin",
+      "char_332_archet",
+      "char_362_saga",
+      "char_472_pasngr",
+      "char_003_kalts",
+      "char_426_billro",
+      "char_485_pallas",
+      "char_437_mizuki",
+      "char_479_sleach",
+      "char_430_fartth",
+      "char_420_flamtl",
+      "char_206_gnosis",
+      "char_322_lmlee",
+      "char_377_gdglow",
+      "char_300_phenxi",
+      "char_4039_horn",
+      "char_4009_irene",
+      "char_4046_ebnhlz",
+      "char_4055_bgsnow",
+      "char_4048_doroth",
+      "char_4064_mlynar",
+      "char_4072_ironmn",
+      "char_4065_judge",
+      "char_1020_reed2"
+    ],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_44_0_1",
+    "name": "宿愿",
+    "open": 1698811200,
+    "pick6": ["char_245_cello"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_41_0_1",
+    "name": "云间清醒梦",
+    "open": 1690862400,
+    "pick6": ["char_1016_agoat2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_38_0_1",
+    "name": "真理孑然",
+    "open": 1682913600,
+    "pick6": ["char_249_mlyss"],
+    "pick5": []
+  },
+  {
+    "id": "LINKAGE_36_0_1",
+    "name": "砺火成锋",
+    "open": 1678161600,
+    "pick6": [],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_35_0_1",
+    "name": "万象伶仃",
+    "open": 1673928000,
+    "pick6": ["char_2024_chyue"],
+    "pick5": []
+  },
+  {
+    "id": "ATTAIN_34_0_3",
+    "name": "跨年欢庆·相逢",
+    "open": 1672502400,
+    "pick6": [
+      "char_103_angel",
+      "char_112_siege",
+      "char_134_ifrit",
+      "char_180_amgoat",
+      "char_291_aglina",
+      "char_147_shining",
+      "char_179_cgbird",
+      "char_136_hsguma",
+      "char_202_demkni",
+      "char_172_svrash",
+      "char_263_skadi",
+      "char_010_chen",
+      "char_340_shwaz",
+      "char_188_helage",
+      "char_248_mgllan",
+      "char_213_mostma",
+      "char_017_huang",
+      "char_225_haak",
+      "char_2013_cerber",
+      "char_222_bpipe",
+      "char_250_phatom",
+      "char_400_weedy",
+      "char_197_poca",
+      "char_358_lisa",
+      "char_293_thorns",
+      "char_416_zumama",
+      "char_350_surtr",
+      "char_423_blemsh",
+      "char_311_mudrok",
+      "char_264_f12yin",
+      "char_332_archet",
+      "char_362_saga",
+      "char_472_pasngr",
+      "char_003_kalts",
+      "char_426_billro",
+      "char_485_pallas",
+      "char_437_mizuki",
+      "char_479_sleach",
+      "char_430_fartth",
+      "char_420_flamtl",
+      "char_206_gnosis"
+    ],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_33_0_1",
+    "name": "斩荆辟路",
+    "open": 1667275200,
+    "pick6": ["char_1028_texas2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_30_0_1",
+    "name": "巨斧与笔尖",
+    "open": 1660190400,
+    "pick6": ["char_1026_gvial2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_27_0_3",
+    "name": "海蚀",
+    "open": 1651388400,
+    "pick6": ["char_1023_ghost2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_25_0_1",
+    "name": "浊酒澄心",
+    "open": 1643083200,
+    "pick6": ["char_2023_ling"],
+    "pick5": []
+  },
+  {
+    "id": "ATTAIN_24_0_3",
+    "name": "跨年欢庆·回首",
+    "open": 1640980800,
+    "pick6": [
+      "char_103_angel",
+      "char_112_siege",
+      "char_134_ifrit",
+      "char_180_amgoat",
+      "char_291_aglina",
+      "char_147_shining",
+      "char_179_cgbird",
+      "char_136_hsguma",
+      "char_202_demkni",
+      "char_172_svrash",
+      "char_263_skadi",
+      "char_010_chen",
+      "char_340_shwaz",
+      "char_188_helage",
+      "char_248_mgllan",
+      "char_213_mostma",
+      "char_017_huang",
+      "char_225_haak",
+      "char_2013_cerber",
+      "char_222_bpipe",
+      "char_250_phatom",
+      "char_400_weedy",
+      "char_197_poca",
+      "char_358_lisa",
+      "char_293_thorns",
+      "char_416_zumama",
+      "char_350_surtr",
+      "char_423_blemsh",
+      "char_311_mudrok",
+      "char_264_f12yin"
+    ],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_23_0_1",
+    "name": "循光道途",
+    "open": 1635739200,
+    "pick6": ["char_1014_nearl2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_21_0_1",
+    "name": "盛夏新星",
+    "open": 1627963200,
+    "pick6": ["char_1013_chen2"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_18_0_3",
+    "name": "深悼",
+    "open": 1619852400,
+    "pick6": ["char_1012_skadi2"],
+    "pick5": []
+  },
+  {
+    "id": "LINKAGE_17_0_1",
+    "name": "进攻·防守·战术交汇",
+    "open": 1615262400,
+    "pick6": [],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_16_0_4",
+    "name": "月隐晦明",
+    "open": 1612512000,
+    "pick6": ["char_2015_dusk"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_16_0_1",
+    "name": "地生五金",
+    "open": 1611028800,
+    "pick6": ["char_2014_nian"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_14_0_1",
+    "name": "勿忘我",
+    "open": 1604203200,
+    "pick6": ["char_391_rosmon"],
+    "pick5": []
+  },
+  {
+    "id": "LIMITED_9_0_3",
+    "name": "遗愿焰火",
+    "open": 1588316400,
+    "pick6": ["char_113_cqbw"],
+    "pick5": []
+  },
+  {
+    "id": "NORM_6_0_4",
+    "name": "地生五金",
+    "type": "single",
+    "open": 1579161600,
+    "pick6": ["年", "阿"],
+    "pick5": ["吽"]
+  }
+]

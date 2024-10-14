@@ -1,9 +1,11 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+<script setup>
+import { useActivityStore } from '@/stores/activity'
+const store = useActivityStore()
+const activities = store.activities
 </script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <el-row>
+    <activity-card v-for="activity in activities" :key="activity.id" :activity="activity" />
+  </el-row>
 </template>

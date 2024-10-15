@@ -47,6 +47,7 @@ export default {
 </script>
 <template>
   <el-space direction="vertical" alignment="flex-start" class="card-content">
+    <el-text v-if="pool.name">{{ pool.name }}</el-text>
     <el-space :spacer="spacer">
       <character-tag v-for="char in char6" :key="char.name" :character="char" />
     </el-space>

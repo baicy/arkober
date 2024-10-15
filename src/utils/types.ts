@@ -63,3 +63,28 @@ export type ActivePool = {
   pick5: string[]
   pick4?: string
 }
+
+export type Character = {
+  id: string
+  name: string
+  nationId: string | null
+  groupId: string | null
+  teamId: string | null
+  displayNumber: string
+  appellation: string
+  rarity: number
+  profession: string
+  subProfessionId: string
+  type?: string
+  onlineTime?: number
+  source?: string
+  classic?: boolean
+  recruit?: boolean
+}
+
+export type Rogue = {
+  id: string
+  name: string
+  start: number
+  monthlyName: string
+}

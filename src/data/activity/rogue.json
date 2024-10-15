@@ -1,0 +1,283 @@
+{
+  "topics": {
+    "rogue_4": {
+      "id": "rogue_4",
+      "name": "萨卡兹的无终奇语",
+      "start": 1721116800,
+      "monthlyName": "讲述者列表"
+    },
+    "rogue_3": {
+      "id": "rogue_3",
+      "name": "探索者的银凇止境",
+      "start": 1689235200,
+      "monthlyName": "探索者档案"
+    },
+    "rogue_2": {
+      "id": "rogue_2",
+      "name": "水月与深蓝之树",
+      "start": 1664251200,
+      "monthlyName": "追忆映射"
+    },
+    "rogue_1": {
+      "id": "rogue_1",
+      "name": "傀影与猩红孤钻",
+      "start": 1641369600,
+      "monthlyName": "月度小队",
+      "color": "836730"
+    }
+  },
+  "monthSquad": [
+    {
+      "id": "rogue_4_month_team_4",
+      "name": "非调谐回响的诗",
+      "open": 1727726400,
+      "close": 1730404800,
+      "rogue": "rogue_4",
+      "chars": ["char_4134_cetsyr"],
+      "color": "#cf4242"
+    },
+    {
+      "id": "rogue_4_month_team_3",
+      "name": "提前述职",
+      "open": 1725134400,
+      "close": 1727726400,
+      "rogue": "rogue_4",
+      "chars": ["char_4151_tinman"],
+      "color": "#cf4242"
+    },
+    {
+      "id": "rogue_4_month_team_2",
+      "name": "带我进卡兹戴尔去",
+      "open": 1722456000,
+      "close": 1725134400,
+      "rogue": "rogue_4",
+      "chars": ["char_311_mudrok"],
+      "color": "#cf4242"
+    },
+    {
+      "id": "rogue_4_month_team_1",
+      "name": "新生代的创想",
+      "open": 1721116800,
+      "close": 1722456000,
+      "rogue": "rogue_4",
+      "chars": ["char_4146_nymph"],
+      "color": "#cf4242"
+    },
+    {
+      "id": "rogue_3_month_team_8",
+      "name": "恒在",
+      "open": 1706731200,
+      "close": 1709236800,
+      "rogue": "rogue_3",
+      "chars": ["char_291_aglina"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_7",
+      "name": "使命",
+      "open": 1704052800,
+      "close": 1706731200,
+      "rogue": "rogue_3",
+      "chars": ["char_003_kalts"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_6",
+      "name": "血脉",
+      "open": 1701374400,
+      "close": 1704052800,
+      "rogue": "rogue_3",
+      "chars": ["char_249_mlyss"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_5",
+      "name": "没有终点的小径",
+      "open": 1698782400,
+      "close": 1701374400,
+      "rogue": "rogue_3",
+      "chars": ["char_350_surtr"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_4",
+      "name": "未见终局",
+      "open": 1696104000,
+      "close": 1698782400,
+      "rogue": "rogue_3",
+      "chars": ["char_4102_threye"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_3",
+      "name": "告别",
+      "open": 1693512000,
+      "close": 1696104000,
+      "rogue": "rogue_3",
+      "chars": ["char_341_sntlla"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_2",
+      "name": "直视",
+      "open": 1690833600,
+      "close": 1693512000,
+      "rogue": "rogue_3",
+      "chars": ["char_2012_typhon"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_3_month_team_1",
+      "name": "探足",
+      "open": 1689235200,
+      "close": 1690833600,
+      "rogue": "rogue_3",
+      "chars": ["char_248_mgllan"],
+      "color": "#77a3bd"
+    },
+    {
+      "id": "rogue_2_month_team_8",
+      "name": "童年的终结",
+      "open": 1682884799,
+      "close": 1685563200,
+      "rogue": "rogue_2",
+      "chars": ["char_437_mizuki"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_7",
+      "name": "碑文倒影",
+      "open": 1680292799,
+      "close": 1682884799,
+      "rogue": "rogue_2",
+      "chars": ["char_263_skadi"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_6",
+      "name": "海葬",
+      "open": 1677614399,
+      "close": 1680292799,
+      "rogue": "rogue_2",
+      "chars": ["char_474_glady"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_5",
+      "name": "自虚无中",
+      "open": 1675195200,
+      "close": 1677614399,
+      "rogue": "rogue_2",
+      "chars": ["char_1023_ghost2"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_4",
+      "name": "星辰泡沫",
+      "open": 1672516800,
+      "close": 1675195200,
+      "rogue": "rogue_2",
+      "chars": ["char_4066_highmo"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_3",
+      "name": "守望者",
+      "open": 1669838400,
+      "close": 1672516800,
+      "rogue": "rogue_2",
+      "chars": ["char_4042_lumen"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_2",
+      "name": "提灯之人",
+      "open": 1667246400,
+      "close": 1669838400,
+      "rogue": "rogue_2",
+      "chars": ["char_4009_irene"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_2_month_team_1",
+      "name": "危险注药",
+      "open": 1664251200,
+      "close": 1667246400,
+      "rogue": "rogue_2",
+      "chars": ["char_293_thorns"],
+      "color": "#2354b8"
+    },
+    {
+      "id": "rogue_1_month_team_8",
+      "name": "临时搭伙",
+      "open": 1659297600,
+      "close": 1661976000,
+      "rogue": "rogue_1",
+      "chars": ["char_426_billro", "char_148_nearl", "char_183_skgoat"],
+      "color": "#b19f57"
+    },
+    {
+      "id": "rogue_1_month_team_7",
+      "name": " 今日下午茶",
+      "open": 1656619200,
+      "close": 1659297600,
+      "rogue": "rogue_1",
+      "chars": ["char_4025_aprot2", "char_338_iris", "char_208_melan"],
+      "color": "#2269a5"
+    },
+    {
+      "id": "rogue_1_month_team_6",
+      "name": "直到春天来临",
+      "open": 1654027200,
+      "close": 1656619200,
+      "rogue": "rogue_1",
+      "chars": ["char_188_helage", "char_115_headbr", "char_405_absin"],
+      "color": "#b86c13"
+    },
+    {
+      "id": "rogue_1_month_team_5",
+      "name": "阿达克利斯向前冲",
+      "open": 1651348800,
+      "close": 1654027200,
+      "rogue": "rogue_1",
+      "chars": ["char_411_tomimi", "char_187_ccheal", "char_127_estell"],
+      "color": "#6d9755"
+    },
+    {
+      "id": "rogue_1_month_team_4",
+      "name": "荒野大爆炸",
+      "open": 1648756800,
+      "close": 1651348800,
+      "rogue": "rogue_1",
+      "chars": ["char_2013_cerber", "char_379_sesa", "char_260_durnar"],
+      "color": "#ca873d"
+    },
+    {
+      "id": "rogue_1_month_team_3",
+      "name": "超级叙拉古人",
+      "open": 1646078400,
+      "close": 1648756800,
+      "rogue": "rogue_1",
+      "chars": ["char_349_chiave", "char_356_broca", "char_346_aosta"],
+      "color": "#bb5532"
+    },
+    {
+      "id": "rogue_1_month_team_2",
+      "name": "年长与新生",
+      "open": 1643659200,
+      "close": 1646078400,
+      "rogue": "rogue_1",
+      "chars": ["char_485_pallas", "char_003_kalts", "char_503_rang"],
+      "color": "#8e9f3f"
+    },
+    {
+      "id": "rogue_1_month_team_1",
+      "name": "卡兹戴尔联谊会",
+      "open": 1641369600,
+      "close": 1643659200,
+      "rogue": "rogue_1",
+      "chars": ["char_311_mudrok", "char_171_bldsk", "char_290_vigna"],
+      "color": "#bf5454"
+    }
+  ]
+}

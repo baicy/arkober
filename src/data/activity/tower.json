@@ -1,0 +1,63 @@
+{
+  "seasons": [
+    {
+      "id": "tower_season_6",
+      "name": "荒原安保派驻",
+      "startTs": 1723752000,
+      "endTs": 1734292799,
+      "towers": ["tower_n_15", "tower_n_16"],
+      "seasonColor": "#03ff92"
+    },
+    {
+      "id": "tower_season_5",
+      "name": "声浪安保派驻",
+      "startTs": 1713211200,
+      "endTs": 1723751999,
+      "towers": ["tower_n_13", "tower_n_14"],
+      "seasonColor": "#ff2c10"
+    },
+    {
+      "id": "tower_season_4",
+      "name": "边域安保派驻",
+      "startTs": 1702670400,
+      "endTs": 1713211199,
+      "towers": ["tower_n_11", "tower_n_12"],
+      "seasonColor": "#9dd417"
+    },
+    {
+      "id": "tower_season_3",
+      "name": "南方安保派驻",
+      "startTs": 1692129600,
+      "endTs": 1702670399,
+      "towers": ["tower_n_09", "tower_n_10"],
+      "seasonColor": "#11d6de"
+    },
+
+    {
+      "id": "tower_season_2",
+      "name": "掠地安保派驻",
+      "startTs": 1681588800,
+      "endTs": 1692129599,
+      "towers": ["tower_n_07", "tower_n_08"],
+      "seasonColor": "#ffa500"
+    },
+    {
+      "id": "tower_season_1",
+      "name": "极西安保派驻",
+      "startTs": 1671076800,
+      "endTs": 1681588799,
+      "towers": ["tower_n_05", "tower_n_06"],
+      "seasonColor": "#e5e54a"
+    }
+  ],
+  "towers": {
+    "tower_n_15": {
+      "id": "tower_n_15",
+      "name": "交战荒野"
+    },
+    "tower_n_16": {
+      "id": "tower_n_16",
+      "name": "玉门市集"
+    }
+  }
+}

@@ -4,7 +4,7 @@ import normalPools from '@/data/pool/normal.json'
 import standardPools from '@/data/pool/standard.json'
 import classicPools from '@/data/pool/classic.json'
 
-const POOL_DURATION = 13
+const POOL_DURATION = 14
 
 export const isActive = (pool: Pool) => {
   const { open: openTime } = pool
@@ -12,7 +12,7 @@ export const isActive = (pool: Pool) => {
   if (open.hour() === 12) {
     open = open.hour(16)
   }
-  const close = open.add(POOL_DURATION, 'day').add(12, 'hour').subtract(1, 'second')
+  const close = open.add(POOL_DURATION, 'day').hour(4).subtract(1, 'second')
   const active = dayjs().diff(close) < 0
   return active
     ? {

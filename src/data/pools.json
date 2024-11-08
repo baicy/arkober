@@ -1,0 +1,4465 @@
+{
+  "UNION_56_0_1": {
+    "id": "UNION_56_0_1",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1731657600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4132_ascln", "char_4048_doroth", "char_4055_bgsnow", "char_4064_mlynar"]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_433_windft",
+          "char_1036_fang2",
+          "char_494_vendla",
+          "char_421_crow",
+          "char_4140_lasher",
+          "char_488_buildr"
+        ]
+      }
+    ]
+  },
+  "NORM_56_0_2": {
+    "id": "NORM_56_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1730923200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4065_judge", "char_4145_ulpia"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_476_blkngt", "char_422_aurora", "char_4081_warmy"]
+      }
+    ],
+    "color": ["#b7134b"]
+  },
+  "LIMITED_56_0_1": {
+    "id": "LIMITED_56_0_1",
+    "name": "恶人寥寥",
+    "type": "fes",
+    "open": 1730448000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1038_whitw2", "char_4026_vulpis"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4155_talr"]
+      }
+    ],
+    "color": ["#6072df", "#ce2625"]
+  },
+  "CLASSIC_55_0_2": {
+    "id": "CLASSIC_55_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1730318400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_358_lisa"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_140_whitew", "char_455_nothin", "char_108_silent"]
+      }
+    ]
+  },
+  "NORM_55_0_3": {
+    "id": "NORM_55_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1729713600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_377_gdglow", "char_1032_excu2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_297_hamoni", "char_341_sntlla", "char_4147_mitm"]
+      }
+    ],
+    "color": ["#e8d7b7"]
+  },
+  "CLASSIC_55_0_1": {
+    "id": "CLASSIC_55_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1729108800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_332_archet", "char_416_zumama"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_219_meteo", "char_241_panda", "char_261_sddrag"]
+      }
+    ]
+  },
+  "NORM_55_0_2": {
+    "id": "NORM_55_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1728504000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4072_ironmn", "char_4027_heyak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_489_serum", "char_4032_provs", "char_475_akafyu"]
+      }
+    ]
+  },
+  "SINGLE_55_0_1": {
+    "id": "SINGLE_55_0_1",
+    "name": "未致蒙尘",
+    "type": "single",
+    "open": 1728446400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1019_siege2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_487_bobb", "char_4109_baslin"]
+      }
+    ]
+  },
+  "CLASSIC_54_0_3": {
+    "id": "CLASSIC_54_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1727899200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_2013_cerber"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_356_broca", "char_164_nightm", "char_415_flint"]
+      }
+    ]
+  },
+  "SPECIAL_54_0_5": {
+    "id": "SPECIAL_54_0_5",
+    "name": "定向甄选",
+    "type": "special",
+    "open": 1727424000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_479_sleach",
+          "char_4046_ebnhlz",
+          "char_4087_ines",
+          "char_4088_hodrer",
+          "char_4098_vvana",
+          "char_4133_logos"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_473_mberry",
+          "char_4040_rockr",
+          "char_1027_greyy2",
+          "char_4006_melnte",
+          "char_4015_spuria",
+          "char_446_aroma"
+        ]
+      }
+    ]
+  },
+  "NORM_54_0_4": {
+    "id": "NORM_54_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1727294400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_420_flamtl", "char_426_billro"]
+      }
+    ]
+  },
+  "SINGLE_54_0_3": {
+    "id": "SINGLE_54_0_3",
+    "name": "鸣铳",
+    "type": "rerun",
+    "open": 1726732800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1034_jesca2"]
+      }
+    ]
+  },
+  "CLASSIC_54_0_2": {
+    "id": "CLASSIC_54_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1726689600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan", "char_340_shwaz"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_145_prove", "char_373_lionhd", "char_243_waaifu"]
+      }
+    ]
+  },
+  "NORM_54_0_2": {
+    "id": "NORM_54_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1726084800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_430_fartth", "char_4009_irene"]
+      }
+    ]
+  },
+  "CLASSIC_54_0_1": {
+    "id": "CLASSIC_54_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1725480000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_423_blemsh"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_306_leizi", "char_294_ayer", "char_195_glassb"]
+      }
+    ]
+  },
+  "LINKAGE_54_0_1": {
+    "id": "LINKAGE_54_0_1",
+    "name": "泰拉饭，呜呼，泰拉饭",
+    "type": "limited",
+    "open": 1725249600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4141_marcil"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4142_laios", "char_4144_chilc"]
+      }
+    ]
+  },
+  "NORM_53_0_3": {
+    "id": "NORM_53_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1724875200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4064_mlynar", "char_4039_horn"]
+      }
+    ]
+  },
+  "CLASSIC_53_0_2": {
+    "id": "CLASSIC_53_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1724270400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_147_shining"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_148_nearl", "char_204_platnm", "char_242_otter"]
+      }
+    ]
+  },
+  "NORM_53_0_2": {
+    "id": "NORM_53_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1723665600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_003_kalts", "char_300_phenxi"]
+      }
+    ]
+  },
+  "CLASSIC_53_0_1": {
+    "id": "CLASSIC_53_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1723060800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom", "char_400_weedy"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_128_plosis", "char_349_chiave", "char_166_skfire"]
+      }
+    ]
+  },
+  "LIMITED_53_0_1": {
+    "id": "LIMITED_53_0_1",
+    "name": "在流沙上刻印",
+    "type": "summer",
+    "open": 1722484800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4058_pepe", "char_4138_narant"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4140_lasher"]
+      }
+    ]
+  },
+  "NORM_52_0_4": {
+    "id": "NORM_52_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1722456000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4055_bgsnow", "char_1033_swire2"]
+      }
+    ]
+  },
+  "FESCLASSIC_52_0_2": {
+    "id": "FESCLASSIC_52_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1721851200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_134_ifrit",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_172_svrash",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_017_huang",
+          "char_222_bpipe",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_362_saga"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_115_headbr",
+          "char_204_platnm",
+          "char_219_meteo",
+          "char_166_skfire",
+          "char_108_silent",
+          "char_171_bldsk",
+          "char_148_nearl",
+          "char_107_liskam",
+          "char_158_milu",
+          "char_173_slchan",
+          "char_174_slbell",
+          "char_101_sora",
+          "char_215_mantic",
+          "char_241_panda",
+          "char_274_astesi",
+          "char_279_excu",
+          "char_367_swllow",
+          "char_254_vodfox",
+          "char_401_elysm",
+          "char_344_beewax",
+          "char_346_aosta",
+          "char_214_kafka",
+          "char_363_toddi"
+        ]
+      }
+    ]
+  },
+  "NORM_52_0_3": {
+    "id": "NORM_52_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1721246400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_437_mizuki", "char_4080_lin"]
+      }
+    ]
+  },
+  "NORM_52_0_2": {
+    "id": "NORM_52_0_2",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1721116800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4065_judge", "char_4082_qiubai", "char_4116_blkkgt", "char_4132_ascln"]
+      }
+    ]
+  },
+  "CLASSIC_52_0_1": {
+    "id": "CLASSIC_52_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1720641600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr", "char_213_mostma"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_215_mantic", "char_102_texas", "char_279_excu"]
+      }
+    ]
+  },
+  "SINGLE_52_0_1": {
+    "id": "SINGLE_52_0_1",
+    "name": "心与镜的印痕",
+    "type": "single",
+    "open": 1720497600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4146_nymph"]
+      }
+    ]
+  },
+  "NORM_51_0_5": {
+    "id": "NORM_51_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1720036800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4048_doroth", "char_4121_zuole"]
+      }
+    ]
+  },
+  "CLASSIC_51_0_2": {
+    "id": "CLASSIC_51_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1719432000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_017_huang"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_173_slchan", "char_101_sora", "char_115_headbr"]
+      }
+    ]
+  },
+  "SINGLE_51_0_4": {
+    "id": "SINGLE_51_0_4",
+    "name": "执裁者",
+    "type": "rerun",
+    "open": 1719302400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1032_excu2"]
+      }
+    ]
+  },
+  "NORM_51_0_3": {
+    "id": "NORM_51_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1718827200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_322_lmlee", "char_377_gdglow"]
+      }
+    ]
+  },
+  "CLASSIC_51_0_1": {
+    "id": "CLASSIC_51_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1718222400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_222_bpipe"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_218_cuttle", "char_436_whispr", "char_129_bluep"]
+      }
+    ]
+  },
+  "NORM_51_0_2": {
+    "id": "NORM_51_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1717617600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_485_pallas", "char_4117_ray"]
+      }
+    ]
+  },
+  "SINGLE_51_0_1": {
+    "id": "SINGLE_51_0_1",
+    "name": "沉向深渊的锚",
+    "type": "single",
+    "open": 1717560000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4145_ulpia"]
+      }
+    ]
+  },
+  "CLASSIC_50_0_3": {
+    "id": "CLASSIC_50_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1717012800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_134_ifrit"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_254_vodfox", "char_143_ghost", "char_326_glacus"]
+      }
+    ]
+  },
+  "NORM_50_0_4": {
+    "id": "NORM_50_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1716408000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4046_ebnhlz", "char_4098_vvana"]
+      }
+    ]
+  },
+  "FESCLASSIC_50_0_2": {
+    "id": "FESCLASSIC_50_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1715803200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_180_amgoat",
+          "char_179_cgbird",
+          "char_263_skadi",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_250_phatom",
+          "char_400_weedy",
+          "char_197_poca",
+          "char_293_thorns"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_102_texas",
+          "char_106_franka",
+          "char_140_whitew",
+          "char_143_ghost",
+          "char_129_bluep",
+          "char_242_otter",
+          "char_144_red",
+          "char_201_moeshd",
+          "char_145_prove",
+          "char_195_glassb",
+          "char_164_nightm",
+          "char_308_swire",
+          "char_326_glacus",
+          "char_243_waaifu",
+          "char_261_sddrag",
+          "char_356_broca",
+          "char_226_hmau",
+          "char_306_leizi",
+          "char_379_sesa",
+          "char_401_elysm",
+          "char_373_lionhd",
+          "char_349_chiave",
+          "char_338_iris"
+        ]
+      }
+    ]
+  },
+  "NORM_50_0_3": {
+    "id": "NORM_50_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1715760000,
+    "pickup": []
+  },
+  "NORM_50_0_2": {
+    "id": "NORM_50_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1715198400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_479_sleach", "char_4116_blkkgt"]
+      }
+    ]
+  },
+  "CLASSIC_50_0_1": {
+    "id": "CLASSIC_50_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1714593600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_172_svrash"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_129_bluep", "char_106_franka", "char_201_moeshd"]
+      }
+    ]
+  },
+  "LIMITED_50_0_1": {
+    "id": "LIMITED_50_0_1",
+    "name": "何以为我",
+    "type": "fes",
+    "open": 1714536000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1035_wisdel", "char_4133_logos"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_1036_fang2"]
+      }
+    ]
+  },
+  "NORM_49_0_3": {
+    "id": "NORM_49_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1713988800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4009_irene", "char_4027_heyak"]
+      }
+    ]
+  },
+  "CLASSIC_49_0_1": {
+    "id": "CLASSIC_49_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1713384000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_197_poca", "char_293_thorns"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_379_sesa", "char_144_red", "char_343_tknogi"]
+      }
+    ]
+  },
+  "NORM_49_0_2": {
+    "id": "NORM_49_0_2",
+    "name": "前路回响",
+    "type": "special",
+    "open": 1713297600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4072_ironmn", "char_4087_ines", "char_4088_hodrer"]
+      }
+    ]
+  },
+  "SINGLE_49_0_1": {
+    "id": "SINGLE_49_0_1",
+    "name": "如死亦终",
+    "type": "single",
+    "open": 1712808000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4132_ascln"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_4130_luton"]
+      }
+    ]
+  },
+  "NORM_48_0_6": {
+    "id": "NORM_48_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1712779200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_426_billro", "char_4065_judge"]
+      }
+    ]
+  },
+  "CLASSIC_48_0_2": {
+    "id": "CLASSIC_48_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1712174400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_202_demkni"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_215_mantic", "char_219_meteo", "char_308_swire"]
+      }
+    ]
+  },
+  "NORM_48_0_5": {
+    "id": "NORM_48_0_5",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1711612800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4055_bgsnow", "char_1034_jesca2", "char_311_mudrok", "char_472_pasngr"]
+      }
+    ]
+  },
+  "NORM_48_0_4": {
+    "id": "NORM_48_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1711569600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4039_horn", "char_1032_excu2"]
+      }
+    ]
+  },
+  "LINKAGE_48_0_3": {
+    "id": "LINKAGE_48_0_3",
+    "name": "进攻·防守·战术交汇",
+    "type": "limited",
+    "open": 1711008000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_456_ash"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_457_blitz", "char_458_rfrost"]
+      }
+    ]
+  },
+  "CLASSIC_48_0_1": {
+    "id": "CLASSIC_48_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1710964800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_225_haak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_158_milu", "char_274_astesi", "char_148_nearl"]
+      }
+    ]
+  },
+  "NORM_48_0_2": {
+    "id": "NORM_48_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1710360000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_350_surtr", "char_4048_doroth"]
+      }
+    ]
+  },
+  "LINKAGE_48_0_1": {
+    "id": "LINKAGE_48_0_1",
+    "name": "突破，援助，任务循环",
+    "type": "limited",
+    "open": 1709784000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4123_ela"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4124_iana", "char_4125_rdoc"]
+      }
+    ]
+  },
+  "CLASSIC_47_0_3": {
+    "id": "CLASSIC_47_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1709755200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma", "char_180_amgoat"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_367_swllow", "char_140_whitew", "char_145_prove"]
+      }
+    ]
+  },
+  "NORM_47_0_4": {
+    "id": "NORM_47_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1709150400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_300_phenxi", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_47_0_3": {
+    "id": "NORM_47_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1708588800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4064_mlynar", "char_4082_qiubai", "char_1033_swire2", "char_264_f12yin"]
+      }
+    ]
+  },
+  "FESCLASSIC_47_0_2": {
+    "id": "FESCLASSIC_47_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1708545600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_017_huang",
+          "char_225_haak",
+          "char_222_bpipe"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_115_headbr",
+          "char_102_texas",
+          "char_140_whitew",
+          "char_143_ghost",
+          "char_129_bluep",
+          "char_204_platnm",
+          "char_219_meteo",
+          "char_166_skfire",
+          "char_108_silent",
+          "char_171_bldsk",
+          "char_148_nearl",
+          "char_144_red",
+          "char_107_liskam",
+          "char_158_milu",
+          "char_173_slchan",
+          "char_174_slbell",
+          "char_101_sora",
+          "char_215_mantic",
+          "char_241_panda",
+          "char_274_astesi",
+          "char_279_excu",
+          "char_367_swllow",
+          "char_254_vodfox"
+        ]
+      }
+    ]
+  },
+  "NORM_47_0_2": {
+    "id": "NORM_47_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1707940800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa", "char_362_saga"]
+      }
+    ]
+  },
+  "CLASSIC_47_0_1": {
+    "id": "CLASSIC_47_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1707336000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_248_mgllan"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_174_slbell", "char_226_hmau", "char_171_bldsk"]
+      }
+    ]
+  },
+  "LIMITED_47_0_1": {
+    "id": "LIMITED_47_0_1",
+    "name": "千秋一粟",
+    "type": "spring",
+    "open": 1706760000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2025_shu", "char_4121_zuole"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4122_grabds"]
+      }
+    ]
+  },
+  "NORM_45_0_9": {
+    "id": "NORM_45_0_9",
+    "name": "",
+    "type": "standard",
+    "open": 1706731200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama", "char_4080_lin"]
+      }
+    ]
+  },
+  "CLASSIC_45_0_4": {
+    "id": "CLASSIC_45_0_4",
+    "name": "",
+    "type": "classic",
+    "open": 1706126400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_2013_cerber"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_107_liskam", "char_108_silent", "char_306_leizi"]
+      }
+    ]
+  },
+  "NORM_45_0_8": {
+    "id": "NORM_45_0_8",
+    "name": "",
+    "type": "standard",
+    "open": 1705521600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_377_gdglow", "char_479_sleach"]
+      }
+    ]
+  },
+  "CLASSIC_45_0_3": {
+    "id": "CLASSIC_45_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1704916800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_250_phatom"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_241_panda", "char_356_broca", "char_261_sddrag"]
+      }
+    ]
+  },
+  "SINGLE_45_0_7": {
+    "id": "SINGLE_45_0_7",
+    "name": "一线微明",
+    "type": "single",
+    "open": 1704787200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4117_ray"]
+      }
+    ]
+  },
+  "NORM_45_0_6": {
+    "id": "NORM_45_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1704312000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh", "char_293_thorns"]
+      }
+    ]
+  },
+  "ATTAIN_45_0_5": {
+    "id": "ATTAIN_45_0_5",
+    "name": "跨年欢庆·展望",
+    "type": "limited",
+    "open": 1704038400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_362_saga",
+          "char_472_pasngr",
+          "char_003_kalts",
+          "char_426_billro",
+          "char_485_pallas",
+          "char_437_mizuki",
+          "char_479_sleach",
+          "char_430_fartth",
+          "char_420_flamtl",
+          "char_206_gnosis",
+          "char_322_lmlee",
+          "char_377_gdglow",
+          "char_300_phenxi",
+          "char_4039_horn",
+          "char_4009_irene",
+          "char_4046_ebnhlz",
+          "char_4055_bgsnow",
+          "char_4048_doroth",
+          "char_4064_mlynar",
+          "char_4072_ironmn",
+          "char_4065_judge",
+          "char_1020_reed2"
+        ]
+      }
+    ]
+  },
+  "CLASSIC_ATTAIN_45_0_2": {
+    "id": "CLASSIC_ATTAIN_45_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1703750400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_017_huang",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_222_bpipe",
+          "char_250_phatom"
+        ]
+      }
+    ]
+  },
+  "SINGLE_45_0_4": {
+    "id": "SINGLE_45_0_4",
+    "name": "枯焰生花",
+    "type": "rerun",
+    "open": 1703232000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1020_reed2"]
+      }
+    ]
+  },
+  "NORM_45_0_3": {
+    "id": "NORM_45_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1703102400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_322_lmlee", "char_2012_typhon"]
+      }
+    ]
+  },
+  "CLASSIC_45_0_1": {
+    "id": "CLASSIC_45_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1702497600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_103_angel"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_243_waaifu", "char_129_bluep", "char_164_nightm"]
+      }
+    ]
+  },
+  "NORM_45_0_2": {
+    "id": "NORM_45_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1701892800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_400_weedy", "char_4065_judge"]
+      }
+    ]
+  },
+  "SINGLE_45_0_1": {
+    "id": "SINGLE_45_0_1",
+    "name": "游邦者",
+    "type": "single",
+    "open": 1701748800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4116_blkkgt"]
+      }
+    ]
+  },
+  "CLASSIC_44_0_3": {
+    "id": "CLASSIC_44_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1701288000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_291_aglina"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_195_glassb", "char_379_sesa", "char_254_vodfox"]
+      }
+    ]
+  },
+  "NORM_44_0_4": {
+    "id": "NORM_44_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1700683200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_206_gnosis", "char_197_poca"]
+      }
+    ]
+  },
+  "NORM_44_0_3": {
+    "id": "NORM_44_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1700553600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa", "char_350_surtr", "char_437_mizuki", "char_4055_bgsnow"]
+      }
+    ]
+  },
+  "FESCLASSIC_44_0_2": {
+    "id": "FESCLASSIC_44_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1700078400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_250_phatom"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_115_headbr",
+          "char_102_texas",
+          "char_106_franka",
+          "char_140_whitew",
+          "char_143_ghost",
+          "char_129_bluep",
+          "char_204_platnm",
+          "char_219_meteo",
+          "char_108_silent",
+          "char_171_bldsk",
+          "char_144_red",
+          "char_107_liskam",
+          "char_201_moeshd",
+          "char_101_sora",
+          "char_215_mantic",
+          "char_241_panda",
+          "char_164_nightm",
+          "char_308_swire",
+          "char_326_glacus",
+          "char_274_astesi",
+          "char_279_excu",
+          "char_261_sddrag",
+          "char_226_hmau",
+          "char_254_vodfox"
+        ]
+      }
+    ]
+  },
+  "NORM_44_0_2": {
+    "id": "NORM_44_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1699473600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr", "char_4046_ebnhlz"]
+      }
+    ]
+  },
+  "CLASSIC_44_0_1": {
+    "id": "CLASSIC_44_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1698868800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe", "char_136_hsguma"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_166_skfire", "char_102_texas", "char_204_platnm"]
+      }
+    ]
+  },
+  "LIMITED_44_0_1": {
+    "id": "LIMITED_44_0_1",
+    "name": "宿愿",
+    "type": "fes",
+    "open": 1698811200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_245_cello", "char_4098_vvana"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4109_baslin"]
+      }
+    ]
+  },
+  "NORM_43_0_3": {
+    "id": "NORM_43_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1698264000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_003_kalts", "char_4027_heyak"]
+      }
+    ]
+  },
+  "CLASSIC_43_0_1": {
+    "id": "CLASSIC_43_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1697659200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_010_chen"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_115_headbr", "char_242_otter", "char_279_excu"]
+      }
+    ]
+  },
+  "NORM_43_0_2": {
+    "id": "NORM_43_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1697054400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_420_flamtl", "char_300_phenxi"]
+      }
+    ]
+  },
+  "SINGLE_43_0_1": {
+    "id": "SINGLE_43_0_1",
+    "name": "烁尘烟中",
+    "type": "single",
+    "open": 1696737600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4088_hodrer"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_4107_vrdant"]
+      }
+    ]
+  },
+  "CLASSIC_42_0_3": {
+    "id": "CLASSIC_42_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1696449600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_188_helage"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_101_sora", "char_326_glacus", "char_174_slbell"]
+      }
+    ]
+  },
+  "NORM_42_0_4": {
+    "id": "NORM_42_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1695844800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_311_mudrok", "char_1032_excu2"]
+      }
+    ]
+  },
+  "NORM_42_0_3": {
+    "id": "NORM_42_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1695499200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4039_horn", "char_4072_ironmn", "char_4087_ines"]
+      }
+    ]
+  },
+  "CLASSIC_42_0_2": {
+    "id": "CLASSIC_42_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1695240000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber", "char_172_svrash"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_143_ghost", "char_128_plosis", "char_158_milu"]
+      }
+    ]
+  },
+  "NORM_42_0_2": {
+    "id": "NORM_42_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1694635200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_362_saga", "char_485_pallas"]
+      }
+    ]
+  },
+  "CLASSIC_42_0_1": {
+    "id": "CLASSIC_42_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1694030400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_179_cgbird"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_106_franka", "char_107_liskam", "char_243_waaifu"]
+      }
+    ]
+  },
+  "SINGLE_42_0_1": {
+    "id": "SINGLE_42_0_1",
+    "name": "鸣铳",
+    "type": "single",
+    "open": 1693886400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1034_jesca2"]
+      }
+    ]
+  },
+  "NORM_41_0_5": {
+    "id": "NORM_41_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1693425600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_430_fartth", "char_4082_qiubai"]
+      }
+    ]
+  },
+  "FESCLASSIC_41_0_2": {
+    "id": "FESCLASSIC_41_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1692820800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_188_helage",
+          "char_017_huang",
+          "char_225_haak",
+          "char_222_bpipe"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_106_franka",
+          "char_129_bluep",
+          "char_166_skfire",
+          "char_242_otter",
+          "char_108_silent",
+          "char_148_nearl",
+          "char_107_liskam",
+          "char_201_moeshd",
+          "char_145_prove",
+          "char_158_milu",
+          "char_173_slchan",
+          "char_174_slbell",
+          "char_195_glassb",
+          "char_241_panda",
+          "char_164_nightm",
+          "char_243_waaifu",
+          "char_261_sddrag",
+          "char_356_broca",
+          "char_367_swllow",
+          "char_226_hmau",
+          "char_306_leizi",
+          "char_379_sesa",
+          "char_254_vodfox"
+        ]
+      }
+    ]
+  },
+  "NORM_41_0_4": {
+    "id": "NORM_41_0_4",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1692345600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4055_bgsnow", "char_4065_judge", "char_4064_mlynar", "char_322_lmlee"]
+      }
+    ]
+  },
+  "NORM_41_0_3": {
+    "id": "NORM_41_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1692216000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_264_f12yin", "char_4009_irene"]
+      }
+    ]
+  },
+  "CLASSIC_41_0_1": {
+    "id": "CLASSIC_41_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1691611200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom", "char_213_mostma"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_144_red", "char_173_slchan", "char_274_astesi"]
+      }
+    ]
+  },
+  "NORM_41_0_2": {
+    "id": "NORM_41_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1691006400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_332_archet", "char_206_gnosis"]
+      }
+    ]
+  },
+  "LIMITED_41_0_1": {
+    "id": "LIMITED_41_0_1",
+    "name": "云间清醒梦",
+    "type": "summer",
+    "open": 1690862400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1016_agoat2", "char_1033_swire2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_488_buildr"]
+      }
+    ]
+  },
+  "CLASSIC_40_0_2": {
+    "id": "CLASSIC_40_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1690401600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_340_shwaz"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_308_swire", "char_367_swllow", "char_215_mantic"]
+      }
+    ]
+  },
+  "NORM_40_0_3": {
+    "id": "NORM_40_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1689796800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_479_sleach", "char_377_gdglow"]
+      }
+    ]
+  },
+  "SINGLE_40_0_2": {
+    "id": "SINGLE_40_0_2",
+    "name": "沙洲引路人",
+    "type": "rerun",
+    "open": 1689667200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4048_doroth"]
+      }
+    ]
+  },
+  "CLASSIC_40_0_1": {
+    "id": "CLASSIC_40_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1689192000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan", "char_225_haak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_201_moeshd", "char_219_meteo", "char_148_nearl"]
+      }
+    ]
+  },
+  "SINGLE_40_0_1": {
+    "id": "SINGLE_40_0_1",
+    "name": "射落灾异的风暴",
+    "type": "single",
+    "open": 1688616000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2012_typhon"]
+      }
+    ]
+  },
+  "NORM_39_0_4": {
+    "id": "NORM_39_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1688587200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_197_poca", "char_4080_lin"]
+      }
+    ]
+  },
+  "CLASSIC_39_0_2": {
+    "id": "CLASSIC_39_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1687982400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_134_ifrit"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_171_bldsk", "char_140_whitew", "char_145_prove"]
+      }
+    ]
+  },
+  "NORM_39_0_3": {
+    "id": "NORM_39_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1687377600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns", "char_300_phenxi"]
+      }
+    ]
+  },
+  "SINGLE_39_0_2": {
+    "id": "SINGLE_39_0_2",
+    "name": "不协和音程",
+    "type": "rerun",
+    "open": 1687248000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4046_ebnhlz"]
+      }
+    ]
+  },
+  "CLASSIC_39_0_1": {
+    "id": "CLASSIC_39_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1686772800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_112_siege"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_279_excu", "char_306_leizi", "char_226_hmau"]
+      }
+    ]
+  },
+  "SINGLE_39_0_1": {
+    "id": "SINGLE_39_0_1",
+    "name": "执裁者",
+    "type": "single",
+    "open": 1686196800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1032_excu2"]
+      }
+    ]
+  },
+  "NORM_38_0_5": {
+    "id": "NORM_38_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1686168000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_437_mizuki", "char_420_flamtl"]
+      }
+    ]
+  },
+  "CLASSIC_38_0_3": {
+    "id": "CLASSIC_38_0_3",
+    "name": "",
+    "type": "classic",
+    "open": 1685563200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_147_shining"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_261_sddrag", "char_356_broca", "char_367_swllow"]
+      }
+    ]
+  },
+  "NORM_38_0_4": {
+    "id": "NORM_38_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1684958400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr", "char_430_fartth"]
+      }
+    ]
+  },
+  "NORM_38_0_3": {
+    "id": "NORM_38_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1684742400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_362_saga", "char_264_f12yin", "char_311_mudrok", "char_377_gdglow"]
+      }
+    ]
+  },
+  "FESCLASSIC_38_0_2": {
+    "id": "FESCLASSIC_38_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1684353600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_179_cgbird",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_340_shwaz",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_250_phatom"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_115_headbr",
+          "char_102_texas",
+          "char_140_whitew",
+          "char_143_ghost",
+          "char_204_platnm",
+          "char_219_meteo",
+          "char_166_skfire",
+          "char_242_otter",
+          "char_171_bldsk",
+          "char_148_nearl",
+          "char_144_red",
+          "char_145_prove",
+          "char_158_milu",
+          "char_173_slchan",
+          "char_174_slbell",
+          "char_195_glassb",
+          "char_101_sora",
+          "char_215_mantic",
+          "char_308_swire",
+          "char_326_glacus",
+          "char_274_astesi",
+          "char_279_excu",
+          "char_243_waaifu"
+        ]
+      }
+    ]
+  },
+  "NORM_38_0_2": {
+    "id": "NORM_38_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1683748800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_350_surtr", "char_1020_reed2"]
+      }
+    ]
+  },
+  "CLASSIC_38_0_1": {
+    "id": "CLASSIC_38_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1683144000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_222_bpipe"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_164_nightm", "char_129_bluep", "char_107_liskam"]
+      }
+    ]
+  },
+  "LIMITED_38_0_1": {
+    "id": "LIMITED_38_0_1",
+    "name": "真理孑然",
+    "type": "fes",
+    "open": 1682913600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_249_mlyss", "char_4027_heyak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4006_melnte"]
+      }
+    ]
+  },
+  "NORM_37_0_3": {
+    "id": "NORM_37_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1682539200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_485_pallas", "char_4065_judge"]
+      }
+    ]
+  },
+  "CLASSIC_37_0_2": {
+    "id": "CLASSIC_37_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1681934400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_263_skadi"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_108_silent", "char_106_franka", "char_241_panda"]
+      }
+    ]
+  },
+  "NORM_37_0_2": {
+    "id": "NORM_37_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1681329600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa", "char_4055_bgsnow"]
+      }
+    ]
+  },
+  "SINGLE_37_0_1": {
+    "id": "SINGLE_37_0_1",
+    "name": "犹在影中",
+    "type": "single",
+    "open": 1680753600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4087_ines"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_491_humus"]
+      }
+    ]
+  },
+  "CLASSIC_37_0_1": {
+    "id": "CLASSIC_37_0_1",
+    "name": "",
+    "type": "classic",
+    "open": 1680753600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_017_huang"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_102_texas", "char_379_sesa", "char_254_vodfox"]
+      }
+    ]
+  },
+  "NORM_36_0_5": {
+    "id": "NORM_36_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1680120000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_36_0_4": {
+    "id": "NORM_36_0_4",
+    "name": "前路回响",
+    "type": "special",
+    "open": 1679515200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_479_sleach", "char_4039_horn", "char_4072_ironmn"]
+      }
+    ]
+  },
+  "NORM_36_0_3": {
+    "id": "NORM_36_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1679385600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_322_lmlee", "char_293_thorns", "char_4009_irene", "char_4048_doroth"]
+      }
+    ]
+  },
+  "NORM_36_0_2": {
+    "id": "NORM_36_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1678910400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_426_billro", "char_197_poca"]
+      }
+    ]
+  },
+  "LINKAGE_36_0_1": {
+    "id": "LINKAGE_36_0_1",
+    "name": "砺火成锋",
+    "type": "limited",
+    "open": 1678161600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1029_yato2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_1030_noirc2"]
+      }
+    ]
+  },
+  "NORM_35_0_7": {
+    "id": "NORM_35_0_7",
+    "name": "",
+    "type": "standard",
+    "open": 1677700800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh", "char_340_shwaz"]
+      }
+    ]
+  },
+  "NORM_35_0_6": {
+    "id": "NORM_35_0_6",
+    "name": "炽焰无霾",
+    "type": "rerun",
+    "open": 1676966400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_300_phenxi"]
+      }
+    ]
+  },
+  "NORM_35_0_5": {
+    "id": "NORM_35_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1676491200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma", "char_112_siege"]
+      }
+    ]
+  },
+  "NORM_35_0_4": {
+    "id": "NORM_35_0_4",
+    "name": "春江逢雪",
+    "type": "single",
+    "open": 1676361600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4082_qiubai"]
+      }
+    ]
+  },
+  "NORM_35_0_3": {
+    "id": "NORM_35_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1675281600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_003_kalts", "char_4064_mlynar"]
+      }
+    ]
+  },
+  "NORM_35_0_2": {
+    "id": "NORM_35_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1674072000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber", "char_479_sleach"]
+      }
+    ]
+  },
+  "LIMITED_35_0_1": {
+    "id": "LIMITED_35_0_1",
+    "name": "万象伶仃",
+    "type": "spring",
+    "open": 1673928000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2024_chyue", "char_4080_lin"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_493_firwhl"]
+      }
+    ]
+  },
+  "NORM_34_0_4": {
+    "id": "NORM_34_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1672862400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_400_weedy", "char_202_demkni"]
+      }
+    ]
+  },
+  "ATTAIN_34_0_3": {
+    "id": "ATTAIN_34_0_3",
+    "name": "跨年欢庆·相逢",
+    "type": "limited",
+    "open": 1672502400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_017_huang",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_222_bpipe",
+          "char_250_phatom",
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_362_saga",
+          "char_472_pasngr",
+          "char_003_kalts",
+          "char_426_billro",
+          "char_485_pallas",
+          "char_437_mizuki",
+          "char_479_sleach",
+          "char_430_fartth",
+          "char_420_flamtl",
+          "char_206_gnosis"
+        ]
+      }
+    ]
+  },
+  "NORM_34_0_2": {
+    "id": "NORM_34_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1671652800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_134_ifrit"]
+      }
+    ]
+  },
+  "NORM_34_0_1": {
+    "id": "NORM_34_0_1",
+    "name": "枯焰生花",
+    "type": "single",
+    "open": 1671076800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1020_reed2"]
+      }
+    ]
+  },
+  "NORM_33_0_6": {
+    "id": "NORM_33_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1670443200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr", "char_4046_ebnhlz"]
+      }
+    ]
+  },
+  "NORM_33_0_5": {
+    "id": "NORM_33_0_5",
+    "name": "雪融之诺",
+    "type": "rerun",
+    "open": 1669881600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_206_gnosis"]
+      }
+    ]
+  },
+  "NORM_33_0_4": {
+    "id": "NORM_33_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1669233600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom", "char_420_flamtl"]
+      }
+    ]
+  },
+  "NORM_33_0_3": {
+    "id": "NORM_33_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1668499200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama", "char_430_fartth", "char_358_lisa", "char_377_gdglow"]
+      }
+    ]
+  },
+  "NORM_33_0_2": {
+    "id": "NORM_33_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1668024000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_485_pallas"]
+      }
+    ]
+  },
+  "LIMITED_33_0_1": {
+    "id": "LIMITED_33_0_1",
+    "name": "斩荆辟路",
+    "type": "fes",
+    "open": 1667275200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1028_texas2", "char_4065_judge"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4014_lunacu"]
+      }
+    ]
+  },
+  "NORM_32_0_5": {
+    "id": "NORM_32_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1666814400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_362_saga", "char_293_thorns"]
+      }
+    ]
+  },
+  "NORM_32_0_4": {
+    "id": "NORM_32_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1665604800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_136_hsguma"]
+      }
+    ]
+  },
+  "NORM_32_0_3": {
+    "id": "NORM_32_0_3",
+    "name": "轴承与火星",
+    "type": "single",
+    "open": 1665475200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4072_ironmn"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_4062_totter"]
+      }
+    ]
+  },
+  "NORM_32_0_2": {
+    "id": "NORM_32_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1664395200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_332_archet", "char_4009_irene"]
+      }
+    ]
+  },
+  "NORM_32_0_1": {
+    "id": "NORM_32_0_1",
+    "name": "前路回响",
+    "type": "special",
+    "open": 1664251200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_311_mudrok", "char_479_sleach", "char_4039_horn"]
+      }
+    ]
+  },
+  "NORM_31_0_2": {
+    "id": "NORM_31_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1663185600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_437_mizuki"]
+      }
+    ]
+  },
+  "NORM_31_0_1": {
+    "id": "NORM_31_0_1",
+    "name": "未曾起誓",
+    "type": "single",
+    "open": 1662609600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4064_mlynar"]
+      }
+    ]
+  },
+  "NORM_30_0_4": {
+    "id": "NORM_30_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1661976000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_197_poca"]
+      }
+    ]
+  },
+  "NORM_30_0_3": {
+    "id": "NORM_30_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1661414400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe", "char_426_billro", "char_248_mgllan", "char_472_pasngr"]
+      }
+    ]
+  },
+  "NORM_30_0_2": {
+    "id": "NORM_30_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1660766400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_264_f12yin", "char_300_phenxi"]
+      }
+    ]
+  },
+  "LIMITED_30_0_1": {
+    "id": "LIMITED_30_0_1",
+    "name": "巨斧与笔尖",
+    "type": "summer",
+    "open": 1660190400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1026_gvial2", "char_4055_bgsnow"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_497_ctable"]
+      }
+    ]
+  },
+  "NORM_29_0_4": {
+    "id": "NORM_29_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1659556800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_400_weedy"]
+      }
+    ]
+  },
+  "NORM_29_0_3": {
+    "id": "NORM_29_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1658347200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_202_demkni"]
+      }
+    ]
+  },
+  "NORM_29_0_2": {
+    "id": "NORM_29_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1657137600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_311_mudrok", "char_377_gdglow"]
+      }
+    ]
+  },
+  "NORM_29_0_1": {
+    "id": "NORM_29_0_1",
+    "name": "沙洲引路人",
+    "type": "single",
+    "open": 1656993600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4048_doroth"]
+      }
+    ]
+  },
+  "NORM_28_0_2": {
+    "id": "NORM_28_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1655928000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_426_billro"]
+      }
+    ]
+  },
+  "NORM_28_0_1": {
+    "id": "NORM_28_0_1",
+    "name": "不协和音程",
+    "type": "single",
+    "open": 1654747200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4046_ebnhlz"]
+      }
+    ]
+  },
+  "NORM_27_0_7": {
+    "id": "NORM_27_0_7",
+    "name": "",
+    "type": "standard",
+    "open": 1654718400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_322_lmlee"]
+      }
+    ]
+  },
+  "NORM_27_0_6": {
+    "id": "NORM_27_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1653508800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh", "char_362_saga"]
+      }
+    ]
+  },
+  "NORM_27_0_5": {
+    "id": "NORM_27_0_5",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1652947200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_263_skadi", "char_264_f12yin", "char_003_kalts"]
+      }
+    ]
+  },
+  "NORM_27_0_4": {
+    "id": "NORM_27_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1652299200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_206_gnosis"]
+      }
+    ]
+  },
+  "LIMITED_27_0_3": {
+    "id": "LIMITED_27_0_3",
+    "name": "海蚀",
+    "type": "fes",
+    "open": 1651388400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1023_ghost2", "char_4009_irene"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_433_windft"]
+      }
+    ]
+  },
+  "NORM_27_0_2": {
+    "id": "NORM_27_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1651089600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_27_0_1": {
+    "id": "NORM_27_0_1",
+    "name": "奔崖怒号",
+    "type": "single",
+    "open": 1649908800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4039_horn"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_4041_chnut"]
+      }
+    ]
+  },
+  "NORM_26_0_5": {
+    "id": "NORM_26_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1649880000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_350_surtr", "char_248_mgllan"]
+      }
+    ]
+  },
+  "NORM_26_0_4": {
+    "id": "NORM_26_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1648670400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_420_flamtl"]
+      }
+    ]
+  },
+  "NORM_26_0_3": {
+    "id": "NORM_26_0_3",
+    "name": "沙海过客",
+    "type": "rerun",
+    "open": 1648540800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr"]
+      }
+    ]
+  },
+  "NORM_26_0_2": {
+    "id": "NORM_26_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1647460800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_430_fartth"]
+      }
+    ]
+  },
+  "NORM_26_0_1": {
+    "id": "NORM_26_0_1",
+    "name": "炽焰无霾",
+    "type": "single",
+    "open": 1647316800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_300_phenxi"]
+      }
+    ]
+  },
+  "NORM_25_0_5": {
+    "id": "NORM_25_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1646251200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama", "char_311_mudrok"]
+      }
+    ]
+  },
+  "NORM_25_0_4": {
+    "id": "NORM_25_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1645041600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_479_sleach"]
+      }
+    ]
+  },
+  "NORM_25_0_3": {
+    "id": "NORM_25_0_3",
+    "name": "火花绽放",
+    "type": "single",
+    "open": 1644912000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_377_gdglow"]
+      }
+    ]
+  },
+  "NORM_25_0_2": {
+    "id": "NORM_25_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1643832000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber", "char_437_mizuki"]
+      }
+    ]
+  },
+  "LIMITED_25_0_1": {
+    "id": "LIMITED_25_0_1",
+    "name": "浊酒澄心",
+    "type": "spring",
+    "open": 1643083200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2023_ling", "char_322_lmlee"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_476_blkngt"]
+      }
+    ]
+  },
+  "NORM_24_0_5": {
+    "id": "NORM_24_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1642622400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns", "char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_24_0_4": {
+    "id": "NORM_24_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1641412800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe", "char_017_huang"]
+      }
+    ]
+  },
+  "ATTAIN_24_0_3": {
+    "id": "ATTAIN_24_0_3",
+    "name": "跨年欢庆·回首",
+    "type": "limited",
+    "open": 1640980800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_017_huang",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_222_bpipe",
+          "char_250_phatom",
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin"
+        ]
+      }
+    ]
+  },
+  "NORM_24_0_2": {
+    "id": "NORM_24_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1640203200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma", "char_172_svrash"]
+      }
+    ]
+  },
+  "NORM_24_0_1": {
+    "id": "NORM_24_0_1",
+    "name": "雪融之诺",
+    "type": "single",
+    "open": 1640059200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_206_gnosis"]
+      }
+    ]
+  },
+  "NORM_23_0_6": {
+    "id": "NORM_23_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1638993600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa", "char_485_pallas"]
+      }
+    ]
+  },
+  "NORM_23_0_5": {
+    "id": "NORM_23_0_5",
+    "name": "自由的囚徒",
+    "type": "rerun",
+    "open": 1638864000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_264_f12yin"]
+      }
+    ]
+  },
+  "NORM_23_0_4": {
+    "id": "NORM_23_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1637784000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_188_helage"]
+      }
+    ]
+  },
+  "NORM_23_0_3": {
+    "id": "NORM_23_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1636963200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_362_saga", "char_340_shwaz", "char_250_phatom", "char_350_surtr"]
+      }
+    ]
+  },
+  "NORM_23_0_2": {
+    "id": "NORM_23_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1636574400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_426_billro"]
+      }
+    ]
+  },
+  "LIMITED_23_0_1": {
+    "id": "LIMITED_23_0_1",
+    "name": "循光道途",
+    "type": "fes",
+    "open": 1635739200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1014_nearl2", "char_420_flamtl"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_489_serum"]
+      }
+    ]
+  },
+  "NORM_22_0_6": {
+    "id": "NORM_22_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1635364800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_197_poca", "char_010_chen"]
+      }
+    ]
+  },
+  "NORM_22_0_5": {
+    "id": "NORM_22_0_5",
+    "name": "漂泊于风",
+    "type": "single",
+    "open": 1634284800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_430_fartth"]
+      }
+    ]
+  },
+  "NORM_22_0_4": {
+    "id": "NORM_22_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1634155200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_134_ifrit"]
+      }
+    ]
+  },
+  "NORM_22_0_3": {
+    "id": "NORM_22_0_3",
+    "name": "瑕光微明",
+    "type": "rerun",
+    "open": 1633075200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh"]
+      }
+    ]
+  },
+  "NORM_22_0_2": {
+    "id": "NORM_22_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1632945600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_003_kalts"]
+      }
+    ]
+  },
+  "NORM_22_0_1": {
+    "id": "NORM_22_0_1",
+    "name": "小丘上的眠柳",
+    "type": "single",
+    "open": 1631851200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_479_sleach"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_484_robrta"]
+      }
+    ]
+  },
+  "NORM_21_0_6": {
+    "id": "NORM_21_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1631736000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_400_weedy", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_21_0_5": {
+    "id": "NORM_21_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1630526400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan", "char_2013_cerber"]
+      }
+    ]
+  },
+  "NORM_21_0_4": {
+    "id": "NORM_21_0_4",
+    "name": "不羁逆流",
+    "type": "rerun",
+    "open": 1629964800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns"]
+      }
+    ]
+  },
+  "NORM_21_0_3": {
+    "id": "NORM_21_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1629316800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_472_pasngr"]
+      }
+    ]
+  },
+  "NORM_21_0_2": {
+    "id": "NORM_21_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1628107200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom", "char_311_mudrok"]
+      }
+    ]
+  },
+  "LIMITED_21_0_1": {
+    "id": "LIMITED_21_0_1",
+    "name": "盛夏新星",
+    "type": "summer",
+    "open": 1627963200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1013_chen2", "char_437_mizuki"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_421_crow"]
+      }
+    ]
+  },
+  "NORM_20_0_4": {
+    "id": "NORM_20_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1626897600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_197_poca"]
+      }
+    ]
+  },
+  "NORM_20_0_3": {
+    "id": "NORM_20_0_3",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "rerun",
+    "open": 1626768000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      }
+    ]
+  },
+  "NORM_20_0_2": {
+    "id": "NORM_20_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1625688000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_362_saga"]
+      }
+    ]
+  },
+  "NORM_20_0_1": {
+    "id": "NORM_20_0_1",
+    "name": "从星火中来",
+    "type": "single",
+    "open": 1625198400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_485_pallas"]
+      }
+    ]
+  },
+  "NORM_19_0_4": {
+    "id": "NORM_19_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1624478400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_19_0_3": {
+    "id": "NORM_19_0_3",
+    "name": "君影轻灵",
+    "type": "rerun",
+    "open": 1623916800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa"]
+      }
+    ]
+  },
+  "NORM_19_0_2": {
+    "id": "NORM_19_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1623268800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_213_mostma"]
+      }
+    ]
+  },
+  "NORM_19_0_1": {
+    "id": "NORM_19_0_1",
+    "name": "革新交响曲",
+    "type": "single",
+    "open": 1622520000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_426_billro"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_469_indigo"]
+      }
+    ]
+  },
+  "NORM_18_0_6": {
+    "id": "NORM_18_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1622059200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_350_surtr"]
+      }
+    ]
+  },
+  "NORM_18_0_5": {
+    "id": "NORM_18_0_5",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1621065600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns", "char_179_cgbird", "char_358_lisa", "char_400_weedy"]
+      }
+    ]
+  },
+  "NORM_18_0_4": {
+    "id": "NORM_18_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1620849600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_416_zumama"]
+      }
+    ]
+  },
+  "LIMITED_18_0_3": {
+    "id": "LIMITED_18_0_3",
+    "name": "深悼",
+    "type": "fes",
+    "open": 1619852400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1012_skadi2", "char_003_kalts"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_475_akafyu"]
+      }
+    ]
+  },
+  "NORM_18_0_2": {
+    "id": "NORM_18_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1619640000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_264_f12yin"]
+      }
+    ]
+  },
+  "NORM_18_0_1": {
+    "id": "NORM_18_0_1",
+    "name": "沙海过客",
+    "type": "single",
+    "open": 1618459200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr"]
+      }
+    ]
+  },
+  "NORM_17_0_5": {
+    "id": "NORM_17_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1618430400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_311_mudrok"]
+      }
+    ]
+  },
+  "NORM_17_0_4": {
+    "id": "NORM_17_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1617220800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_423_blemsh"]
+      }
+    ]
+  },
+  "NORM_17_0_3": {
+    "id": "NORM_17_0_3",
+    "name": "往日幻象",
+    "type": "rerun",
+    "open": 1617091200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom"]
+      }
+    ]
+  },
+  "NORM_17_0_2": {
+    "id": "NORM_17_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1616011200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber", "char_291_aglina"]
+      }
+    ]
+  },
+  "LINKAGE_17_0_1": {
+    "id": "LINKAGE_17_0_1",
+    "name": "进攻·防守·战术交汇",
+    "type": "limited",
+    "open": 1615262400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_456_ash"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_457_blitz", "char_458_rfrost"]
+      }
+    ]
+  },
+  "NORM_16_0_6": {
+    "id": "NORM_16_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1614801600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_350_surtr"]
+      }
+    ]
+  },
+  "NORM_16_0_5": {
+    "id": "NORM_16_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1613592000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_416_zumama"]
+      }
+    ]
+  },
+  "LIMITED_16_0_4": {
+    "id": "LIMITED_16_0_4",
+    "name": "月隐晦明",
+    "type": "spring",
+    "open": 1612512000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2015_dusk", "char_362_saga"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_455_nothin"]
+      }
+    ]
+  },
+  "NORM_16_0_3": {
+    "id": "NORM_16_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1612382400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma", "char_293_thorns"]
+      }
+    ]
+  },
+  "NORM_16_0_2": {
+    "id": "NORM_16_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1611172800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_112_siege"]
+      }
+    ]
+  },
+  "LIMITED_16_0_1": {
+    "id": "LIMITED_16_0_1",
+    "name": "地生五金",
+    "type": "spring",
+    "open": 1611028800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2014_nian", "char_225_haak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau"]
+      }
+    ]
+  },
+  "NORM_15_0_4": {
+    "id": "NORM_15_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1609963200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_147_shining"]
+      }
+    ]
+  },
+  "NORM_15_0_3": {
+    "id": "NORM_15_0_3",
+    "name": "麦穗与赞美诗",
+    "type": "single",
+    "open": 1609833600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_332_archet"]
+      }
+    ]
+  },
+  "NORM_15_0_2": {
+    "id": "NORM_15_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1608753600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_202_demkni"]
+      }
+    ]
+  },
+  "NORM_15_0_1": {
+    "id": "NORM_15_0_1",
+    "name": "自由的囚徒",
+    "type": "single",
+    "open": 1608177600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_264_f12yin"]
+      }
+    ]
+  },
+  "NORM_14_0_6": {
+    "id": "NORM_14_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1607544000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_358_lisa"]
+      }
+    ]
+  },
+  "NORM_14_0_5": {
+    "id": "NORM_14_0_5",
+    "name": "锁与匙的守卫者",
+    "type": "rerun",
+    "open": 1606809600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma"]
+      }
+    ]
+  },
+  "NORM_14_0_4": {
+    "id": "NORM_14_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1606334400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_291_aglina"]
+      }
+    ]
+  },
+  "NORM_14_0_3": {
+    "id": "NORM_14_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1605427200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_136_hsguma", "char_2013_cerber", "char_222_bpipe"]
+      }
+    ]
+  },
+  "NORM_14_0_2": {
+    "id": "NORM_14_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1605124800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_197_poca"]
+      }
+    ]
+  },
+  "LIMITED_14_0_1": {
+    "id": "LIMITED_14_0_1",
+    "name": "勿忘我",
+    "type": "fes",
+    "open": 1604203200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_391_rosmon", "char_311_mudrok"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_436_whispr"]
+      }
+    ]
+  },
+  "NORM_13_0_6": {
+    "id": "NORM_13_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1603915200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan", "char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_13_0_5": {
+    "id": "NORM_13_0_5",
+    "name": "瑕光微明",
+    "type": "single",
+    "open": 1602748800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh"]
+      }
+    ]
+  },
+  "NORM_13_0_4": {
+    "id": "NORM_13_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1602705600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_250_phatom"]
+      }
+    ]
+  },
+  "NORM_13_0_3": {
+    "id": "NORM_13_0_3",
+    "name": "搅动潮汐之剑",
+    "type": "rerun",
+    "open": 1601539200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_137_brownb", "char_236_rope"]
+      }
+    ]
+  },
+  "NORM_13_0_2": {
+    "id": "NORM_13_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1601496000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_400_weedy"]
+      }
+    ]
+  },
+  "NORM_13_0_1": {
+    "id": "NORM_13_0_1",
+    "name": "无拘熔火",
+    "type": "single",
+    "open": 1600920000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_350_surtr"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_365_aprl"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_271_spikes"]
+      }
+    ]
+  },
+  "NORM_12_0_5": {
+    "id": "NORM_12_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1600286400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_134_ifrit"]
+      }
+    ]
+  },
+  "NORM_12_0_4": {
+    "id": "NORM_12_0_4",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "rerun",
+    "open": 1599552000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      }
+    ]
+  },
+  "NORM_12_0_3": {
+    "id": "NORM_12_0_3",
+    "name": "不羁逆流",
+    "type": "rerun",
+    "open": 1599552000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns"]
+      }
+    ]
+  },
+  "NORM_12_0_2": {
+    "id": "NORM_12_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1599076800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_017_huang"]
+      }
+    ]
+  },
+  "NORM_12_0_1": {
+    "id": "NORM_12_0_1",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "single",
+    "open": 1598342400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_415_flint"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_366_acdrop"]
+      }
+    ]
+  },
+  "NORM_11_0_6": {
+    "id": "NORM_11_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1597867200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_2013_cerber"]
+      }
+    ]
+  },
+  "NORM_11_0_5": {
+    "id": "NORM_11_0_5",
+    "name": "不羁逆流",
+    "type": "single",
+    "open": 1597132800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_218_cuttle"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_272_strong"]
+      }
+    ]
+  },
+  "NORM_11_0_4": {
+    "id": "NORM_11_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1596657600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_263_skadi"]
+      }
+    ]
+  },
+  "NORM_11_0_3": {
+    "id": "NORM_11_0_3",
+    "name": "流沙涡旋",
+    "type": "single",
+    "open": 1595923200,
+    "pickup": [
+      {
+        "rarity": 5,
+        "chars": ["char_344_beewax", "char_349_chiave"]
+      }
+    ]
+  },
+  "NORM_11_0_2": {
+    "id": "NORM_11_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1595448000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_222_bpipe"]
+      }
+    ]
+  },
+  "NORM_11_0_1": {
+    "id": "NORM_11_0_1",
+    "name": "君影轻灵",
+    "type": "single",
+    "open": 1594267200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_294_ayer"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_328_cammou"]
+      }
+    ]
+  },
+  "NORM_10_0_5": {
+    "id": "NORM_10_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1594238400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_213_mostma"]
+      }
+    ]
+  },
+  "NORM_10_0_4": {
+    "id": "NORM_10_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1593028800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_103_angel"]
+      }
+    ]
+  },
+  "NORM_10_0_3": {
+    "id": "NORM_10_0_3",
+    "name": "雪落晨心",
+    "type": "single",
+    "open": 1592467200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_197_poca"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_373_lionhd"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_258_podego"]
+      }
+    ]
+  },
+  "NORM_10_0_2": {
+    "id": "NORM_10_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1591819200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_248_mgllan"]
+      }
+    ]
+  },
+  "NORM_10_0_1": {
+    "id": "NORM_10_0_1",
+    "name": "雾漫荒林",
+    "type": "single",
+    "open": 1591070400,
+    "pickup": [
+      {
+        "rarity": 5,
+        "chars": ["char_378_asbest", "char_343_tknogi"]
+      }
+    ]
+  },
+  "NORM_9_0_6": {
+    "id": "NORM_9_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1590609600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_225_haak"]
+      }
+    ]
+  },
+  "NORM_9_0_5": {
+    "id": "NORM_9_0_5",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1589529600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_202_demkni", "char_213_mostma", "char_188_helage"]
+      }
+    ]
+  },
+  "NORM_9_0_4": {
+    "id": "NORM_9_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1589400000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_340_shwaz"]
+      }
+    ]
+  },
+  "LIMITED_9_0_3": {
+    "id": "LIMITED_9_0_3",
+    "name": "遗愿焰火",
+    "type": "fes",
+    "open": 1588316400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_113_cqbw", "char_400_weedy"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_401_elysm"]
+      }
+    ]
+  },
+  "NORM_9_0_2": {
+    "id": "NORM_9_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1588190400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_291_aglina"]
+      }
+    ]
+  },
+  "NORM_9_0_1": {
+    "id": "NORM_9_0_1",
+    "name": "往日幻象",
+    "type": "single",
+    "open": 1587441600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_254_vodfox"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_301_cutter"]
+      }
+    ]
+  },
+  "NORM_8_0_4": {
+    "id": "NORM_8_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1586980800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_010_chen"]
+      }
+    ]
+  },
+  "NORM_8_0_3": {
+    "id": "NORM_8_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1585771200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_213_mostma"]
+      }
+    ]
+  },
+  "NORM_8_0_2": {
+    "id": "NORM_8_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1584561600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_179_cgbird"]
+      }
+    ]
+  },
+  "NORM_8_0_1": {
+    "id": "NORM_8_0_1",
+    "name": "草垛上的风笛声",
+    "type": "single",
+    "open": 1584432000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_379_sesa"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_337_utage"]
+      }
+    ]
+  },
+  "NORM_7_0_2": {
+    "id": "NORM_7_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1583352000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_172_svrash"]
+      }
+    ]
+  },
+  "NORM_7_0_1": {
+    "id": "NORM_7_0_1",
+    "name": "百种兵器",
+    "type": "single",
+    "open": 1582617600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_306_leizi"]
+      }
+    ]
+  },
+  "NORM_6_0_7": {
+    "id": "NORM_6_0_7",
+    "name": "",
+    "type": "standard",
+    "open": 1582142400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_248_mgllan"]
+      }
+    ]
+  },
+  "NORM_6_0_6": {
+    "id": "NORM_6_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1580932800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_263_skadi"]
+      }
+    ]
+  },
+  "NORM_6_0_5": {
+    "id": "NORM_6_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1579723200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_010_chen"]
+      }
+    ]
+  },
+  "NORM_6_0_4": {
+    "id": "NORM_6_0_4",
+    "name": "地生五金",
+    "type": "limited",
+    "open": 1579161600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2014_nian", "char_225_haak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau"]
+      }
+    ]
+  },
+  "NORM_6_0_3": {
+    "id": "NORM_6_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1578513600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_188_helage"]
+      }
+    ]
+  },
+  "NORM_6_0_2": {
+    "id": "NORM_6_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1577304000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_172_svrash"]
+      }
+    ]
+  },
+  "NORM_6_0_1": {
+    "id": "NORM_6_0_1",
+    "name": "热情，膨胀，爆发 !",
+    "type": "single",
+    "open": 1577174400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_367_swllow"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_302_glaze"]
+      }
+    ]
+  },
+  "NORM_5_0_4": {
+    "id": "NORM_5_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1576094400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_340_shwaz"]
+      }
+    ]
+  },
+  "NORM_5_0_3": {
+    "id": "NORM_5_0_3",
+    "name": "凝电之钻",
+    "type": "single",
+    "open": 1575964800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_261_sddrag", "char_356_broca"]
+      }
+    ]
+  },
+  "NORM_5_0_2": {
+    "id": "NORM_5_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1574884800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_202_demkni"]
+      }
+    ]
+  },
+  "NORM_5_0_1": {
+    "id": "NORM_5_0_1",
+    "name": "锁与匙的守卫者",
+    "type": "single",
+    "open": 1574150400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_133_mm"]
+      }
+    ]
+  },
+  "NORM_4_0_5": {
+    "id": "NORM_4_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1573675200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_112_siege"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_243_waaifu"]
+      }
+    ]
+  },
+  "NORM_4_0_4": {
+    "id": "NORM_4_0_4",
+    "name": "联合行动",
+    "type": "joint",
+    "open": 1572552000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_172_svrash", "char_180_amgoat", "char_291_aglina"]
+      }
+    ]
+  },
+  "NORM_4_0_3": {
+    "id": "NORM_4_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1572465600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_179_cgbird"]
+      }
+    ]
+  },
+  "NORM_4_0_2": {
+    "id": "NORM_4_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1571256000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_263_skadi"]
+      }
+    ]
+  },
+  "NORM_4_0_1": {
+    "id": "NORM_4_0_1",
+    "name": "冰封原野",
+    "type": "single",
+    "open": 1571126400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_279_excu"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_190_clour"]
+      }
+    ]
+  },
+  "NORM_3_0_6": {
+    "id": "NORM_3_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1570046400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_134_ifrit"]
+      }
+    ]
+  },
+  "NORM_3_0_5": {
+    "id": "NORM_3_0_5",
+    "name": "火舞之人",
+    "type": "single",
+    "open": 1569916800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_3_0_4": {
+    "id": "NORM_3_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1568836800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_103_angel"]
+      }
+    ]
+  },
+  "NORM_3_0_3": {
+    "id": "NORM_3_0_3",
+    "name": "久铸尘铁",
+    "type": "single",
+    "open": 1568102400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_151_myrtle"]
+      }
+    ]
+  },
+  "NORM_3_0_2": {
+    "id": "NORM_3_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1567627200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_136_hsguma"]
+      }
+    ]
+  },
+  "NORM_3_0_1": {
+    "id": "NORM_3_0_1",
+    "name": "深夏的守夜人",
+    "type": "single",
+    "open": 1566892800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_298_susuro"]
+      }
+    ]
+  },
+  "NORM_2_0_6": {
+    "id": "NORM_2_0_6",
+    "name": "",
+    "type": "standard",
+    "open": 1566417600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_263_skadi"]
+      }
+    ]
+  },
+  "NORM_2_0_5": {
+    "id": "NORM_2_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1565208000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_103_angel"]
+      }
+    ]
+  },
+  "NORM_2_0_4": {
+    "id": "NORM_2_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1563998400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_2_0_3": {
+    "id": "NORM_2_0_3",
+    "name": "龙门特别行动专员寻访",
+    "type": "single",
+    "open": 1563782400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma"]
+      }
+    ]
+  },
+  "NORM_2_0_2": {
+    "id": "NORM_2_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1562788800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_291_aglina"]
+      }
+    ]
+  },
+  "NORM_2_0_1": {
+    "id": "NORM_2_0_1",
+    "name": "鞘中赤红",
+    "type": "single",
+    "open": 1562659200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_253_greyy"]
+      }
+    ]
+  },
+  "NORM_1_0_3": {
+    "id": "NORM_1_0_3",
+    "name": "",
+    "type": "standard",
+    "open": 1561579200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_172_svrash"]
+      }
+    ]
+  },
+  "NORM_1_0_2": {
+    "id": "NORM_1_0_2",
+    "name": "",
+    "type": "standard",
+    "open": 1560369600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_147_shining"]
+      }
+    ]
+  },
+  "NORM_0_1_4": {
+    "id": "NORM_0_1_4",
+    "name": "",
+    "type": "standard",
+    "open": 1559181600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_1_0_1": {
+    "id": "NORM_1_0_1",
+    "name": "搅动潮汐之剑",
+    "type": "single",
+    "open": 1559181600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_137_brownb", "char_236_rope"]
+      }
+    ]
+  },
+  "NORM_0_1_3": {
+    "id": "NORM_0_1_3",
+    "name": "银灰色的荣耀",
+    "type": "single",
+    "open": 1558576800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_199_yak"]
+      }
+    ]
+  },
+  "NORM_0_1_2": {
+    "id": "NORM_0_1_2",
+    "name": "",
+    "type": "standard",
+    "open": 1557950400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_112_siege"]
+      }
+    ]
+  },
+  "NORM_0_1_1": {
+    "id": "NORM_0_1_1",
+    "name": "",
+    "type": "standard",
+    "open": 1556589600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_103_angel"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "char_002_amiya": [
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_1001_amiya2"
+    },
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "MEDIC",
+      "char": "char_1037_amiya3"
+    }
+  ],
+  "char_1001_amiya2": [
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "CASTER",
+      "char": "char_002_amiya"
+    },
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "MEDIC",
+      "char": "char_1037_amiya3"
+    }
+  ],
+  "char_1037_amiya3": [
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "CASTER",
+      "char": "char_002_amiya"
+    },
+    {
+      "elite": 2,
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_1001_amiya2"
+    }
+  ],
+  "char_1011_lava2": [
+    {
+      "rarity": 3,
+      "profession": "CASTER",
+      "char": "char_121_lava"
+    }
+  ],
+  "char_121_lava": [
+    {
+      "rarity": 5,
+      "profession": "CASTER",
+      "char": "char_1011_lava2"
+    }
+  ],
+  "char_1012_skadi2": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_263_skadi"
+    }
+  ],
+  "char_263_skadi": [
+    {
+      "rarity": 6,
+      "profession": "SUPPORT",
+      "char": "char_1012_skadi2"
+    }
+  ],
+  "char_1013_chen2": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_010_chen"
+    }
+  ],
+  "char_010_chen": [
+    {
+      "rarity": 6,
+      "profession": "SNIPER",
+      "char": "char_1013_chen2"
+    }
+  ],
+  "char_1014_nearl2": [
+    {
+      "rarity": 5,
+      "profession": "TANK",
+      "char": "char_148_nearl"
+    }
+  ],
+  "char_148_nearl": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_1014_nearl2"
+    }
+  ],
+  "char_1021_kroos2": [
+    {
+      "rarity": 3,
+      "profession": "SNIPER",
+      "char": "char_124_kroos"
+    }
+  ],
+  "char_124_kroos": [
+    {
+      "rarity": 5,
+      "profession": "SNIPER",
+      "char": "char_1021_kroos2"
+    }
+  ],
+  "char_1023_ghost2": [
+    {
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_143_ghost"
+    }
+  ],
+  "char_143_ghost": [
+    {
+      "rarity": 6,
+      "profession": "SPECIAL",
+      "char": "char_1023_ghost2"
+    }
+  ],
+  "char_1024_hbisc2": [
+    {
+      "rarity": 3,
+      "profession": "MEDIC",
+      "char": "char_120_hibisc"
+    }
+  ],
+  "char_120_hibisc": [
+    {
+      "rarity": 5,
+      "profession": "MEDIC",
+      "char": "char_1024_hbisc2"
+    }
+  ],
+  "char_1027_greyy2": [
+    {
+      "rarity": 4,
+      "profession": "CASTER",
+      "char": "char_253_greyy"
+    }
+  ],
+  "char_253_greyy": [
+    {
+      "rarity": 5,
+      "profession": "SNIPER",
+      "char": "char_1027_greyy2"
+    }
+  ],
+  "char_1026_gvial2": [
+    {
+      "rarity": 4,
+      "profession": "MEDIC",
+      "char": "char_187_ccheal"
+    }
+  ],
+  "char_187_ccheal": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_1026_gvial2"
+    }
+  ],
+  "char_1028_texas2": [
+    {
+      "rarity": 5,
+      "profession": "PIONEER",
+      "char": "char_102_texas"
+    }
+  ],
+  "char_102_texas": [
+    {
+      "rarity": 6,
+      "profession": "SPECIAL",
+      "char": "char_1028_texas2"
+    }
+  ],
+  "char_1020_reed2": [
+    {
+      "rarity": 5,
+      "profession": "PIONEER",
+      "char": "char_261_sddrag"
+    }
+  ],
+  "char_261_sddrag": [
+    {
+      "rarity": 6,
+      "profession": "MEDIC",
+      "char": "char_1020_reed2"
+    }
+  ],
+  "char_502_nblade": [
+    {
+      "rarity": 6,
+      "profession": "SPECIAL",
+      "char": "char_1029_yato2"
+    }
+  ],
+  "char_500_noirc": [
+    {
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_1030_noirc2"
+    }
+  ],
+  "char_1031_slent2": [
+    {
+      "rarity": 5,
+      "profession": "MEDIC",
+      "char": "char_108_silent"
+    }
+  ],
+  "char_108_silent": [
+    {
+      "rarity": 6,
+      "profession": "SUPPORT",
+      "char": "char_1031_slent2"
+    }
+  ],
+  "char_1032_excu2": [
+    {
+      "rarity": 5,
+      "profession": "SNIPER",
+      "char": "char_279_excu"
+    }
+  ],
+  "char_279_excu": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_1032_excu2"
+    }
+  ],
+  "char_1016_agoat2": [
+    {
+      "rarity": 6,
+      "profession": "CASTER",
+      "char": "char_180_amgoat"
+    }
+  ],
+  "char_180_amgoat": [
+    {
+      "rarity": 6,
+      "profession": "MEDIC",
+      "char": "char_1016_agoat2"
+    }
+  ],
+  "char_1033_swire2": [
+    {
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_308_swire"
+    }
+  ],
+  "char_308_swire": [
+    {
+      "rarity": 6,
+      "profession": "SPECIAL",
+      "char": "char_1033_swire2"
+    }
+  ],
+  "char_1034_jesca2": [
+    {
+      "rarity": 4,
+      "profession": "SNIPER",
+      "char": "char_235_jesica"
+    }
+  ],
+  "char_235_jesica": [
+    {
+      "rarity": 6,
+      "profession": "TANK",
+      "char": "char_1034_jesca2"
+    }
+  ],
+  "char_1036_fang2": [
+    {
+      "rarity": 3,
+      "profession": "PIONEER",
+      "char": "char_123_fang"
+    }
+  ],
+  "char_123_fang": [
+    {
+      "rarity": 5,
+      "profession": "PIONEER",
+      "char": "char_1036_fang2"
+    }
+  ],
+  "char_1035_wisdel": [
+    {
+      "rarity": 6,
+      "profession": "SNIPER",
+      "char": "char_113_cqbw"
+    }
+  ],
+  "char_113_cqbw": [
+    {
+      "rarity": 6,
+      "profession": "SNIPER",
+      "char": "char_1035_wisdel"
+    }
+  ],
+  "char_1019_siege2": [
+    {
+      "rarity": 6,
+      "profession": "PIONEER",
+      "char": "char_112_siege"
+    }
+  ],
+  "char_112_siege": [
+    {
+      "rarity": 6,
+      "profession": "WARRIOR",
+      "char": "char_1019_siege2"
+    }
+  ],
+  "char_1038_whitw2": [
+    {
+      "rarity": 5,
+      "profession": "WARRIOR",
+      "char": "char_140_whitew"
+    }
+  ],
+  "char_140_whitew": [
+    {
+      "rarity": 6,
+      "profession": "CASTER",
+      "char": "char_1038_whitw2"
+    }
+  ]
+}

@@ -1,12 +1,13 @@
 import { fileURLToPath, URL } from 'node:url'
 
 import { defineConfig } from 'vite'
+import path from 'path'
 import vue from '@vitejs/plugin-vue'
 import vueJsx from '@vitejs/plugin-vue-jsx'
 import vueDevTools from 'vite-plugin-vue-devtools'
-import AutoImport from 'unplugin-auto-import/vite'
-import Components from 'unplugin-vue-components/vite'
-import { ElementPlusResolver } from 'unplugin-vue-components/resolvers'
+import vuetify from 'vite-plugin-vuetify'
+import { createSvgIconsPlugin } from 'vite-plugin-svg-icons'
+import Unocss from 'unocss/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
@@ -15,21 +16,14 @@ export default defineConfig({
     vue(),
     vueJsx(),
     vueDevTools(),
-    AutoImport({
-      // Auto import functions from Vue, e.g. ref, reactive, toRef...
-      // 自动导入 Vue 相关函数，如：ref, reactive, toRef 等
-      imports: ['vue'],
-
-      // Auto import functions from Element Plus, e.g. ElMessage, ElMessageBox... (with style)
-      // 自动导入 Element Plus 相关函数，如：ElMessage, ElMessageBox... (带样式)
-      resolvers: [ElementPlusResolver()]
-    }),
-    Components({
-      resolvers: [
-        // Auto register Element Plus components
-        // 自动导入 Element Plus 组件
-        ElementPlusResolver()
-      ]
+    Unocss(),
+    vuetify({ autoImport: true }),
+    createSvgIconsPlugin({
+      // 指定需要缓存的图标文件夹
+      iconDirs: [path.resolve(process.cwd(), 'src/assets/svg')],
+      // 指定symbolId格式
+      symbolId: '[name]',
+      customDomId: '__svg__icons__dom__'
     })
   ],
   resolve: {

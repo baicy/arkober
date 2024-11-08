@@ -1,6 +1,13 @@
-<script>
-import { dayjs } from 'element-plus'
+<script setup>
+import { ref, onMounted, onBeforeUnmount } from 'vue'
+import dayjs from 'dayjs'
 import { duration } from '@/utils'
+import SidestoryCard from './activity/SidestoryCard.vue'
+import PoolCard from './activity/PoolCard.vue'
+import NosanCard from './activity/NosanCard.vue'
+import DailyCard from './countdown/DailyCard.vue'
+import LiveCard from './countdown/LiveCard.vue'
+import UpdateCard from './countdown/UpdateCard.vue'
 
 const statusTypes = {
   battle: '作战',
@@ -8,107 +15,109 @@ const statusTypes = {
 }
 
 const activityTypes = ['sidestory', 'pool', 'nosan', 'tower']
-const countdownTypes = ['daily', 'live']
+const countdownTypes = ['daily', 'live', 'update']
 
-export default {
-  props: {
-    activity: Object
-  },
-  setup(props) {
-    const { open, close, re, type, poolType, dailyType, forecast, status } = props.activity
+const props = defineProps({ activity: Object })
 
-    const intervalId = ref(null)
-    const remain = ref(0)
-    const remainText = ref('14天 12:00:00')
-    const progress = ref(0)
+const { open, close, re, type, poolType, dailyType, forecast, status } = props.activity
 
-    const tags = []
-    type === 'sidestory' && tags.push('SideStory')
-    poolType === 'single' && tags.push('标准寻访')
-    poolType === 'standard' && tags.push('标准寻访')
-    poolType === 'classic' && tags.push('中坚寻访')
-    re && tags.push('复刻')
-    type === 'daily' && dailyType === 'day' && tags.push('每日更新')
-    type === 'daily' && dailyType === 'week' && tags.push('每周更新')
-    type === 'daily' && dailyType === 'month' && tags.push('每月更新')
-    type === 'live' && tags.push('直播')
-    type === 'tower' && tags.push('保全派驻')
-    forecast && tags.push('预计')
-    !tags.length && tags.push(props.activity.name)
+const intervalId = ref(null)
+const remain = ref(0)
+const remainText = ref('')
+const progress = ref(0)
+const target = ref(close.format('YYYY-MM-DD HH:mm:ss'))
 
-    const coming = type === 'live' ? true : false
+const tags = []
+type === 'sidestory' && tags.push('SideStory')
+poolType === 'single' && tags.push('标准寻访')
+poolType === 'standard' && tags.push('标准寻访')
+poolType === 'classic' && tags.push('中坚寻访')
+re && tags.push('复刻')
+type === 'daily' && dailyType === 'day' && tags.push('每日更新')
+type === 'daily' && dailyType === 'week' && tags.push('每周更新')
+type === 'daily' && dailyType === 'month' && tags.push('每月更新')
+type === 'tower' && tags.push('保全派驻')
+type === 'live' && tags.push('直播')
+type === 'update' && tags.push('更新')
+forecast && tags.push('预计')
+!tags.length && tags.push(props.activity.name)
 
-    const statusText = statusTypes[status] || ''
+const coming = type === 'live' ? true : false
 
-    onMounted(() => {
-      intervalId.value = setInterval(() => {
-        const now = dayjs()
-        if (activityTypes.includes(type)) {
-          const total = close.diff(open, 'second')
-          const pass = now.diff(open, 'second')
-          remain.value = total - pass
-          remainText.value = duration(remain.value)
-          progress.value = (pass / total) * 100
-        }
-        if (countdownTypes.includes(type)) {
-          remain.value = close.diff(now, 'second')
-          remainText.value = duration(remain.value)
-        }
-      }, 1000)
-    })
-    onBeforeUnmount(() => {
-      clearInterval(intervalId.value)
-    })
+const statusText = statusTypes[status] || ''
 
-    return { remain, remainText, progress, tags, statusText, coming }
-  }
-}
+onMounted(() => {
+  intervalId.value = setInterval(() => {
+    const now = dayjs()
+    if (activityTypes.includes(type)) {
+      const total = close.diff(open, 'second')
+      const pass = now.diff(open, 'second')
+      remain.value = total - pass
+      remainText.value = duration(remain.value)
+      progress.value = (pass / total) * 100
+    }
+    if (countdownTypes.includes(type)) {
+      remain.value = close.diff(now, 'second')
+      remainText.value = duration(remain.value)
+    }
+  }, 1000)
+})
+onBeforeUnmount(() => {
+  clearInterval(intervalId.value)
+})
 </script>
 <template>
-  <el-row>
-    <el-col :span="24">
-      <el-card shadow="hover">
-        <div class="flex">
-          <el-space direction="vertical" alignment="flex-start">
-            <el-tag v-for="tag in tags" :key="tag" effect="dark">{{ tag }}</el-tag>
-          </el-space>
+  <v-row dense>
+    <v-col :cols="12">
+      <v-sheet elevation="6" :min-height="60" class="position-relative" ref="card">
+        <v-chip
+          v-for="tag in tags"
+          :key="tag"
+          color="primary"
+          variant="flat"
+          size="small"
+          class="position-absolute mr-1"
+        >
+          {{ tag }}
+        </v-chip>
+        <p v-if="activity.name" class="position-absolute top-0 right-0 text-h5 activity-name">
+          {{ activity.name }}
+        </p>
+        <div class="pt-9 pb-4 pl-4">
           <sidestory-card v-if="activity.type === 'sidestory'" :sidestory="activity" />
           <pool-card v-if="activity.type === 'pool'" :pool="activity" />
           <nosan-card v-if="activity.type === 'nosan'" :activity="activity" />
           <daily-card v-if="['daily', 'tower'].includes(activity.type)" :work="activity" />
           <live-card v-if="activity.type === 'live'" :live="activity" />
-          <el-tag
-            class="status-label"
-            effect="dark"
-            :type="remain < 3600 * 24 ? (coming ? 'success' : 'danger') : 'primary'"
-          >
-            {{ `${statusText}剩余${remainText}` }}
-          </el-tag>
+          <update-card v-if="activity.type === 'update'" :update="activity" />
         </div>
-      </el-card>
-    </el-col>
-    <el-col :span="24">
-      <el-progress
-        v-if="progress"
-        :percentage="progress"
-        :stroke-width="3"
-        :text-inside="true"
-        :status="remain < 3600 * 24 ? 'exception' : ''"
-      />
-    </el-col>
-  </el-row>
+        <v-chip
+          v-if="remainText"
+          class="position-absolute right-0 bottom-0 cursor-default"
+          :class="{ 'mb-3': progress }"
+          variant="flat"
+          size="small"
+          :color="remain < 3600 * 24 ? (coming ? 'success' : 'error') : 'primary'"
+        >
+          {{ `${statusText}剩余${remainText}` }}
+          <v-tooltip activator="parent" location="bottom">{{ target }}</v-tooltip>
+        </v-chip>
+        <v-progress-linear
+          class="position-absolute bottom-0"
+          :style="{ top: 'inherit' }"
+          v-if="progress"
+          :color="remain < 3600 * 24 ? 'error' : 'primary'"
+          height="5"
+          :model-value="progress"
+        />
+      </v-sheet>
+    </v-col>
+  </v-row>
 </template>
 
 <style scoped>
-.flex {
-  display: flex;
-  justify-content: space-between;
-  gap: 0px 20px;
-}
-.status-label {
-  align-self: end;
-}
-:deep(.card-content) {
-  flex-grow: 1;
+.activity-name {
+  text-shadow: 2px -2px #bdbdbe;
+  letter-spacing: 5px !important;
 }
 </style>

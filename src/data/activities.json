@@ -1,11 +1,43 @@
 {
+  "act29sre": {
+    "id": "act29sre",
+    "name": "崔林特尔梅之金·复刻",
+    "type": "SIDESTORYRE",
+    "color": [],
+    "startTime": 1732521600,
+    "endTime": 1732521600,
+    "reward": {
+      "type": "char",
+      "id": "char_4011_lessng"
+    },
+    "rewardEndTime": 1732521600,
+    "isReplicate": false
+  },
+  "act1vautochess": {
+    "id": "act1vautochess",
+    "name": "卫戍协议",
+    "type": "AUTOCHESS_VERIFY1",
+    "color": ["#00ffc4"],
+    "startTime": 1731657600,
+    "endTime": 1732824000,
+    "reward": {
+      "type": "skin",
+      "id": "char_499_kaitou@epoque#37"
+    },
+    "rewardEndTime": 1733083199,
+    "isReplicate": false
+  },
   "act46sign": {
     "id": "act46sign",
     "name": "感谢庆典限时签到",
     "type": "CHECKIN_ONLY",
     "color": ["#a41836"],
     "startTime": 1730448000,
-    "endTime": 1731614399,
+    "endTime": 1731614400,
+    "reward": {
+      "type": "skin",
+      "id": "char_298_susuro@winter#4"
+    },
     "rewardEndTime": 1731614399,
     "isReplicate": false
   },
@@ -16,6 +48,11 @@
     "color": ["#a41836"],
     "startTime": 1730448000,
     "endTime": 1732219200,
+    "reward": {
+      "type": "char",
+      "id": "char_1502_crosly"
+    },
+    "drop": ["MTL_SL_MANGANESE1", "MTL_SL_RMA7012", "MTL_SL_CCF"],
     "rewardEndTime": 1732824000,
     "isReplicate": false
   },

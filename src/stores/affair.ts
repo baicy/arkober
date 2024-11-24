@@ -37,9 +37,10 @@ export const useAffairStore = defineStore('affair', () => {
   }
 
   function addActivity(origin: Activity) {
-    if (['CHECKIN_ONLY', 'LOGIN_ONLY', 'PRAY_ONLY'].includes(origin.type)) {
+    if (!['SIDESTORY'].includes(origin.type)) {
       return {} as ActivityAffair
     }
+
     const now = dayjs().unix()
     const {
       id,
@@ -94,7 +95,7 @@ export const useAffairStore = defineStore('affair', () => {
     affairs.future = []
     const now = dayjs().unix()
     for (const i in activities) {
-      if (now - activities[i].rewardEndTime > 0) {
+      if (dayjs().diff(dayjs.unix(activities[i].startTime), 'day') > 50) {
         break
       }
       add('activity', activities[i])

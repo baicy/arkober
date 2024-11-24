@@ -1,6 +1,57 @@
 {
-  "UNION_56_0_1": {
-    "id": "UNION_56_0_1",
+  "SINGLE_57_0_6": {
+    "id": "SINGLE_57_0_6",
+    "name": "游邦者",
+    "type": "single",
+    "open": 1734595200,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4116_blkkgt"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_194_leto", "char_343_tknogi"]
+      }
+    ],
+    "color": ["#e7952f"]
+  },
+  "SINGLE_57_0_5": {
+    "id": "SINGLE_57_0_5",
+    "name": "不知道",
+    "type": "single",
+    "open": 1733385600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["异格棘刺"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_493_firwhl", "char_431_ashlok", "char_497_ctable"]
+      }
+    ],
+    "color": ["#ffa905"]
+  },
+  "NORM_56_0_4": {
+    "id": "NORM_56_0_4",
+    "name": "",
+    "type": "standard",
+    "open": 1732132800,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_206_gnosis", "char_2012_typhon"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_493_firwhl", "char_431_ashlok", "char_497_ctable"]
+      }
+    ],
+    "color": ["#976fcf"]
+  },
+  "NORM_56_0_3": {
+    "id": "NORM_56_0_3",
     "name": "联合行动",
     "type": "joint",
     "open": 1731657600,
@@ -18,6 +69,61 @@
           "char_421_crow",
           "char_4140_lasher",
           "char_488_buildr"
+        ]
+      }
+    ],
+    "color": ["#901027"]
+  },
+  "FESCLASSIC_56_0_1": {
+    "id": "FESCLASSIC_56_0_1",
+    "name": "中坚甄选",
+    "type": "classic",
+    "open": 1731528000,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_112_siege",
+          "char_291_aglina",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_263_skadi",
+          "char_188_helage",
+          "char_213_mostma",
+          "char_2013_cerber",
+          "char_423_blemsh",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_472_pasngr"
+        ]
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_128_plosis",
+          "char_102_texas",
+          "char_106_franka",
+          "char_143_ghost",
+          "char_129_bluep",
+          "char_242_otter",
+          "char_144_red",
+          "char_201_moeshd",
+          "char_145_prove",
+          "char_195_glassb",
+          "char_164_nightm",
+          "char_326_glacus",
+          "char_243_waaifu",
+          "char_261_sddrag",
+          "char_356_broca",
+          "char_306_leizi",
+          "char_254_vodfox",
+          "char_401_elysm",
+          "char_378_asbest",
+          "char_373_lionhd",
+          "char_349_chiave",
+          "char_218_cuttle",
+          "char_415_flint",
+          "char_436_whispr"
         ]
       }
     ]
@@ -135,7 +241,8 @@
         "rarity": 5,
         "chars": ["char_487_bobb", "char_4109_baslin"]
       }
-    ]
+    ],
+    "color": ["#e0b662"]
   },
   "CLASSIC_54_0_3": {
     "id": "CLASSIC_54_0_3",
@@ -181,7 +288,8 @@
           "char_446_aroma"
         ]
       }
-    ]
+    ],
+    "color": ["#ff8a00"]
   },
   "NORM_54_0_4": {
     "id": "NORM_54_0_4",
@@ -205,7 +313,8 @@
         "rarity": 6,
         "chars": ["char_1034_jesca2"]
       }
-    ]
+    ],
+    "color": ["#ffd202"]
   },
   "CLASSIC_54_0_2": {
     "id": "CLASSIC_54_0_2",
@@ -254,7 +363,7 @@
   "LINKAGE_54_0_1": {
     "id": "LINKAGE_54_0_1",
     "name": "泰拉饭，呜呼，泰拉饭",
-    "type": "limited",
+    "type": "linkage",
     "open": 1725249600,
     "pickup": [
       {
@@ -265,7 +374,8 @@
         "rarity": 5,
         "chars": ["char_4142_laios", "char_4144_chilc"]
       }
-    ]
+    ],
+    "color": ["#f7503d"]
   },
   "NORM_53_0_3": {
     "id": "NORM_53_0_3",
@@ -337,7 +447,8 @@
         "rarity": 5,
         "chars": ["char_4140_lasher"]
       }
-    ]
+    ],
+    "color": ["#ffd140", "#d43c2b"]
   },
   "NORM_52_0_4": {
     "id": "NORM_52_0_4",
@@ -427,7 +538,8 @@
         "rarity": 6,
         "chars": ["char_4065_judge", "char_4082_qiubai", "char_4116_blkkgt", "char_4132_ascln"]
       }
-    ]
+    ],
+    "color": ["#c93650"]
   },
   "CLASSIC_52_0_1": {
     "id": "CLASSIC_52_0_1",
@@ -455,7 +567,8 @@
         "rarity": 6,
         "chars": ["char_4146_nymph"]
       }
-    ]
+    ],
+    "color": ["#c4013b"]
   },
   "NORM_51_0_5": {
     "id": "NORM_51_0_5",
@@ -495,7 +608,8 @@
         "rarity": 6,
         "chars": ["char_1032_excu2"]
       }
-    ]
+    ],
+    "color": ["#c02d3d"]
   },
   "NORM_51_0_3": {
     "id": "NORM_51_0_3",
@@ -547,7 +661,8 @@
         "rarity": 6,
         "chars": ["char_4145_ulpia"]
       }
-    ]
+    ],
+    "color": ["#bb0f47"]
   },
   "CLASSIC_50_0_3": {
     "id": "CLASSIC_50_0_3",
@@ -633,10 +748,16 @@
   },
   "NORM_50_0_3": {
     "id": "NORM_50_0_3",
-    "name": "",
-    "type": "standard",
+    "name": "联合行动",
+    "type": "joint",
     "open": 1715760000,
-    "pickup": []
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2012_typhon", "char_4082_qiubai", "char_003_kalts", "char_1020_reed2"]
+      }
+    ],
+    "color": ["#dbb07b"]
   },
   "NORM_50_0_2": {
     "id": "NORM_50_0_2",
@@ -680,7 +801,8 @@
         "rarity": 5,
         "chars": ["char_1036_fang2"]
       }
-    ]
+    ],
+    "color": ["#e71717", "#3b51a2"]
   },
   "NORM_49_0_3": {
     "id": "NORM_49_0_3",
@@ -720,7 +842,8 @@
         "rarity": 6,
         "chars": ["char_4072_ironmn", "char_4087_ines", "char_4088_hodrer"]
       }
-    ]
+    ],
+    "color": ["#c7473a"]
   },
   "SINGLE_49_0_1": {
     "id": "SINGLE_49_0_1",
@@ -736,7 +859,8 @@
         "rarity": 4,
         "chars": ["char_4130_luton"]
       }
-    ]
+    ],
+    "color": ["#914bd0"]
   },
   "NORM_48_0_6": {
     "id": "NORM_48_0_6",
@@ -776,7 +900,8 @@
         "rarity": 6,
         "chars": ["char_4055_bgsnow", "char_1034_jesca2", "char_311_mudrok", "char_472_pasngr"]
       }
-    ]
+    ],
+    "color": ["#f1812d"]
   },
   "NORM_48_0_4": {
     "id": "NORM_48_0_4",
@@ -793,7 +918,7 @@
   "LINKAGE_48_0_3": {
     "id": "LINKAGE_48_0_3",
     "name": "进攻·防守·战术交汇",
-    "type": "limited",
+    "type": "linkage",
     "open": 1711008000,
     "pickup": [
       {
@@ -804,7 +929,8 @@
         "rarity": 5,
         "chars": ["char_457_blitz", "char_458_rfrost"]
       }
-    ]
+    ],
+    "color": ["#f5c70f"]
   },
   "CLASSIC_48_0_1": {
     "id": "CLASSIC_48_0_1",
@@ -837,7 +963,7 @@
   "LINKAGE_48_0_1": {
     "id": "LINKAGE_48_0_1",
     "name": "突破，援助，任务循环",
-    "type": "limited",
+    "type": "linkage",
     "open": 1709784000,
     "pickup": [
       {
@@ -848,7 +974,8 @@
         "rarity": 5,
         "chars": ["char_4124_iana", "char_4125_rdoc"]
       }
-    ]
+    ],
+    "color": ["#cd4000"]
   },
   "CLASSIC_47_0_3": {
     "id": "CLASSIC_47_0_3",
@@ -888,7 +1015,8 @@
         "rarity": 6,
         "chars": ["char_4064_mlynar", "char_4082_qiubai", "char_1033_swire2", "char_264_f12yin"]
       }
-    ]
+    ],
+    "color": ["#967b5e"]
   },
   "FESCLASSIC_47_0_2": {
     "id": "FESCLASSIC_47_0_2",
@@ -986,7 +1114,8 @@
         "rarity": 5,
         "chars": ["char_4122_grabds"]
       }
-    ]
+    ],
+    "color": ["#dcde4f", "#446cdb"]
   },
   "NORM_45_0_9": {
     "id": "NORM_45_0_9",
@@ -1054,7 +1183,8 @@
         "rarity": 6,
         "chars": ["char_4117_ray"]
       }
-    ]
+    ],
+    "color": ["#af303b"]
   },
   "NORM_45_0_6": {
     "id": "NORM_45_0_6",
@@ -1208,8 +1338,13 @@
       {
         "rarity": 6,
         "chars": ["char_4116_blkkgt"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_194_leto", "char_343_tknogi"]
       }
-    ]
+    ],
+    "color": ["#e7952f"]
   },
   "CLASSIC_44_0_3": {
     "id": "CLASSIC_44_0_3",
@@ -1499,7 +1634,8 @@
         "rarity": 6,
         "chars": ["char_1034_jesca2"]
       }
-    ]
+    ],
+    "color": ["#ffd202"]
   },
   "NORM_41_0_5": {
     "id": "NORM_41_0_5",
@@ -2056,7 +2192,7 @@
   "LINKAGE_36_0_1": {
     "id": "LINKAGE_36_0_1",
     "name": "砺火成锋",
-    "type": "limited",
+    "type": "linkage",
     "open": 1678161600,
     "pickup": [
       {
@@ -3297,7 +3433,7 @@
   "LINKAGE_17_0_1": {
     "id": "LINKAGE_17_0_1",
     "name": "进攻·防守·战术交汇",
-    "type": "limited",
+    "type": "linkage",
     "open": 1615262400,
     "pickup": [
       {
@@ -3308,7 +3444,8 @@
         "rarity": 5,
         "chars": ["char_457_blitz", "char_458_rfrost"]
       }
-    ]
+    ],
+    "color": ["#f5c70f"]
   },
   "NORM_16_0_6": {
     "id": "NORM_16_0_6",
@@ -4029,7 +4166,7 @@
   "NORM_6_0_4": {
     "id": "NORM_6_0_4",
     "name": "地生五金",
-    "type": "limited",
+    "type": "spring",
     "open": 1579161600,
     "pickup": [
       {

@@ -26,7 +26,7 @@ const msg = computed(() => {
     </v-navigation-drawer>
     <v-main height="calc(100vh)" class="overflow-auto">
       <router-view v-slot="{ Component }">
-        <keep-alive :exclude="['OperatorView']">
+        <keep-alive :exclude="['OperatorPage']">
           <component :is="Component" />
         </keep-alive>
       </router-view>

@@ -33,6 +33,39 @@
     ],
     "color": ["#ffa905"]
   },
+  "NORM_56_0_5": {
+    "id": "NORM_56_0_5",
+    "name": "",
+    "type": "standard",
+    "open": 1733342400,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1020_reed2", "char_4117_ray"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
+      }
+    ],
+    "color": ["#cb4e56"]
+  },
+  "CLASSIC_56_0_2": {
+    "id": "CLASSIC_56_0_2",
+    "name": "",
+    "type": "classic",
+    "open": 1732737600,
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns", "char_350_surtr"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_274_astesi", "char_107_liskam", "char_365_aprl"]
+      }
+    ]
+  },
   "NORM_56_0_4": {
     "id": "NORM_56_0_4",
     "name": "",
@@ -160,7 +193,7 @@
         "chars": ["char_4155_talr"]
       }
     ],
-    "color": ["#6072df", "#ce2625"]
+    "color": ["#ce2625", "#6072df"]
   },
   "CLASSIC_55_0_2": {
     "id": "CLASSIC_55_0_2",
@@ -225,7 +258,8 @@
         "rarity": 5,
         "chars": ["char_489_serum", "char_4032_provs", "char_475_akafyu"]
       }
-    ]
+    ],
+    "color": ["#39bcb4"]
   },
   "SINGLE_55_0_1": {
     "id": "SINGLE_55_0_1",
@@ -300,8 +334,13 @@
       {
         "rarity": 6,
         "chars": ["char_420_flamtl", "char_426_billro"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4014_lunacu", "char_4079_haini", "char_4122_grabds"]
       }
-    ]
+    ],
+    "color": ["#9e1c1c"]
   },
   "SINGLE_54_0_3": {
     "id": "SINGLE_54_0_3",
@@ -579,8 +618,13 @@
       {
         "rarity": 6,
         "chars": ["char_4048_doroth", "char_4121_zuole"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4032_provs", "char_475_akafyu", "char_4109_baslin"]
       }
-    ]
+    ],
+    "color": ["#c5985a"]
   },
   "CLASSIC_51_0_2": {
     "id": "CLASSIC_51_0_2",
@@ -620,8 +664,13 @@
       {
         "rarity": 6,
         "chars": ["char_322_lmlee", "char_377_gdglow"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_1027_greyy2", "char_446_aroma", "char_4040_rockr"]
       }
-    ]
+    ],
+    "color": ["#b7214d"]
   },
   "CLASSIC_51_0_1": {
     "id": "CLASSIC_51_0_1",
@@ -648,8 +697,13 @@
       {
         "rarity": 6,
         "chars": ["char_485_pallas", "char_4117_ray"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_473_mberry", "char_4083_chimes", "char_4006_melnte"]
       }
-    ]
+    ],
+    "color": ["#612429"]
   },
   "SINGLE_51_0_1": {
     "id": "SINGLE_51_0_1",
@@ -1241,11 +1295,12 @@
           "char_1020_reed2"
         ]
       }
-    ]
+    ],
+    "color": ["#ea210a"]
   },
   "CLASSIC_ATTAIN_45_0_2": {
     "id": "CLASSIC_ATTAIN_45_0_2",
-    "name": "",
+    "name": "跨年欢庆·中坚",
     "type": "classic",
     "open": 1703750400,
     "pickup": [
@@ -1286,8 +1341,13 @@
       {
         "rarity": 6,
         "chars": ["char_1020_reed2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_297_hamoni", "char_1027_greyy2"]
       }
-    ]
+    ],
+    "color": ["#be4d15"]
   },
   "NORM_45_0_3": {
     "id": "NORM_45_0_3",

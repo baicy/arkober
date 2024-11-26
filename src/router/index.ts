@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomePage from '@/components/pages/HomePage.vue'
-import OperatorView from '@/components/pages/OperatorView.vue'
+import OperatorPage from '@/components/pages/OperatorPage.vue'
 import MergePage from '@/components/pages/MergePage.vue'
 
 const router = createRouter({
@@ -14,7 +14,7 @@ const router = createRouter({
     {
       path: '/operator/:id',
       name: 'operator',
-      component: OperatorView
+      component: OperatorPage
     },
     {
       path: '/game/merge',

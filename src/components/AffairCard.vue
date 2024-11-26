@@ -23,17 +23,32 @@ const isActive = ref(
       class="w-100 h-100 pl-2 pt-1"
       :style="{ borderLeft: `15px solid ${color[0] || '#0098dc'}` }"
     >
-      {{ `${name}${type === 'rerun' ? '·复刻' : ''}` }}
+      <div v-if="name">
+        {{ `${name}${type === 'rerun' ? '·复刻' : ''}` }}
+      </div>
       <div
         v-if="
-          ['single', 'rerun', 'joint', 'special', 'spring', 'summer', 'fes', 'linkage'].includes(
-            type
-          )
+          [
+            'single',
+            'rerun',
+            'joint',
+            'special',
+            'spring',
+            'summer',
+            'fes',
+            'linkage',
+            'limited',
+            'standard',
+            'classic'
+          ].includes(type) && pickup[0].chars.length < 7
         "
-        class="d-flex ga-3"
+        class="d-flex"
       >
         <div v-for="char in pickup[0].chars" :key="char">
-          {{ operators[char] ? operators[char].name : char }}
+          <v-btn v-if="operators[char]" variant="text" :to="`/operator/${char}`" :height="30">
+            {{ operators[char].name }}
+          </v-btn>
+          <v-btn v-else variant="text">{{ char }}</v-btn>
         </div>
       </div>
       <div v-else-if="reward" class="d-flex ga-2">

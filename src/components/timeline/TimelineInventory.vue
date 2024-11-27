@@ -1,7 +1,9 @@
 <script setup>
-import { ref, onMounted, nextTick, watchEffect } from 'vue'
+import { ref, onMounted, nextTick, watch, watchEffect } from 'vue'
 import AffairCard from '@/components/AffairCard.vue'
 import dayjs from 'dayjs'
+import { useRoute } from 'vue-router'
+import { useSystemStore } from '@/stores/system'
 import acts from '@/data/acts.json'
 import gachas from '@/data/pools.json'
 
@@ -59,7 +61,9 @@ function load(year) {
 
 const timelineRef = ref()
 onMounted(() => {
-  nextTick(focus())
+  nextTick(() => {
+    focus()
+  })
 })
 const focus = (month) => {
   let day = dayjs().year(currentYear)
@@ -70,6 +74,24 @@ const focus = (month) => {
   const cursorPosition = day.diff(firstDate.value, 'day') * dayWidth
   const windowWidth = getComputedStyle(timelineRef.value).width.match(/(\d+.?\d*)px/)[1]
   timelineRef.value.scrollLeft = cursorPosition - windowWidth / 2
+}
+const system = useSystemStore()
+const setPosition = (pos) => {
+  timelineRef.value.scrollLeft = pos
+}
+const route = useRoute()
+watch(
+  () => route.name,
+  (id) => {
+    if (id === 'home') {
+      nextTick(() => {
+        setPosition(system.timelinePosition)
+      })
+    }
+  }
+)
+const onScroll = () => {
+  system.timelinePosition = timelineRef.value.scrollLeft
 }
 const Typeline = {
   SIDESTORY: 0,
@@ -89,18 +111,44 @@ const Typeline = {
   standard: 5,
   classic: 6
 }
+
+const selectedArea = ref([])
+const selectDay = (day) => {
+  selectedArea.value = [day, 1]
+}
+const selectAffair = (affair) => {
+  selectedArea.value = [dayjs(affair.start), affair.days || 14]
+}
 </script>
 <template>
-  <v-sheet width="calc(100% - 180px)" class="mx-auto">
+  <v-sheet>
     <div
       class="mx-auto bg-surface overflow-x-auto position-relative ak-timeline"
       ref="timelineRef"
+      @scroll="onScroll"
       :style="{
         '--day-width': `${dayWidth}px`,
         '--card-height': `${cardHeight}px`,
         height: `${cardHeight * 7 + 80}px`
       }"
     >
+      <!-- 选择高亮 -->
+      <div
+        v-if="selectedArea.length"
+        class="position-absolute bg-primary opacity-20 calender-cursor"
+        :style="{
+          width: `${dayWidth * selectedArea[1]}px`,
+          left: `${dayWidth * selectedArea[0].diff(firstDate, 'day')}px`
+        }"
+      ></div>
+      <!-- 今天 -->
+      <div
+        class="position-absolute bg-primary opacity-40 calender-cursor"
+        :style="{
+          width: `${dayWidth}px`,
+          left: `${dayWidth * dayjs().year(currentYear).diff(firstDate, 'day')}px`
+        }"
+      ></div>
       <!-- 日期 -->
       <div class="h60 position-relative">
         <div class="d-flex position-relative" :style="{ top: `${dayWidth}px` }">
@@ -109,6 +157,7 @@ const Typeline = {
             :class="{ 'calender-sunday': date.day() === 0 }"
             v-for="(date, index) in dates"
             :key="index"
+            @click="selectDay(date)"
           >
             <span>{{ date.date() }}</span>
             <v-chip v-if="date.date() === 1" class="first-of-month" color="primary">
@@ -123,6 +172,7 @@ const Typeline = {
           v-for="act in activities"
           :key="act.id"
           :affair="act"
+          @click="selectAffair(act)"
           :style="{
             left: `${dayjs(act.start).diff(firstDate, 'day') * dayWidth}px`,
             top: `${cardHeight * (Typeline[act.type] === undefined ? 2 : Typeline[act.type])}px`,
@@ -135,6 +185,7 @@ const Typeline = {
           v-for="pool in pools"
           :key="pool.id"
           :affair="pool"
+          @click="selectAffair(pool)"
           :style="{
             left: `${dayjs(pool.start).diff(firstDate, 'day') * dayWidth}px`,
             top: `${cardHeight * Typeline[pool.type]}px`,
@@ -144,16 +195,14 @@ const Typeline = {
         >
         </affair-card>
       </div>
-      <!-- 今天 -->
-      <div
-        class="position-absolute bg-primary opacity-40 cursor-today"
-        :style="{ '--offset-day': dayjs().diff(firstDate, 'day') }"
-      ></div>
     </div>
     <div class="d-flex justify-space-around">
-      <v-btn v-for="i in 6" :key="i" @click="focus(i)">{{ i }}月</v-btn>
+      <v-btn variant="text" readonly>{{ currentYear }}年</v-btn>
+      <v-btn variant="tonal" v-for="i in 6" :key="i" @click="focus(i)">{{ i }}月</v-btn>
       <v-btn @click="focus()">今天</v-btn>
-      <v-btn v-for="i in [7, 8, 9, 10, 11, 12]" :key="i" @click="focus(i)">{{ i }}月</v-btn>
+      <v-btn variant="tonal" v-for="i in [7, 8, 9, 10, 11, 12]" :key="i" @click="focus(i)">
+        {{ i }}月
+      </v-btn>
     </div>
   </v-sheet>
 </template>
@@ -164,6 +213,7 @@ const Typeline = {
     min-width: var(--day-width);
     height: var(--day-width);
     line-height: var(--day-width);
+    cursor: pointer;
   }
   .calender-sunday::before {
     content: '';
@@ -180,11 +230,9 @@ const Typeline = {
     left: -2px;
     max-width: inherit;
   }
-  .cursor-today {
-    width: var(--day-width);
+  .calender-cursor {
     height: calc(var(--card-height) * 7 + var(--day-width));
     top: var(--day-width);
-    left: calc(var(--day-width) * var(--offset-day));
   }
 }
 </style>

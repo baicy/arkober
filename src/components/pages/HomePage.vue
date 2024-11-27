@@ -14,7 +14,12 @@ const viewYear = (year) => {
       {{ currentYear - 1 }}
       <v-icon icon="mdi-pan-left"></v-icon>
     </v-btn>
-    <timeline-inventory :currentYear="currentYear" />
+    <v-sheet width="calc(100% - 180px)" class="mx-auto">
+      <timeline-inventory :current-year="currentYear" />
+      <div class="mt-2 d-flex justify-space-evently">
+        <v-btn>干员统计</v-btn>
+      </div>
+    </v-sheet>
     <v-btn height="100%" variant="outlined" class="px-0" @click="viewYear(currentYear + 1)">
       <v-icon icon="mdi-pan-right"></v-icon>
       {{ currentYear + 1 }}

@@ -35,9 +35,9 @@ const msg = computed(() => {
       <v-btn color="secondary" v-if="route.name !== 'home'" @click="router.back()">
         <v-icon icon="mdi-chevron-left"></v-icon>
       </v-btn>
-      <v-btn color="secondary" @click="drawer = !drawer">
+      <!-- <v-btn color="secondary" @click="drawer = !drawer">
         <ark-icon icon="logo-rhodes-island" only></ark-icon>
-      </v-btn>
+      </v-btn> -->
     </div>
     <v-snackbar v-model="msg.show">{{ msg.text }}</v-snackbar>
   </v-app>

@@ -1,80 +1,63 @@
 <script setup>
-import { ref, onMounted, nextTick, watch, watchEffect } from 'vue'
+import { ref, onMounted, nextTick, watch } from 'vue'
 import AffairCard from '@/components/AffairCard.vue'
 import dayjs from 'dayjs'
 import { useRoute } from 'vue-router'
 import { useSystemStore } from '@/stores/system'
-import acts from '@/data/acts.json'
+import acts from '@/data/activities.json'
 import gachas from '@/data/pools.json'
 
-const { currentYear } = defineProps({ currentYear: Number })
+const Typeline = {
+  main: 1,
+  sub: 3,
+  attain: 4,
+  standard: 5,
+  classic: 6,
+  cattain: 6
+}
+
 const dayWidth = 30
 const cardHeight = 60
 const dates = ref([])
-const firstDate = ref()
 const pools = ref([])
 const activities = ref([])
 
-watchEffect(() => {
-  load(currentYear)
-})
-function load(year) {
-  const firstDateOfYear = dayjs().year(year).month(0).date(1).hour(4).minute(0).second(0)
-  let firstPool = null
-  pools.value = []
-  for (let i in gachas) {
-    const { id, name, type, open: openTime, color, pickup } = gachas[i]
-    const open = dayjs.unix(openTime)
-    const close = open.add(14, 'day')
-    if (close.year() === year - 1) break
-    if (open.year() === year || close.year() === year) {
-      pools.value.push({
-        id,
-        name,
-        type,
-        start: open.format('YYYY-MM-DD HH:mm'),
-        color,
-        pickup
-      })
-      firstPool = open
-    }
-  }
-  firstDate.value = firstPool.isBefore(firstDateOfYear)
-    ? firstPool.hour(0).minute(0).second(0)
-    : firstDateOfYear
+pools.value = []
+for (let i in gachas) {
+  const { id, name, type, sub = false, start, days = 14, color, pickup, fake } = gachas[i]
+  pools.value.push({
+    id,
+    fake,
+    name: name || (type === 'standard' ? '标准寻访' : '中坚寻访'),
+    type: ['standard', 'classic', 'attain', 'cattain'].includes(type) ? type : sub ? 'sub' : 'main',
+    rerun: type === 'rerun',
+    start,
+    days,
+    color,
+    pickup
+  })
+}
+activities.value = acts
 
-  const lastDateOfYear = dayjs().year(year).month(11).date(31).hour(4).minute(0).second(0)
-
-  activities.value = acts.filter(
-    (a) => dayjs(a.start).year() === year || dayjs(a.start).add(a.days, 'day').year() === year
-  )
-  const lastAct = activities.value[0]
-  const lastDateOfAct = dayjs(lastAct.start).add(lastAct.days, 'day')
-  const lastDate = lastDateOfAct.isAfter(lastDateOfYear) ? lastDateOfAct : lastDateOfYear
-  dates.value = []
-  let cursor = firstDate.value
-  while (cursor <= lastDate) {
-    dates.value.push(cursor)
-    cursor = cursor.add(1, 'day')
-  }
+const firstDate = dayjs().year(2019).month(4).date(1).hour(0).minute(0).second(0).millisecond(0)
+const lastAct = activities.value[0]
+const lastDateOfAct = dayjs(lastAct.start).add(lastAct.days, 'day').unix()
+const lastDateOfPool = dayjs(pools.value[0].start).add(14, 'days').unix()
+const lastDate = dayjs.unix(Math.max(lastDateOfAct, lastDateOfPool))
+dates.value = []
+let cursor = firstDate
+while (cursor <= lastDate) {
+  dates.value.push(cursor)
+  cursor = cursor.add(1, 'day')
 }
 
 const timelineRef = ref()
 onMounted(() => {
   nextTick(() => {
-    focus()
+    focus(dayjs())
+    // focus('2023-08-31')
   })
 })
-const focus = (month) => {
-  let day = dayjs().year(currentYear)
-  if (month) {
-    day = day.month(month - 1).date(1)
-  }
-  day = day.hour(0).minute(0).second(0)
-  const cursorPosition = day.diff(firstDate.value, 'day') * dayWidth
-  const windowWidth = getComputedStyle(timelineRef.value).width.match(/(\d+.?\d*)px/)[1]
-  timelineRef.value.scrollLeft = cursorPosition - windowWidth / 2
-}
 const system = useSystemStore()
 const setPosition = (pos) => {
   timelineRef.value.scrollLeft = pos
@@ -90,34 +73,61 @@ watch(
     }
   }
 )
-const onScroll = () => {
+const rangeDate = () => {
+  if (currentDay.value.isBefore(firstDate)) {
+    currentDay.value = firstDate
+  }
+  if (currentDay.value.isAfter(lastDate)) {
+    currentDay.value = lastDate
+  }
+}
+const onMouseScroll = (e) => {
+  const SCROLL_DAY = 3
+  currentDay.value =
+    e.deltaY > 0
+      ? currentDay.value.add(SCROLL_DAY, 'day')
+      : currentDay.value.subtract(SCROLL_DAY, 'day')
+  rangeDate()
+  timelineRef.value.scrollLeft =
+    timelineRef.value.scrollLeft + dayWidth * SCROLL_DAY * (e.deltaY > 0 ? 1 : -1)
   system.timelinePosition = timelineRef.value.scrollLeft
 }
-const Typeline = {
-  SIDESTORY: 0,
-  BRANCHLINE: 0,
-  MAINLINE: 0,
-  MINISTORY: 0,
-  APRIL: 4,
-  single: 1,
-  rerun: 1,
-  fes: 1,
-  spring: 1,
-  summer: 1,
-  linkage: 1,
-  joint: 3,
-  special: 3,
-  limited: 4,
-  standard: 5,
-  classic: 6
-}
 
+const currentDay = ref(dayjs())
 const selectedArea = ref([])
+const focus = (day) => {
+  if (day) {
+    currentDay.value = dayjs(day)
+  }
+  currentDay.value = dayjs(currentDay.value).hour(0).minute(0).second(0).millisecond(0)
+  selectedArea.value = [currentDay.value, 1]
+  const cursorPosition = currentDay.value.diff(firstDate, 'day') * dayWidth
+  const windowWidth = getComputedStyle(timelineRef.value).width.match(/(\d+.?\d*)px/)[1]
+  timelineRef.value.scrollLeft = cursorPosition - windowWidth / 2
+  system.timelinePosition = timelineRef.value.scrollLeft
+}
 const selectDay = (day) => {
   selectedArea.value = [day, 1]
 }
 const selectAffair = (affair) => {
   selectedArea.value = [dayjs(affair.start), affair.days || 14]
+}
+const disselect = () => {
+  selectedArea.value = []
+}
+const years = ref([])
+for (let i = 2019; i < dayjs().year() + 2; i++) {
+  years.value.push(i)
+}
+const changeYear = (year) => {
+  currentDay.value = currentDay.value.year(year)
+  rangeDate()
+  focus()
+}
+const changeMonth = (month) => {
+  currentDay.value = currentDay.value.month(month - 1).date(1)
+  rangeDate()
+  focus()
 }
 </script>
 <template>
@@ -125,7 +135,8 @@ const selectAffair = (affair) => {
     <div
       class="mx-auto bg-surface overflow-x-auto position-relative ak-timeline"
       ref="timelineRef"
-      @scroll="onScroll"
+      @drag.prevent
+      @mousewheel="onMouseScroll($event)"
       :style="{
         '--day-width': `${dayWidth}px`,
         '--card-height': `${cardHeight}px`,
@@ -139,14 +150,6 @@ const selectAffair = (affair) => {
         :style="{
           width: `${dayWidth * selectedArea[1]}px`,
           left: `${dayWidth * selectedArea[0].diff(firstDate, 'day')}px`
-        }"
-      ></div>
-      <!-- 今天 -->
-      <div
-        class="position-absolute bg-primary opacity-40 calender-cursor"
-        :style="{
-          width: `${dayWidth}px`,
-          left: `${dayWidth * dayjs().year(currentYear).diff(firstDate, 'day')}px`
         }"
       ></div>
       <!-- 日期 -->
@@ -175,7 +178,7 @@ const selectAffair = (affair) => {
           @click="selectAffair(act)"
           :style="{
             left: `${dayjs(act.start).diff(firstDate, 'day') * dayWidth}px`,
-            top: `${cardHeight * (Typeline[act.type] === undefined ? 2 : Typeline[act.type])}px`,
+            top: `${cardHeight * act.timeline}px`,
             width: `${act.days * dayWidth}px`,
             height: `${cardHeight}px`
           }"
@@ -189,24 +192,64 @@ const selectAffair = (affair) => {
           :style="{
             left: `${dayjs(pool.start).diff(firstDate, 'day') * dayWidth}px`,
             top: `${cardHeight * Typeline[pool.type]}px`,
-            width: `${14 * dayWidth}px`,
+            width: `${pool.days * dayWidth}px`,
             height: `${cardHeight}px`
           }"
         >
         </affair-card>
       </div>
     </div>
-    <div class="d-flex justify-space-around">
-      <v-btn variant="text" readonly>{{ currentYear }}年</v-btn>
-      <v-btn variant="tonal" v-for="i in 6" :key="i" @click="focus(i)">{{ i }}月</v-btn>
-      <v-btn @click="focus()">今天</v-btn>
-      <v-btn variant="tonal" v-for="i in [7, 8, 9, 10, 11, 12]" :key="i" @click="focus(i)">
-        {{ i }}月
-      </v-btn>
+    <div class="d-flex justify-end ga-2">
+      <v-btn-group density="compact" color="primary" divided>
+        <v-btn
+          :variant="currentDay.month() === i - 1 ? 'flat' : 'tonal'"
+          v-for="i in 12"
+          :key="i"
+          @click="changeMonth(i)"
+        >
+          {{ i }}月
+        </v-btn>
+      </v-btn-group>
+      <v-menu activator="#year-changer">
+        <v-list>
+          <template v-for="year in years" :key="year">
+            <v-hover v-slot="{ isHovering, props }">
+              <v-list-item
+                :value="index"
+                class="cursor-pointer"
+                :class="{ 'bg-primary': isHovering || year === currentDay.year() }"
+                v-bind="props"
+              >
+                <v-list-item-title @click="changeYear(year)">{{ year }}</v-list-item-title>
+              </v-list-item>
+            </v-hover>
+          </template>
+        </v-list>
+      </v-menu>
+      <v-btn-group density="compact" color="primary" divided>
+        <v-btn
+          icon="mdi-menu-left"
+          @click="changeYear(currentDay.year() - 1)"
+          :disabled="currentDay.year() <= 2019"
+        ></v-btn>
+        <v-btn width="50" id="year-changer">
+          {{ currentDay.year() > dayjs().year() + 1 ? currentDay.year() : currentDay.year() }}年
+        </v-btn>
+        <v-btn
+          icon="mdi-menu-right"
+          @click="changeYear(currentDay.year() + 1)"
+          :disabled="currentDay.year() > dayjs().year()"
+        ></v-btn>
+        <v-btn @click="focus(dayjs())">今天</v-btn>
+        <v-btn @click="disselect()" color="error">清除选择</v-btn>
+      </v-btn-group>
     </div>
   </v-sheet>
 </template>
 <style scoped>
+::-webkit-scrollbar {
+  height: 0;
+}
 .ak-timeline {
   .calender-day {
     width: var(--day-width);

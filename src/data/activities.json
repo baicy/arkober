@@ -1,2089 +1,2608 @@
-{
-  "act29sre": {
-    "id": "act29sre",
-    "name": "崔林特尔梅之金·复刻",
-    "type": "SIDESTORYRE",
-    "color": [],
-    "startTime": 1732521600,
-    "endTime": 1732521600,
+[
+  {
+    "id": "act39sre",
+    "name": "出苍白海·复刻",
+    "type": "SIDESTORY",
+    "color": ["#b8a47f"],
+    "fake": true,
+    "start": "2025-12-18 16:00",
+    "days": 10,
     "reward": {
       "type": "char",
-      "id": "char_4011_lessng"
+      "id": "char_4163_rosesa"
     },
-    "rewardEndTime": 1732521600,
-    "isReplicate": false
+    "drop": ["suger", "tong", "zhuan"],
+    "timeline": 0
   },
-  "act1vautochess": {
-    "id": "act1vautochess",
-    "name": "卫戍协议",
-    "type": "AUTOCHESS_VERIFY1",
-    "color": ["#00ffc4"],
-    "startTime": 1731657600,
-    "endTime": 1732824000,
-    "reward": {
-      "type": "skin",
-      "id": "char_499_kaitou@epoque#37"
-    },
-    "rewardEndTime": 1733083199,
-    "isReplicate": false
-  },
-  "act46sign": {
-    "id": "act46sign",
-    "name": "感谢庆典限时签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#a41836"],
-    "startTime": 1730448000,
-    "endTime": 1731614400,
-    "reward": {
-      "type": "skin",
-      "id": "char_298_susuro@winter#4"
-    },
-    "rewardEndTime": 1731614399,
-    "isReplicate": false
-  },
-  "act38side": {
-    "id": "act38side",
-    "name": "揭幕者们",
+  {
+    "id": "act12yueside",
+    "name": "12月ss",
     "type": "SIDESTORY",
-    "color": ["#a41836"],
-    "startTime": 1730448000,
-    "endTime": 1732219200,
+    "color": ["#1526f1", "#dbd3c8"],
+    "fake": true,
+    "start": "2025-12-04 16:00",
+    "days": 14,
+    "timeline": 0
+  },
+  {
+    "id": "act38sre",
+    "name": "揭幕者们·复刻",
+    "type": "SIDESTORY",
+    "color": ["#7463d6", "#a41836"],
+    "fake": true,
+    "start": "2025-11-24 16:00",
+    "days": 10,
     "reward": {
       "type": "char",
       "id": "char_1502_crosly"
     },
-    "drop": ["MTL_SL_MANGANESE1", "MTL_SL_RMA7012", "MTL_SL_CCF"],
-    "rewardEndTime": 1732824000,
-    "isReplicate": false
+    "drop": ["meng", "rma", "ye"],
+    "timeline": 0
   },
-  "act22login": {
-    "id": "act22login",
-    "name": "漫长狂欢登录活动",
-    "type": "LOGIN_ONLY",
-    "color": ["#da0a0a"],
-    "startTime": 1730448000,
-    "endTime": 1731614400,
-    "rewardEndTime": 1731614400,
-    "isReplicate": false
+  {
+    "id": "act11yueside",
+    "name": "11月ss",
+    "type": "SIDESTORY",
+    "color": ["#1526f1", "#dbd3c8"],
+    "fake": true,
+    "start": "2025-11-01 16:00",
+    "days": 21,
+    "timeline": 0
   },
-  "act9pray": {
-    "id": "act9pray",
-    "name": "狂欢游乐好运墙",
-    "type": "PRAY_ONLY",
-    "color": ["#95253C"],
-    "startTime": 1730448000,
-    "endTime": 1731614400,
-    "rewardEndTime": 1731614400,
-    "isReplicate": false
+  {
+    "id": "act37sre",
+    "name": "追迹日落以西·复刻",
+    "type": "BRANCHLINE",
+    "color": ["#fa9101"],
+    "fake": true,
+    "start": "2025-10-09 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4162_cathy"
+    },
+    "drop": ["stone", "jiao", "rongji"],
+    "timeline": 0
   },
-  "act45sign": {
-    "id": "act45sign",
-    "name": "感谢庆典前瞻签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#653842"],
-    "startTime": 1729951200,
-    "endTime": 1730750399,
-    "rewardEndTime": 1730750399,
-    "isReplicate": false
+  {
+    "id": "act35sre",
+    "name": "太阳甩在身后·复刻",
+    "fake": true,
+    "type": "SIDESTORY",
+    "color": ["#8f45d6"],
+    "start": "2025-08-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4139_papyrs"
+    },
+    "drop": ["iron", "zhuan", "ting"],
+    "timeline": 0
   },
-  "act37side": {
+  {
+    "id": "actsummerside",
+    "name": "夏活",
+    "type": "SIDESTORY",
+    "color": ["#8f45d6"],
+    "fake": true,
+    "start": "2025-08-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4139_papyrs"
+    },
+    "timeline": 0
+  },
+  {
+    "id": "act34sre",
+    "name": "生路·复刻",
+    "type": "SIDESTORY",
+    "color": ["#4d7b7d"],
+    "fake": true,
+    "start": "2025-06-05 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4137_udflow"
+    },
+    "drop": ["unit", "suger", "chun"],
+    "timeline": 0
+  },
+  {
+    "id": "act5yueside",
+    "name": "5月活动",
+    "type": "SIDESTORY",
+    "color": ["#1526f1", "#dbd3c8"],
+    "fake": true,
+    "start": "2025-05-01 16:00",
+    "days": 21,
+    "timeline": 0
+  },
+  {
+    "id": "act33sre",
+    "name": "巴别塔·复刻",
+    "type": "BRANCHLINE",
+    "color": ["#932426"],
+    "fake": true,
+    "start": "2025-04-17 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4131_odda"
+    },
+    "drop": ["stone", "iron", "jiao"],
+    "timeline": 0
+  },
+  {
+    "id": "act6fun",
+    "name": "好得不能再好了！泰拉投资大师课",
+    "type": "APRIL",
+    "color": ["#0ea785"],
+    "fake": true,
+    "start": "2025-04-01 16:00",
+    "days": 7,
+    "timeline": 4
+  },
+  {
+    "id": "act31sre",
+    "name": "怀黍离·复刻",
+    "type": "SIDESTORY",
+    "color": ["#a9b94b"],
+    "fake": true,
+    "start": "2025-02-13 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4119_wanqin"
+    },
+    "drop": ["stone", "chun", "rma"],
+    "timeline": 0
+  },
+  {
+    "id": "act5bossrush",
+    "fake": true,
+    "name": "引航者试炼#05",
+    "type": "BOSSRUSH",
+    "color": ["#f4c430"],
+    "start": "2025-02-13 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "不知道"
+    },
+    "timeline": 3
+  },
+  {
+    "id": "crisis_v2_season_3_1",
+    "fake": true,
+    "name": "XX作战",
+    "type": "CRISIS",
+    "color": ["#ffe299"],
+    "start": "2025-02-13 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "不知道"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "actspringside",
+    "name": "春节SS",
+    "type": "SIDESTORY",
+    "color": ["#8f45d6"],
+    "fake": true,
+    "start": "2025-01-22 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": ""
+    },
+    "timeline": 0
+  },
+  {
+    "id": "actdlc2",
+    "fake": true,
+    "name": "集成战略dlc2签到",
+    "type": "CHECKIN",
+    "color": ["#a41836"],
+    "start": "2025-01-09 16:00",
+    "days": 10,
+    "timeline": 3
+  },
+  {
+    "id": "actcamera",
+    "name": "视相博物馆",
+    "type": "OTHER",
+    "color": ["#5476d8"],
+    "start": "2024-12-29 16:00",
+    "days": 14,
+    "reward": {
+      "type": "other",
+      "id": "名片主题"
+    },
+    "timeline": 0
+  },
+  {
+    "fake": true,
+    "id": "actyear2025sign",
+    "name": "2025跨年纪念限时签到",
+    "type": "CHECKIN",
+    "color": ["#d12921"],
+    "start": "2024-12-26 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "刻刀"
+    },
+    "timeline": 3
+  },
+  {
+    "id": "act4switch",
+    "name": "时光的赠礼",
+    "type": "SWITCH",
+    "color": ["#5751c2"],
+    "start": "2024-12-23 20:30",
+    "days": 10,
+    "timeline": 2
+  },
+  {
+    "id": "act30sre",
+    "name": "银心湖列车·复刻",
+    "type": "SIDESTORY",
+    "color": ["#46637d", "#4bb1cf"],
+    "start": "2024-12-19 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4114_harold"
+    },
+    "drop": ["zhi", "meng", "unit"],
+    "timeline": 0
+  },
+  {
+    "id": "actcamera",
+    "name": "留影烁今",
+    "type": "SWITCH",
+    "color": ["#5f4e43"],
+    "start": "2024-12-12 16:00",
+    "days": 10,
+    "timeline": 4
+  },
+  {
+    "id": "act39side",
+    "name": "出苍白海",
+    "type": "SIDESTORY",
+    "color": ["#b8a47f", "#1c2cf1", "#fe1631"],
+    "start": "2024-12-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4163_rosesa"
+    },
+    "drop": ["suger", "tong", "zhuan"],
+    "infinity": ["chun"],
+    "timeline": 0
+  },
+  {
+    "id": "act29sre",
+    "name": "崔林特尔梅之金·复刻",
+    "type": "SIDESTORY",
+    "color": ["#9b816d", "#ff6801", "#ac4725"],
+    "start": "2024-11-25 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4011_lessng"
+    },
+    "drop": ["iron", "device", "chun"],
+    "infinity": ["chun"],
+    "timeline": 0
+  },
+  {
+    "id": "act1vautochess",
+    "name": "卫戍协议",
+    "type": "OTHER",
+    "color": ["#80d8db"],
+    "start": "2024-11-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_499_kaitou@epoque#37"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "act46sign",
+    "name": "感谢庆典限时签到",
+    "type": "CHECKIN",
+    "color": ["#a41836"],
+    "start": "2024-11-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_298_susuro@winter#4"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "act38side",
+    "name": "揭幕者们",
+    "type": "SIDESTORY",
+    "color": ["#7463d6", "#a41836"],
+    "start": "2024-11-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_1502_crosly"
+    },
+    "drop": ["meng", "rma", "ye"],
+    "infinity": ["chun"],
+    "timeline": 0
+  },
+  {
     "id": "act37side",
     "name": "追迹日落以西",
     "type": "BRANCHLINE",
-    "color": [],
-    "startTime": 1728446400,
-    "endTime": 1729627199,
-    "rewardEndTime": 1730231999,
-    "isReplicate": false
+    "color": ["#fa9101"],
+    "start": "2024-10-09 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4162_cathy"
+    },
+    "drop": ["stone", "jiao", "rongji"],
+    "timeline": 0
   },
-  "act44sign": {
-    "id": "act44sign",
-    "name": "构想试炼签到活动",
-    "type": "CHECKIN_ONLY",
-    "color": ["#9250f6"],
-    "startTime": 1727467200,
-    "endTime": 1728331199,
-    "rewardEndTime": 1728331199,
-    "isReplicate": false
-  },
-  "act1vecb": {
+  {
     "id": "act1vecb",
     "name": "矢量突破",
-    "type": "VEC_BREAK",
-    "color": [],
-    "startTime": 1727424000,
-    "endTime": 1728590399,
-    "rewardEndTime": 1728849599,
-    "isReplicate": false
+    "type": "OTHER",
+    "color": ["#9250f6"],
+    "start": "2024-09-27 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "香草"
+    },
+    "timeline": 2
   },
-  "act28sre": {
+  {
     "id": "act28sre",
-    "name": "不义之财 复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1726732800,
-    "endTime": 1727553599,
-    "rewardEndTime": 1727899199,
-    "isReplicate": true
+    "name": "不义之财·复刻",
+    "type": "SIDESTORY",
+    "color": ["#98985e"],
+    "start": "2024-09-19 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4104_coldst"
+    },
+    "drop": ["suger", "zhuan", "salt"],
+    "timeline": 0
   },
-  "act43sign": {
-    "id": "act43sign",
-    "name": "良辰迎月签到活动",
-    "type": "CHECKIN_ONLY",
-    "color": ["#ff6801"],
-    "startTime": 1726344000,
-    "endTime": 1726948799,
-    "rewardEndTime": 1726948799,
-    "isReplicate": false
-  },
-  "act36side": {
+  {
     "id": "act36side",
     "name": "泰拉饭",
-    "type": "TYPE_ACT36SIDE",
-    "color": [],
-    "startTime": 1725249600,
-    "endTime": 1726430399,
-    "rewardEndTime": 1727035199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#a49271"],
+    "start": "2024-09-02 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4143_sensi"
+    },
+    "drop": ["zhi", "hejin", "fibre"],
+    "timeline": 0
   },
-  "act42sign": {
-    "id": "act42sign",
-    "name": "品鉴泰拉魔物",
-    "type": "CHECKIN_ONLY",
-    "color": ["#b93636"],
-    "startTime": 1725249600,
-    "endTime": 1726430399,
-    "rewardEndTime": 1726430399,
-    "isReplicate": false
-  },
-  "act1collection": {
+  {
     "id": "act1collection",
-    "name": "限时积分任务",
+    "name": "生息演算限时任务",
     "type": "COLLECTION",
     "color": ["#b4b21a"],
-    "startTime": 1724313600,
-    "endTime": 1725134399,
-    "rewardEndTime": 1725134399,
-    "isReplicate": false
+    "start": "2024-08-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "skin",
+      "id": "跃跃"
+    },
+    "timeline": 2
   },
-  "act27sre": {
+  {
     "id": "act27sre",
     "name": "火山旅梦·复刻",
-    "type": "TYPE_ACT27SIDE",
-    "color": [],
-    "startTime": 1724313600,
-    "endTime": 1725134399,
-    "rewardEndTime": 1725479999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#fb7595"],
+    "start": "2024-08-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4106_bryota"
+    },
+    "drop": ["tong", "unit", "meng"],
+    "timeline": 0
   },
-  "act35side": {
+  {
     "id": "act35side",
     "name": "太阳甩在身后",
-    "type": "TYPE_ACT35SIDE",
-    "color": [],
-    "startTime": 1722484800,
-    "endTime": 1724270399,
-    "rewardEndTime": 1724875199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#8f45d6"],
+    "start": "2024-08-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4139_papyrs"
+    },
+    "drop": ["iron", "zhuan", "ting"],
+    "timeline": 0
   },
-  "act21login": {
-    "id": "act21login",
-    "name": "限定池送10连",
-    "type": "LOGIN_ONLY",
-    "color": ["#ffd041"],
-    "startTime": 1722484800,
-    "endTime": 1723665599,
-    "rewardEndTime": 1723665599,
-    "isReplicate": false
-  },
-  "act41sign": {
-    "id": "act41sign",
-    "name": "沉沙赫日签到活动",
-    "type": "CHECKIN_ONLY",
-    "color": ["#d86824"],
-    "startTime": 1722484800,
-    "endTime": 1723665599,
-    "rewardEndTime": 1723665599,
-    "isReplicate": false
-  },
-  "act8pray": {
-    "id": "act8pray",
-    "name": "幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#7943ac"],
-    "startTime": 1722484800,
-    "endTime": 1723665599,
-    "rewardEndTime": 1723665599,
-    "isReplicate": false
-  },
-  "act17mini": {
+  {
     "id": "act17mini",
     "name": "熔炉“还魂”记",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1720497600,
-    "endTime": 1721073599,
-    "rewardEndTime": 1721332799,
-    "isReplicate": false
+    "color": ["#b73553"],
+    "start": "2024-07-09 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "空爆"
+    },
+    "timeline": 0
   },
-  "act40sign": {
+  {
     "id": "act40sign",
     "name": "无终奇语签到活动",
-    "type": "CHECKIN_ONLY",
+    "type": "CHECKIN",
     "color": ["#a30000"],
-    "startTime": 1720497600,
-    "endTime": 1721332799,
-    "rewardEndTime": 1721332799,
-    "isReplicate": false
+    "start": "2024-07-09 16:00",
+    "days": 10,
+    "reward": {
+      "type": "avatar",
+      "id": "头像"
+    },
+    "timeline": 2
   },
-  "act26sre": {
+  {
     "id": "act26sre",
     "name": "空想花庭·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1719302400,
-    "endTime": 1720123199,
-    "rewardEndTime": 1720468799,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#8b9ba5"],
+    "start": "2024-06-25 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_498_inside"
+    },
+    "drop": ["stone", "jiao", "rma"],
+    "timeline": 0
   },
-  "act3switch": {
-    "id": "act3switch",
-    "name": "虹彩茶会合作活动",
-    "type": "SWITCH_ONLY",
-    "color": ["#40C8F5"],
-    "startTime": 1718870400,
-    "endTime": 1720036799,
-    "rewardEndTime": 1720036799,
-    "isReplicate": false
-  },
-  "act2signvs": {
-    "id": "act2signvs",
-    "name": "端阳正午签到活动",
-    "type": "CHECKIN_VS",
-    "color": ["#6a8029"],
-    "startTime": 1717704000,
-    "endTime": 1718567999,
-    "rewardEndTime": 1718567999,
-    "isReplicate": false
-  },
-  "act34side": {
+  {
     "id": "act34side",
     "name": "生路",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1717560000,
-    "endTime": 1718740799,
-    "rewardEndTime": 1719345599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#4d7b7d"],
+    "start": "2024-06-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4137_udflow"
+    },
+    "drop": ["unit", "suger", "chun"],
+    "timeline": 0
   },
-  "act25sre": {
+  {
     "id": "act25sre",
     "name": "孤星·复刻",
-    "type": "TYPE_ACT25SIDE",
-    "color": [],
-    "startTime": 1716537600,
-    "endTime": 1717358399,
-    "rewardEndTime": 1717703999,
-    "isReplicate": true
+    "type": "BRANCHLINE",
+    "color": ["#f5eedb"],
+    "start": "2024-05-24 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_1031_slent2"
+    },
+    "drop": ["tong", "rongji", "hejin"],
+    "timeline": 0
   },
-  "act2vmulti": {
+  {
     "id": "act2vmulti",
     "name": "罗德岛促融共竞",
-    "type": "MULTIPLAY_VERIFY2",
-    "color": [],
-    "startTime": 1715760000,
-    "endTime": 1716926399,
-    "rewardEndTime": 1717185599,
-    "isReplicate": false
+    "type": "OTHER",
+    "color": ["#31acbc"],
+    "start": "2024-05-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "THRM-EX"
+    },
+    "timeline": 2
   },
-  "act39sign": {
+  {
     "id": "act39sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "五周年庆典限时签到",
+    "type": "CHECKIN",
     "color": ["#ff6d37"],
-    "startTime": 1714536000,
-    "endTime": 1715716799,
-    "rewardEndTime": 1715716799,
-    "isReplicate": false
+    "start": "2024-05-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "暴行"
+    },
+    "timeline": 4
   },
-  "act5mine": {
-    "id": "act5mine",
-    "name": "卡钳谷矿区限时开采许可",
-    "type": "GRID_GACHA_V2",
-    "color": ["#ac271c"],
-    "startTime": 1714536000,
-    "endTime": 1715716799,
-    "rewardEndTime": 1715716799,
-    "isReplicate": false
-  },
-  "act1mainss": {
+  {
     "id": "act1mainss",
-    "name": "慈悲灯塔",
-    "type": "YEAR_5_GENERAL",
-    "color": [],
-    "startTime": 1714536000,
-    "endTime": 1715716799,
-    "rewardEndTime": 1716321599,
-    "isReplicate": false
+    "name": "EP 14慈悲灯塔",
+    "type": "MAINLINE",
+    "color": ["#dca566"],
+    "start": "2024-05-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4134_cetsyr"
+    },
+    "drop": ["tong", "ye", "device"],
+    "timeline": 2
   },
-  "act1access": {
-    "id": "act1access",
-    "name": "五周年专享活动",
-    "type": "CHECKIN_ACCESS",
-    "color": ["#b20030"],
-    "startTime": 1714224600,
-    "endTime": 1717185599,
-    "rewardEndTime": 1717185599,
-    "isReplicate": false
-  },
-  "act33side": {
+  {
     "id": "act33side",
     "name": "巴别塔",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1712808000,
-    "endTime": 1714679999,
-    "rewardEndTime": 1715198399,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#932426"],
+    "start": "2024-04-11 16:00",
+    "days": 22,
+    "reward": {
+      "type": "char",
+      "id": "char_4131_odda"
+    },
+    "drop": ["stone", "iron", "jiao"],
+    "timeline": 0
   },
-  "act5fun": {
+  {
     "id": "act5fun",
-    "name": "愚人节活动",
-    "type": "APRIL_FOOL",
-    "color": [],
-    "startTime": 1711958400,
-    "endTime": 1712519999,
-    "rewardEndTime": 1712519999,
-    "isReplicate": false
+    "name": "好得不能再好了！泰拉投资大师课",
+    "type": "APRIL",
+    "color": ["#0ea785"],
+    "start": "2024-04-01 16:00",
+    "days": 7,
+    "timeline": 4
   },
-  "act32side": {
-    "id": "act32side",
-    "name": "水晶箭行动",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1709784000,
-    "endTime": 1710964799,
-    "rewardEndTime": 1711569599,
-    "isReplicate": false
+  {
+    "id": "crisis_v2_season_2_1",
+    "name": "潮曦作战",
+    "type": "CRISIS",
+    "color": ["#ffe299"],
+    "start": "2024-03-28 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "翎羽"
+    },
+    "timeline": 2
   },
-  "act38sign": {
-    "id": "act38sign",
-    "name": "明日方舟X彩虹六号：围攻签到活动",
-    "type": "CHECKIN_ONLY",
-    "color": ["#d96600"],
-    "startTime": 1709784000,
-    "endTime": 1710964799,
-    "rewardEndTime": 1710964799,
-    "isReplicate": false
-  },
-  "act1r6sre": {
+  {
     "id": "act1r6sre",
     "name": "源石尘行动·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1711008000,
-    "endTime": 1711828799,
-    "rewardEndTime": 1712174399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#fb9f00"],
+    "start": "2024-03-21 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_459_tachak"
+    },
+    "drop": ["meng", "zhuan"],
+    "timeline": 0
   },
-  "act20login": {
-    "id": "act20login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#cd4000"],
-    "startTime": 1709784000,
-    "endTime": 1710964799,
-    "rewardEndTime": 1710964799,
-    "isReplicate": false
+  {
+    "id": "act32side",
+    "name": "水晶箭行动",
+    "type": "SIDESTORY",
+    "color": ["#8eaf8a"],
+    "start": "2024-03-07 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4126_fuze"
+    },
+    "drop": ["zhi", "hejin", "device"],
+    "timeline": 0
   },
-  "act4bossrush": {
+  {
     "id": "act4bossrush",
-    "name": "引航者试炼",
-    "type": "BOSS_RUSH",
-    "color": [],
-    "startTime": 1708588800,
-    "endTime": 1709755199,
-    "rewardEndTime": 1710014399,
-    "isReplicate": false
+    "name": "引航者试炼#04",
+    "type": "BOSSRUSH",
+    "color": ["#f4c430"],
+    "start": "2024-02-22 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "清流"
+    },
+    "timeline": 2
   },
-  "act1blessing": {
-    "id": "act1blessing",
-    "name": "2024罗德岛新春签到",
-    "type": "BLESS_ONLY",
-    "color": ["#a9b94b"],
-    "startTime": 1707422400,
-    "endTime": 1708631999,
-    "rewardEndTime": 1708631999,
-    "isReplicate": false
-  },
-  "act31side": {
+  {
     "id": "act31side",
     "name": "怀黍离",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1706760000,
-    "endTime": 1708545599,
-    "rewardEndTime": 1709150399,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#a9b94b"],
+    "start": "2024-02-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4119_wanqin"
+    },
+    "drop": ["stone", "chun", "rma"],
+    "timeline": 0
   },
-  "act7pray": {
-    "id": "act7pray",
-    "name": "龙门幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1706760000,
-    "endTime": 1707940799,
-    "rewardEndTime": 1707940799,
-    "isReplicate": false
-  },
-  "act19login": {
-    "id": "act19login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#aebc2e"],
-    "startTime": 1706760000,
-    "endTime": 1707940799,
-    "rewardEndTime": 1707940799,
-    "isReplicate": false
-  },
-  "act23sre": {
+  {
     "id": "act23sre",
     "name": "登临意·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1705564800,
-    "endTime": 1706385599,
-    "rewardEndTime": 1706731199,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#d9a47f"],
+    "start": "2024-01-18 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4078_bdhkgt"
+    },
+    "drop": ["tong", "meng", "unit"],
+    "timeline": 0
   },
-  "act16mini": {
+  {
     "id": "act16mini",
     "name": "去咧嘴谷",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1704787200,
-    "endTime": 1705348799,
-    "rewardEndTime": 1705607999,
-    "isReplicate": false
+    "color": ["#ab5421"],
+    "start": "2024-01-09 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_183_skgoat@epoque#30"
+    },
+    "timeline": 0
   },
-  "act22sre": {
+  {
+    "id": "act37sign",
+    "name": "2024跨年纪念限时签到",
+    "type": "CHECKIN",
+    "color": ["#c2486b"],
+    "start": "2023-12-24 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "安赛尔"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act22sre",
     "name": "照我以火·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1703232000,
-    "endTime": 1704052799,
-    "rewardEndTime": 1704398399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#8d6eca"],
+    "start": "2023-12-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4017_puzzle"
+    },
+    "drop": ["iron", "suger", "rongji"],
+    "timeline": 0
   },
-  "act37sign": {
-    "id": "act37sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#c2486b"],
-    "startTime": 1703361600,
-    "endTime": 1704571199,
-    "rewardEndTime": 1704571199,
-    "isReplicate": false
-  },
-  "act30side": {
+  {
     "id": "act30side",
     "name": "银心湖列车",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1701748800,
-    "endTime": 1702929599,
-    "rewardEndTime": 1703534399,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#46637d", "#4bb1cf"],
+    "start": "2023-12-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4114_harold"
+    },
+    "drop": ["zhi", "meng", "unit"],
+    "timeline": 0
   },
-  "act29side": {
+  {
+    "id": "crisis_v2_season_1_1",
+    "name": "浊燃作战",
+    "type": "CRISIS",
+    "color": ["#b32600"],
+    "start": "2023-11-21 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "炎客"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act29side",
     "name": "崔林特尔梅之金",
-    "type": "TYPE_ACT29SIDE",
-    "color": [],
-    "startTime": 1698811200,
-    "endTime": 1700596799,
-    "rewardEndTime": 1701201599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#9b816d"],
+    "start": "2023-11-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4011_lessng"
+    },
+    "drop": ["iron", "device", "chun"],
+    "timeline": 0
   },
-  "act2float": {
-    "id": "act2float",
-    "name": "铁腕城产业合作洽谈会",
-    "type": "FLOAT_PARADE",
-    "color": ["#1fbcb6"],
-    "startTime": 1698811200,
-    "endTime": 1699991999,
-    "rewardEndTime": 1699991999,
-    "isReplicate": false
-  },
-  "act36sign": {
+  {
     "id": "act36sign",
-    "name": "步上双塔之时签到活动",
-    "type": "CHECKIN_ONLY",
+    "name": "「烛照弦鸣」限时签到",
+    "type": "CHECKIN",
     "color": ["#424c6f"],
-    "startTime": 1698811200,
-    "endTime": 1699991999,
-    "rewardEndTime": 1699991999,
-    "isReplicate": false
+    "start": "2023-11-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_126_shotst@epoque#28"
+    },
+    "timeline": 2
   },
-  "act18login": {
-    "id": "act18login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#7b6157"],
-    "startTime": 1698811200,
-    "endTime": 1699991999,
-    "rewardEndTime": 1699991999,
-    "isReplicate": false
-  },
-  "act21sre": {
+  {
     "id": "act21sre",
     "name": "叙拉古人·复刻",
-    "type": "TYPE_ACT21SIDE",
-    "color": [],
-    "startTime": 1697961600,
-    "endTime": 1698782399,
-    "rewardEndTime": 1699127999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#5e49c8"],
+    "start": "2023-10-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_427_vigil"
+    },
+    "drop": ["stone", "hejin", "ye"],
+    "timeline": 0
   },
-  "act17login": {
+  {
+    "id": "actmain13",
+    "name": "EP13 恶兆湍流",
+    "type": "MAINLINE",
+    "color": ["#6f6389"],
+    "start": "2023-10-08 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "戴菲恩"
+    },
+    "timeline": 0
+  },
+  {
     "id": "act17login",
-    "name": "《明日方舟：冬隐归路》开播庆祝活动",
-    "type": "LOGIN_ONLY",
+    "name": "《明日方舟：冬隐归路》开播庆祝",
+    "type": "LOGIN",
     "color": [],
-    "startTime": 1696536000,
-    "endTime": 1699127999,
-    "rewardEndTime": 1699127999,
-    "isReplicate": false
+    "start": "2023-10-06 04:00",
+    "days": 30,
+    "timeline": 4
   },
-  "act42d0": {
+  {
     "id": "act42d0",
     "name": "纷争演绎",
-    "type": "TYPE_ACT42D0",
-    "color": [],
-    "startTime": 1695801600,
-    "endTime": 1696967999,
-    "rewardEndTime": 1697227199,
-    "isReplicate": false
+    "type": "OTHER",
+    "color": ["#1459c1"],
+    "start": "2023-09-27 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_209_ardign@epoque#26"
+    },
+    "timeline": 3
   },
-  "act35sign": {
+  {
     "id": "act35sign",
     "name": "清光邀月——月饼烘焙小教程",
-    "type": "CHECKIN_ONLY",
+    "type": "LUNAR",
     "color": ["#ff6801"],
-    "startTime": 1695801600,
-    "endTime": 1696967999,
-    "rewardEndTime": 1696967999,
-    "isReplicate": false
+    "start": "2023-09-27 16:00",
+    "days": 14,
+    "timeline": 4
   },
-  "act1mainlinebp": {
-    "id": "act1mainlinebp",
-    "name": "战备支援",
-    "type": "MAINLINE_BP",
-    "color": ["#0098dc"],
-    "startTime": 1695499200,
-    "endTime": 1697918399,
-    "rewardEndTime": 1697918399,
-    "isReplicate": false
-  },
-  "act1unique": {
+  {
     "id": "act1unique",
-    "name": "九色鹿签到复刻活动",
-    "type": "UNIQUE_ONLY",
-    "color": ["#DB8B1F"],
-    "startTime": 1695110400,
-    "endTime": 1696276799,
-    "rewardEndTime": 1696276799,
-    "isReplicate": false
+    "name": "「亘古长明」限时签到",
+    "type": "CHECKIN",
+    "color": ["#db8b1f"],
+    "start": "2023-09-19 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4019_ncdeer"
+    },
+    "timeline": 2
   },
-  "act2switch": {
-    "id": "act2switch",
-    "name": "登览锦绣合作活动",
-    "type": "SWITCH_ONLY",
-    "color": ["#ff7f31"],
-    "startTime": 1693886400,
-    "endTime": 1694462399,
-    "rewardEndTime": 1694462399,
-    "isReplicate": false
-  },
-  "act28side": {
+  {
     "id": "act28side",
     "name": "不义之财",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1693886400,
-    "endTime": 1695067199,
-    "rewardEndTime": 1695671999,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#98985e"],
+    "start": "2023-09-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4104_coldst"
+    },
+    "drop": ["suger", "zhuan", "salt"],
+    "timeline": 0
   },
-  "act20sre": {
+  {
+    "id": "act2switch",
+    "name": "登览锦绣",
+    "type": "SWITCH",
+    "color": ["#ff7f31"],
+    "start": "2023-09-05 16:00",
+    "days": 7,
+    "timeline": 4
+  },
+  {
     "id": "act20sre",
     "name": "理想城：长夏狂欢季·复刻",
-    "type": "TYPE_ACT20SIDE",
-    "color": [],
-    "startTime": 1693468800,
-    "endTime": 1694289599,
-    "rewardEndTime": 1694635199,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#45c0ff"],
+    "start": "2023-08-31 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4054_malist"
+    },
+    "drop": ["tong", "rma", "jiao"],
+    "timeline": 2
   },
-  "act3bossrush": {
+  {
     "id": "act3bossrush",
-    "name": "引航者试炼",
-    "type": "BOSS_RUSH",
-    "color": [],
-    "startTime": 1692345600,
-    "endTime": 1693511999,
-    "rewardEndTime": 1693771199,
-    "isReplicate": false
+    "name": "引航者试炼#03",
+    "type": "BOSSRUSH",
+    "color": ["#f4c430"],
+    "start": "2023-08-18 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "锡兰"
+    },
+    "timeline": 3
   },
-  "act27side": {
+  {
     "id": "act27side",
     "name": "火山旅梦",
-    "type": "TYPE_ACT27SIDE",
-    "color": [],
-    "startTime": 1690862400,
-    "endTime": 1692647999,
-    "rewardEndTime": 1693252799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#fb7595"],
+    "start": "2023-08-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4106_bryota"
+    },
+    "drop": ["tong", "unit", "meng"],
+    "timeline": 0
   },
-  "act16login": {
-    "id": "act16login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#ff3e6c"],
-    "startTime": 1690862400,
-    "endTime": 1692043199,
-    "rewardEndTime": 1692043199,
-    "isReplicate": false
-  },
-  "act34sign": {
+  {
     "id": "act34sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「氤氲奇境」限时签到",
+    "type": "CHECKIN",
     "color": ["#0098dc"],
-    "startTime": 1690862400,
-    "endTime": 1692043199,
-    "rewardEndTime": 1692043199,
-    "isReplicate": false
+    "start": "2023-08-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_4041_chnut@summer#12"
+    },
+    "timeline": 2
   },
-  "act6pray": {
-    "id": "act6pray",
-    "name": "龙门幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1690862400,
-    "endTime": 1692043199,
-    "rewardEndTime": 1692043199,
-    "isReplicate": false
-  },
-  "act19sre": {
+  {
     "id": "act19sre",
     "name": "绿野幻梦·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1689667200,
-    "endTime": 1690487999,
-    "rewardEndTime": 1690833599,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#a1d82b"],
+    "start": "2023-07-18 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_135_halo"
+    },
+    "drop": ["zhi", "chun", "hejin"],
+    "timeline": 0
   },
-  "act15mini": {
+  {
     "id": "act15mini",
     "name": "眠于树影之中",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1688616000,
-    "endTime": 1689191999,
-    "rewardEndTime": 1689451199,
-    "isReplicate": false
+    "color": ["#54788d"],
+    "start": "2023-07-06 12:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_302_glaze@summer#11"
+    },
+    "timeline": 0
   },
-  "act26side": {
-    "id": "act26side",
-    "name": "空想花庭",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1686196800,
-    "endTime": 1687377599,
-    "rewardEndTime": 1687982399,
-    "isReplicate": false
-  },
-  "act1signvs": {
-    "id": "act1signvs",
-    "name": "端阳正午签到活动",
-    "type": "CHECKIN_VS",
-    "color": ["#6a8029"],
-    "startTime": 1687291200,
-    "endTime": 1688155199,
-    "rewardEndTime": 1688155199,
-    "isReplicate": false
-  },
-  "act1switch": {
+  {
     "id": "act1switch",
-    "name": "宿于繁星合作活动",
-    "type": "SWITCH_ONLY",
+    "name": "宿于繁星",
+    "type": "SWITCH",
     "color": ["#0e3092"],
-    "startTime": 1688025600,
-    "endTime": 1689191999,
-    "rewardEndTime": 1689191999,
-    "isReplicate": false
+    "start": "2023-06-29 16:00",
+    "days": 14,
+    "timeline": 2
   },
-  "act18sre": {
+  {
+    "id": "act1signvs",
+    "name": "端阳正午 甜咸竞渡大比拼",
+    "type": "LUNAR",
+    "color": ["#6a8029"],
+    "start": "2023-06-21 04:00",
+    "days": 10,
+    "timeline": 4
+  },
+  {
     "id": "act18sre",
     "name": "尘影余音·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1687248000,
-    "endTime": 1688068799,
-    "rewardEndTime": 1688414399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#aa2e1e"],
+    "start": "2023-06-20 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4047_pianst"
+    },
+    "drop": ["suger", "zhuan", "rongji"],
+    "timeline": 2
   },
-  "act38d1": {
+  {
+    "id": "act26side",
+    "name": "空想花庭",
+    "type": "SIDESTORY",
+    "color": ["#8b9ba5"],
+    "start": "2023-06-08 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_498_inside"
+    },
+    "drop": ["stone", "jiao", "rma"],
+    "timeline": 0
+  },
+  {
     "id": "act38d1",
     "name": "尖灭测试作战",
-    "type": "DEFAULT",
-    "color": [],
-    "startTime": 1684742400,
-    "endTime": 1685908799,
-    "rewardEndTime": 1686167999,
-    "isReplicate": false
+    "type": "CRISIS",
+    "color": ["#df0001"],
+    "start": "2023-05-22 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "正义骑士号"
+    },
+    "timeline": 2
   },
-  "act25side": {
+  {
+    "id": "act1checkin",
+    "name": "「未来序曲」限时签到",
+    "type": "CHECKIN",
+    "color": ["#f86828"],
+    "start": "2023-05-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_278_orchid@boc#6"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act25side",
     "name": "孤星",
-    "type": "TYPE_ACT25SIDE",
-    "color": [],
-    "startTime": 1682913600,
-    "endTime": 1684699199,
-    "rewardEndTime": 1685303999,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#f5eedb"],
+    "start": "2023-05-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_1031_slent2"
+    },
+    "drop": ["tong", "ye", "hejin"],
+    "timeline": 0
   },
-  "act1checkin": {
-    "id": "act1checkin",
-    "name": "未来序曲签到活动",
-    "type": "CHECKIN_ALL_PLAYER",
-    "color": ["#f86828"],
-    "startTime": 1682913600,
-    "endTime": 1684094399,
-    "rewardEndTime": 1684094399,
-    "isReplicate": false
-  },
-  "act15login": {
-    "id": "act15login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#cfd340"],
-    "startTime": 1682913600,
-    "endTime": 1684094399,
-    "rewardEndTime": 1684094399,
-    "isReplicate": false
-  },
-  "act4mine": {
-    "id": "act4mine",
-    "name": "潘尼谷矿区登录活动",
-    "type": "GRID_GACHA_V2",
-    "color": ["#cb271f"],
-    "startTime": 1682913600,
-    "endTime": 1684094399,
-    "rewardEndTime": 1684094399,
-    "isReplicate": false
-  },
-  "act17sre": {
+  {
     "id": "act17sre",
     "name": "愚人号·复刻",
-    "type": "TYPE_ACT17SIDE",
-    "color": [],
-    "startTime": 1681977600,
-    "endTime": 1682798399,
-    "rewardEndTime": 1683143999,
-    "isReplicate": true
+    "type": "BRANCHLINE",
+    "color": ["#55aed3"],
+    "start": "2023-04-20 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4042_lumen"
+    },
+    "drop": ["iron", "meng", "ye"],
+    "timeline": 0
   },
-  "act4fun": {
+  {
+    "id": "actmain12",
+    "name": "EP12 惊霆无声",
+    "type": "MAINLINE",
+    "color": ["#e57768"],
+    "start": "2023-04-06 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "摩根"
+    },
+    "timeline": 0
+  },
+  {
     "id": "act4fun",
-    "name": "愚人节活动",
-    "type": "APRIL_FOOL",
-    "color": [],
-    "startTime": 1680336000,
-    "endTime": 1680897599,
-    "rewardEndTime": 1680897599,
-    "isReplicate": false
+    "name": "主播U：全能系美少女",
+    "type": "APRIL",
+    "color": ["#fb7081"],
+    "start": "2023-04-01 16:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "U-Official"
+    },
+    "timeline": 4
   },
-  "act24side": {
+  {
+    "id": "rune_season_12_1",
+    "name": "起源行动",
+    "type": "CRISIS",
+    "color": ["#ff0000"],
+    "start": "2023-03-21 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "星极"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act24side",
     "name": "落叶逐火",
-    "type": "TYPE_ACT24SIDE",
-    "color": [],
-    "startTime": 1678161600,
-    "endTime": 1679342399,
-    "rewardEndTime": 1679947199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#c70607"],
+    "start": "2023-03-07 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4077_palico"
+    },
+    "drop": ["zhi", "device", "salt"],
+    "timeline": 0
   },
-  "act1flip": {
-    "id": "act1flip",
-    "name": "哗啦啦祈愿牌",
-    "type": "FLIP_ONLY",
-    "color": ["#d43822"],
-    "startTime": 1678161600,
-    "endTime": 1679342399,
-    "rewardEndTime": 1679342399,
-    "isReplicate": false
-  },
-  "act1mainbuff": {
-    "id": "act1mainbuff",
-    "name": "战备支援",
-    "type": "MAIN_BUFF",
-    "color": ["#0098dc"],
-    "startTime": 1679515200,
-    "endTime": 1681934399,
-    "rewardEndTime": 1681934399,
-    "isReplicate": false
-  },
-  "act14login": {
-    "id": "act14login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#e74d38"],
-    "startTime": 1678161600,
-    "endTime": 1679342399,
-    "rewardEndTime": 1679342399,
-    "isReplicate": false
-  },
-  "act1sandbox": {
-    "id": "act1sandbox",
-    "name": "生息演算：沙中之火",
-    "type": "DEFAULT",
-    "color": [],
-    "startTime": 1674979200,
-    "endTime": 1677959999,
-    "rewardEndTime": 1678564799,
-    "isReplicate": false
-  },
-  "act16sre": {
+  {
     "id": "act16sre",
     "name": "吾导先路·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1676966400,
-    "endTime": 1677787199,
-    "rewardEndTime": 1678132799,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#fcbb4c"],
+    "start": "2023-02-21 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4036_forcer"
+    },
+    "drop": ["suger", "chun", "jiao"],
+    "timeline": 0
   },
-  "act14mini": {
+  {
     "id": "act14mini",
     "name": "春分",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1676361600,
-    "endTime": 1676923199,
-    "rewardEndTime": 1677182399,
-    "isReplicate": false
+    "color": ["#626157"],
+    "start": "2023-02-14 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_110_deepcl@winter#3"
+    },
+    "timeline": 0
   },
-  "act33sign": {
-    "id": "act33sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#B32534"],
-    "startTime": 1674331200,
-    "endTime": 1676145599,
-    "rewardEndTime": 1676145599,
-    "isReplicate": false
+  {
+    "id": "act1sandbox",
+    "name": "生息演算：沙中之火",
+    "type": "SAND",
+    "color": ["#d8d974"],
+    "start": "2023-01-29 16:00",
+    "days": 35,
+    "reward": {
+      "type": "skin",
+      "id": "帕拉斯"
+    },
+    "timeline": 2
   },
-  "act5pray": {
-    "id": "act5pray",
-    "name": "龙门幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1673928000,
-    "endTime": 1675108799,
-    "rewardEndTime": 1675108799,
-    "isReplicate": false
-  },
-  "act13login": {
-    "id": "act13login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#ff6c00"],
-    "startTime": 1673928000,
-    "endTime": 1675108799,
-    "rewardEndTime": 1675108799,
-    "isReplicate": false
-  },
-  "act23side": {
+  {
     "id": "act23side",
     "name": "登临意",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1673928000,
-    "endTime": 1675108799,
-    "rewardEndTime": 1675713599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#d9a47f"],
+    "start": "2023-01-17 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4078_bdhkgt"
+    },
+    "drop": ["tong", "meng", "unit"],
+    "timeline": 0
   },
-  "act15sre": {
+  {
+    "id": "act2bossrush",
+    "name": "引航者试炼#02",
+    "type": "BOSSRUSH",
+    "color": ["#f4c430"],
+    "start": "2023-01-10 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "夜半"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act15sre",
     "name": "将进酒·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1672560000,
-    "endTime": 1673380799,
-    "rewardEndTime": 1673726399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#d0a468"],
+    "start": "2023-01-01 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_1021_kroos2"
+    },
+    "drop": ["device", "stone", "rma"],
+    "timeline": 0
   },
-  "act32sign": {
+  {
     "id": "act32sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "2023跨年纪念限时签到",
+    "type": "CHECKIN",
     "color": ["#ec2d3e"],
-    "startTime": 1671825600,
-    "endTime": 1673035199,
-    "rewardEndTime": 1673035199,
-    "isReplicate": false
+    "start": "2022-12-24 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_4004_pudd@snow#5"
+    },
+    "timeline": 2
   },
-  "act22side": {
+  {
     "id": "act22side",
     "name": "照我以火",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1671076800,
-    "endTime": 1672257599,
-    "rewardEndTime": 1672862399,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#8d6eca"],
+    "start": "2022-12-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4017_puzzle"
+    },
+    "drop": ["iron", "suger", "rongji"],
+    "timeline": 0
   },
-  "act2bossrush": {
-    "id": "act2bossrush",
-    "name": "引航者试炼",
-    "type": "BOSS_RUSH",
-    "color": [],
-    "startTime": 1673337600,
-    "endTime": 1673899199,
-    "rewardEndTime": 1674158399,
-    "isReplicate": false
-  },
-  "act21side": {
-    "id": "act21side",
-    "name": "叙拉古人",
-    "type": "TYPE_ACT21SIDE",
-    "color": [],
-    "startTime": 1667275200,
-    "endTime": 1669060799,
-    "rewardEndTime": 1669665599,
-    "isReplicate": false
-  },
-  "act1float": {
-    "id": "act1float",
-    "name": "纽莱堡市产业合作洽谈会",
-    "type": "FLOAT_PARADE",
-    "color": ["#1fbcb6"],
-    "startTime": 1667275200,
-    "endTime": 1668455999,
-    "rewardEndTime": 1668455999,
-    "isReplicate": false
-  },
-  "act12login": {
-    "id": "act12login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#3751f1"],
-    "startTime": 1667275200,
-    "endTime": 1668455999,
-    "rewardEndTime": 1668455999,
-    "isReplicate": false
-  },
-  "act14sre": {
+  {
     "id": "act14sre",
     "name": "风雪过境·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1669881600,
-    "endTime": 1670702399,
-    "rewardEndTime": 1671047999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#91c1e0"],
+    "start": "2022-12-01 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4013_kjera"
+    },
+    "drop": ["zhi", "zhuan", "hejin"],
+    "timeline": 0
   },
-  "act31sign": {
+  {
+    "id": "rune_season_11_1",
+    "name": "赝波行动",
+    "type": "CRISIS",
+    "color": ["#608a9a"],
+    "start": "2022-11-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "酸糖"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "act21side",
+    "name": "叙拉古人",
+    "type": "SIDESTORY",
+    "color": ["#5e49c8"],
+    "start": "2022-11-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_427_vigil"
+    },
+    "drop": ["stone", "hejin", "ye"],
+    "timeline": 0
+  },
+  {
     "id": "act31sign",
-    "name": "正逢雨季限时登录活动",
-    "type": "CHECKIN_ONLY",
+    "name": "「正逢雨季」限时签到",
+    "type": "CHECKIN",
     "color": ["#5d93ee"],
-    "startTime": 1667275200,
-    "endTime": 1668455999,
-    "rewardEndTime": 1668455999,
-    "isReplicate": false
+    "start": "2022-11-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_492_quercu@epoque#17"
+    },
+    "timeline": 2
   },
-  "act30sign": {
-    "id": "act30sign",
-    "name": "秋风送爽限时登录活动",
-    "type": "CHECKIN_ONLY",
-    "color": ["#5d93ee"],
-    "startTime": 1664568000,
-    "endTime": 1665431999,
-    "rewardEndTime": 1665431999,
-    "isReplicate": false
-  },
-  "act11login": {
+  {
     "id": "act11login",
-    "name": "《明日方舟：黎明前奏》开播纪念活动",
-    "type": "LOGIN_ONLY",
+    "name": "《明日方舟：黎明前奏》开播纪念",
+    "type": "LOGIN",
     "color": [],
-    "startTime": 1666900800,
-    "endTime": 1668628799,
-    "rewardEndTime": 1668628799,
-    "isReplicate": false
+    "start": "2022-10-28 04:00",
+    "days": 20,
+    "timeline": 4
   },
-  "act29sign": {
-    "id": "act29sign",
-    "name": "桂时逢月——月饼烘焙小教程",
-    "type": "CHECKIN_ONLY",
-    "color": ["#ff4200"],
-    "startTime": 1662609600,
-    "endTime": 1663444799,
-    "rewardEndTime": 1663444799,
-    "isReplicate": false
+  {
+    "id": "actmain11",
+    "name": "EP11 淬火尘霾",
+    "type": "MAINLINE",
+    "color": ["#c17543"],
+    "start": "2022-10-11 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "达格达"
+    },
+    "timeline": 0
   },
-  "act13sre": {
+  {
+    "id": "act30sign",
+    "name": "「秋风送爽」限时签到",
+    "type": "CHECKIN",
+    "color": ["#5d93ee"],
+    "start": "2022-10-01 04:00",
+    "days": 10,
+    "reward": {
+      "type": "skin",
+      "id": "char_210_stward@sale#6"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act13sre",
     "name": "长夜临光·复刻",
-    "type": "TYPE_ACT13SIDE",
-    "color": [],
-    "startTime": 1663833600,
-    "endTime": 1664654399,
-    "rewardEndTime": 1664999999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#bd3136"],
+    "start": "2022-09-22 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_496_wildmn"
+    },
+    "drop": ["suger", "chun", "unit"],
+    "timeline": 0
   },
-  "act13mini": {
+  {
     "id": "act13mini",
     "name": "好久不见",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1663228800,
-    "endTime": 1663790399,
-    "rewardEndTime": 1664049599,
-    "isReplicate": false
+    "color": ["#83C01B"],
+    "start": "2022-09-15 16:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_4067_lolxh"
+    },
+    "timeline": 0
   },
-  "act12mini": {
+  {
     "id": "act12mini",
     "name": "日暮寻路",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1662609600,
-    "endTime": 1663185599,
-    "rewardEndTime": 1663444799,
-    "isReplicate": false
+    "color": ["#8B7A51"],
+    "start": "2022-09-08 12:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_337_utage@epoque#15"
+    },
+    "timeline": 0
   },
-  "act20side": {
+  {
+    "id": "act29sign",
+    "name": "桂时逢月——月饼烘焙小教程",
+    "type": "LUNAR",
+    "color": ["#ff4200"],
+    "start": "2022-09-08 16:00",
+    "days": 10,
+    "timeline": 4
+  },
+  {
+    "id": "rune_season_10_1",
+    "name": "尘环行动",
+    "type": "CRISIS",
+    "color": ["#935839"],
+    "start": "2022-08-25 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "布洛卡"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "act1bossrush",
+    "name": "引航者试炼#01",
+    "type": "BOSSRUSH",
+    "color": ["#f4c430"],
+    "start": "2022-08-18 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "罗比菈塔"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act20side",
     "name": "理想城：长夏狂欢季",
-    "type": "TYPE_ACT20SIDE",
-    "color": [],
-    "startTime": 1660190400,
-    "endTime": 1661975999,
-    "rewardEndTime": 1662580799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#45c0ff"],
+    "start": "2022-08-11 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4054_malist"
+    },
+    "drop": ["tong", "rma", "jiao"],
+    "timeline": 0
   },
-  "act1bossrush": {
-    "id": "act1bossrush",
-    "name": "引航者试炼",
-    "type": "BOSS_RUSH",
-    "color": [],
-    "startTime": 1660809600,
-    "endTime": 1661371199,
-    "rewardEndTime": 1661630399,
-    "isReplicate": false
-  },
-  "act10login": {
-    "id": "act10login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#51b103"],
-    "startTime": 1660190400,
-    "endTime": 1661371199,
-    "rewardEndTime": 1661371199,
-    "isReplicate": false
-  },
-  "act28sign": {
-    "id": "act28sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#4885ff"],
-    "startTime": 1660190400,
-    "endTime": 1661371199,
-    "rewardEndTime": 1661371199,
-    "isReplicate": false
-  },
-  "act4pray": {
-    "id": "act4pray",
-    "name": "际崖城惊奇墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1660190400,
-    "endTime": 1661371199,
-    "rewardEndTime": 1661371199,
-    "isReplicate": false
-  },
-  "act12sre": {
+  {
     "id": "act12sre",
     "name": "多索雷斯假日·复刻",
-    "type": "TYPE_ACT12SIDE",
-    "color": [],
-    "startTime": 1658822400,
-    "endTime": 1659643199,
-    "rewardEndTime": 1659988799,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#067ef9"],
+    "start": "2022-07-26 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_486_takila"
+    },
+    "drop": ["iron", "stone", "meng"],
+    "timeline": 0
   },
-  "act11mini": {
+  {
     "id": "act11mini",
     "name": "未尽篇章",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1658217600,
-    "endTime": 1658779199,
-    "rewardEndTime": 1659038399,
-    "isReplicate": false
+    "color": ["#b9501f"],
+    "start": "2022-07-19 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_211_adnach@sale#5"
+    },
+    "timeline": 0
   },
-  "act19side": {
+  {
     "id": "act19side",
     "name": "绿野幻梦",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1656993600,
-    "endTime": 1658174399,
-    "rewardEndTime": 1658779199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#a1d82b"],
+    "start": "2022-07-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_135_halo"
+    },
+    "drop": ["zhi", "chun", "hejin"],
+    "timeline": 0
   },
-  "act18side": {
+  {
     "id": "act18side",
     "name": "尘影余音",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1654747200,
-    "endTime": 1655927999,
-    "rewardEndTime": 1656532799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#aa2e1e"],
+    "start": "2022-06-09 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4047_pianst"
+    },
+    "drop": ["suger", "zhuan", "rongji"],
+    "timeline": 0
   },
-  "act27sign": {
+  {
     "id": "act27sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "端午限时签到",
+    "type": "LUNAR",
     "color": ["#209b74"],
-    "startTime": 1654200000,
-    "endTime": 1655063999,
-    "rewardEndTime": 1655063999,
-    "isReplicate": false
+    "start": "2022-06-03 04:00",
+    "days": 10,
+    "timeline": 4
   },
-  "act11sre": {
+  {
     "id": "act11sre",
     "name": "覆潮之下·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1653897600,
-    "endTime": 1654718399,
-    "rewardEndTime": 1655063999,
-    "isReplicate": true
+    "type": "BRANCHLINE",
+    "color": ["#1fc0a4"],
+    "start": "2022-05-30 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_474_glady"
+    },
+    "drop": ["device", "stone", "unit"],
+    "timeline": 0
   },
-  "act9login": {
-    "id": "act9login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#00cef3"],
-    "startTime": 1651388400,
-    "endTime": 1652558399,
-    "rewardEndTime": 1652558399,
-    "isReplicate": false
+  {
+    "id": "rune_season_9_1",
+    "name": "渊默行动",
+    "type": "CRISIS",
+    "color": ["#6f979b"],
+    "start": "2022-05-19 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "埃拉托"
+    },
+    "timeline": 2
   },
-  "act17side": {
+  {
     "id": "act17side",
     "name": "愚人号",
-    "type": "TYPE_ACT17SIDE",
-    "color": [],
-    "startTime": 1651388400,
-    "endTime": 1653163199,
-    "rewardEndTime": 1653767999,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#55aed3"],
+    "start": "2022-05-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_4042_lumen"
+    },
+    "drop": ["iron", "meng", "ye"],
+    "timeline": 0
   },
-  "act26sign": {
+  {
     "id": "act26sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「三周年庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#4885ff"],
-    "startTime": 1651388400,
-    "endTime": 1652558399,
-    "rewardEndTime": 1652558399,
-    "isReplicate": false
+    "start": "2022-05-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_193_frostl@boc#4"
+    },
+    "timeline": 2
   },
-  "act3mine": {
-    "id": "act3mine",
-    "name": "葫芦谷矿区登录活动",
-    "type": "GRID_GACHA_V2",
-    "color": ["#cb271f"],
-    "startTime": 1651388400,
-    "endTime": 1652558399,
-    "rewardEndTime": 1652558399,
-    "isReplicate": false
+  {
+    "id": "actmain10",
+    "name": "EP10 破碎日冕",
+    "type": "BRANCHLINE",
+    "color": ["#4b5c66"],
+    "start": "2022-04-14 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "海蒂"
+    },
+    "timeline": 0
   },
-  "act3fun": {
+  {
     "id": "act3fun",
-    "name": "愚人节活动",
-    "type": "APRIL_FOOL",
-    "color": [],
-    "startTime": 1648800000,
-    "endTime": 1649361599,
-    "rewardEndTime": 1649361599,
-    "isReplicate": false
+    "name": "狂弹要塞！罗德大兵集结！",
+    "type": "APRIL",
+    "color": ["#25e183"],
+    "start": "2022-04-01 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_159_peacok@game#1"
+    },
+    "timeline": 4
   },
-  "act10sre": {
+  {
     "id": "act10sre",
     "name": "遗尘漫步·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1648540800,
-    "endTime": 1649361599,
-    "rewardEndTime": 1649707199,
-    "isReplicate": true
+    "type": "BRANCHLINE",
+    "color": ["#e7ec62"],
+    "start": "2022-03-29 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_304_zebra"
+    },
+    "drop": ["tong", "zhi", "rma"],
+    "timeline": 0
   },
-  "act16side": {
+  {
     "id": "act16side",
     "name": "吾导先路",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1647316800,
-    "endTime": 1648497599,
-    "rewardEndTime": 1649102399,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#fcbb4c"],
+    "start": "2022-03-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4036_forcer"
+    },
+    "drop": ["suger", "chun", "jiao"],
+    "timeline": 0
   },
-  "act10mini": {
+  {
+    "id": "rune_season_8_1",
+    "name": "寻昼行动",
+    "type": "CRISIS",
+    "color": ["#204686"],
+    "start": "2022-02-24 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "石棉"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act10mini",
     "name": "阴云火花",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1644912000,
-    "endTime": 1645473599,
-    "rewardEndTime": 1645732799,
-    "isReplicate": false
+    "color": ["#2c2d35"],
+    "start": "2022-02-15 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_347_jaksel@whirlwind#2"
+    },
+    "timeline": 0
   },
-  "act25sign": {
+  {
     "id": "act25sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「福至岁来」限时签到",
+    "type": "CHECKIN",
     "color": ["#986bdc"],
-    "startTime": 1643659200,
-    "endTime": 1645473599,
-    "rewardEndTime": 1645473599,
-    "isReplicate": false
+    "start": "2022-02-01 04:00",
+    "days": 21,
+    "reward": {
+      "type": "skin",
+      "id": "char_469_indigo@nian#7"
+    },
+    "timeline": 2
   },
-  "act15side": {
+  {
     "id": "act15side",
     "name": "将进酒",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1643083200,
-    "endTime": 1644263999,
-    "rewardEndTime": 1644868799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#d0a468"],
+    "start": "2022-01-25 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_1021_kroos2"
+    },
+    "drop": ["device", "stone", "rma"],
+    "timeline": 0
   },
-  "act8login": {
-    "id": "act8login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#e79300"],
-    "startTime": 1643083200,
-    "endTime": 1644263999,
-    "rewardEndTime": 1644263999,
-    "isReplicate": false
-  },
-  "act3pray": {
-    "id": "act3pray",
-    "name": "龙门幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1643083200,
-    "endTime": 1644263999,
-    "rewardEndTime": 1644263999,
-    "isReplicate": false
-  },
-  "act24sign": {
+  {
     "id": "act24sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「吉兆呈祥」限时签到",
+    "type": "CHECKIN",
     "color": ["#d49e38"],
-    "startTime": 1641801600,
-    "endTime": 1642622399,
-    "rewardEndTime": 1642622399,
-    "isReplicate": false
+    "start": "2022-01-10 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_4019_ncdeer"
+    },
+    "timeline": 2
   },
-  "act9sre": {
+  {
     "id": "act9sre",
     "name": "画中人·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1641801600,
-    "endTime": 1642622399,
-    "rewardEndTime": 1642967999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#cdefe2"],
+    "start": "2022-01-10 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_1011_lava2"
+    },
+    "drop": ["zhi", "stone", "hejin"],
+    "timeline": 0
   },
-  "act23sign": {
+  {
     "id": "act23sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "2022跨年纪念限时签到",
+    "type": "CHECKIN",
     "color": ["#b3b347"],
-    "startTime": 1640289600,
-    "endTime": 1641499199,
-    "rewardEndTime": 1641499199,
-    "isReplicate": false
+    "start": "2021-12-24 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_452_bstalk@snow#4"
+    },
+    "timeline": 2
   },
-  "act14side": {
+  {
     "id": "act14side",
     "name": "风雪过境",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1640059200,
-    "endTime": 1641239999,
-    "rewardEndTime": 1641844799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#91c1e0"],
+    "start": "2021-12-21 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_4013_kjera"
+    },
+    "drop": ["zhi", "zhuan", "hejin"],
+    "timeline": 0
   },
-  "act8sre": {
+  {
     "id": "act8sre",
     "name": "孤岛风云·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1638864000,
-    "endTime": 1639684799,
-    "rewardEndTime": 1640030399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#bb3115"],
+    "start": "2021-12-07 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_451_robin"
+    },
+    "drop": ["tong", "iron", "suger"],
+    "timeline": 0
   },
-  "act22sign": {
+  {
+    "id": "rune_season_7_1",
+    "name": "松烟行动",
+    "type": "CRISIS",
+    "color": ["#a48148"],
+    "start": "2021-11-22 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "阿"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act22sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「感谢庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#dbb15b"],
-    "startTime": 1635739200,
-    "endTime": 1636919999,
-    "rewardEndTime": 1636919999,
-    "isReplicate": false
+    "start": "2021-11-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_151_myrtle@epoque#12"
+    },
+    "timeline": 2
   },
-  "act7login": {
-    "id": "act7login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#ff9b00"],
-    "startTime": 1635739200,
-    "endTime": 1636919999,
-    "rewardEndTime": 1636919999,
-    "isReplicate": false
-  },
-  "act2mine": {
-    "id": "act2mine",
-    "name": "波平谷矿区登录活动",
-    "type": "GRID_GACHA_V2",
-    "color": ["#cb271f"],
-    "startTime": 1635739200,
-    "endTime": 1636919999,
-    "rewardEndTime": 1636919999,
-    "isReplicate": false
-  },
-  "act13side": {
+  {
     "id": "act13side",
     "name": "长夜临光",
-    "type": "TYPE_ACT13SIDE",
-    "color": [],
-    "startTime": 1635739200,
-    "endTime": 1637524799,
-    "rewardEndTime": 1638129599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#bd3136"],
+    "start": "2021-11-01 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_496_wildmn"
+    },
+    "drop": ["suger", "chun", "unit"],
+    "timeline": 0
   },
-  "act9mini": {
+  {
     "id": "act9mini",
     "name": "红松林",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1634284800,
-    "endTime": 1634846399,
-    "rewardEndTime": 1635105599,
-    "isReplicate": false
+    "color": ["#521717"],
+    "start": "2021-10-15 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_328_cammou@witch#2"
+    },
+    "timeline": 0
   },
-  "act7sre": {
+  {
     "id": "act7sre",
     "name": "玛莉娅·临光·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1633075200,
-    "endTime": 1633895999,
-    "rewardEndTime": 1634241599,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#bb9b67"],
+    "start": "2021-10-01 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_265_sophia"
+    },
+    "drop": ["zhi", "meng", "jiao"],
+    "timeline": 0
   },
-  "act21sign": {
+  {
     "id": "act21sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「秋意盎然」限时签到",
+    "type": "CHECKIN",
     "color": ["#89bc6f"],
-    "startTime": 1633032000,
-    "endTime": 1633895999,
-    "rewardEndTime": 1633895999,
-    "isReplicate": false
+    "start": "2021-10-01 04:00",
+    "days": 10,
+    "reward": {
+      "type": "skin",
+      "id": "char_126_shotst@epoque#10"
+    },
+    "timeline": 2
   },
-  "act20sign": {
+  {
+    "id": "actmain9",
+    "name": "EP09 风暴瞭望",
+    "type": "MAINLINE",
+    "color": ["#565044"],
+    "start": "2021-09-17 16:00",
+    "days": 14,
+    "timeline": 0
+  },
+  {
     "id": "act20sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「怀望桑梓」限时签到",
+    "type": "CHECKIN",
     "color": ["#ff5f27"],
-    "startTime": 1631851200,
-    "endTime": 1632599999,
-    "rewardEndTime": 1632599999,
-    "isReplicate": false
+    "start": "2021-09-17 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_440_pinecn@shining#1"
+    },
+    "timeline": 2
   },
-  "act12side": {
+  {
+    "id": "rune_season_6_1",
+    "name": "蛮鳞行动",
+    "type": "CRISIS",
+    "color": ["#a1a269"],
+    "start": "2021-08-26 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "华法琳"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act12side",
     "name": "多索雷斯假日",
-    "type": "TYPE_ACT12SIDE",
-    "color": [],
-    "startTime": 1627963200,
-    "endTime": 1629748799,
-    "rewardEndTime": 1630353599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#067ef9"],
+    "start": "2021-08-03 16:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_486_takila"
+    },
+    "drop": ["iron", "stone", "meng"],
+    "timeline": 0
   },
-  "act19sign": {
-    "id": "act19sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#0491e8"],
-    "startTime": 1627963200,
-    "endTime": 1629143999,
-    "rewardEndTime": 1629143999,
-    "isReplicate": false
-  },
-  "act2pray": {
-    "id": "act2pray",
-    "name": "双日城惊奇墙",
-    "type": "PRAY_ONLY",
-    "color": ["#133bda"],
-    "startTime": 1627963200,
-    "endTime": 1629143999,
-    "rewardEndTime": 1629143999,
-    "isReplicate": false
-  },
-  "act6login": {
-    "id": "act6login",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#01f3f0"],
-    "startTime": 1627963200,
-    "endTime": 1629143999,
-    "rewardEndTime": 1629143999,
-    "isReplicate": false
-  },
-  "act6sre": {
+  {
     "id": "act6sre",
     "name": "密林悍将归来·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1626768000,
-    "endTime": 1627588799,
-    "rewardEndTime": 1627934399,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#00ffba"],
+    "start": "2021-07-20 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_411_tomimi"
+    },
+    "drop": ["suger", "stone", "rma"],
+    "timeline": 0
   },
-  "act8mini": {
+  {
     "id": "act8mini",
     "name": "如我所见",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1626163200,
-    "endTime": 1626724799,
-    "rewardEndTime": 1626983999,
-    "isReplicate": false
+    "color": ["#730303"],
+    "start": "2021-07-13 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_145_prove@wild#5"
+    },
+    "timeline": 0
   },
-  "act1lock": {
+  {
     "id": "act1lock",
-    "name": "荷谟伊智境",
-    "type": "INTERLOCK",
-    "color": [],
-    "startTime": 1625198400,
-    "endTime": 1625774399,
-    "rewardEndTime": 1626033599,
-    "isReplicate": false
+    "name": "联锁竞赛「荷谟伊智境」",
+    "type": "OTHER",
+    "color": ["#fd7802"],
+    "start": "2021-07-02 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "波登可"
+    },
+    "timeline": 2
   },
-  "act5sre": {
+  {
     "id": "act5sre",
     "name": "沃伦姆德的薄暮·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1623916800,
-    "endTime": 1624737599,
-    "rewardEndTime": 1625083199,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#99834E"],
+    "start": "2021-06-17 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_345_folnic"
+    },
+    "drop": ["tong", "zhuan", "hejin"],
+    "timeline": 0
   },
-  "act18sign": {
+  {
     "id": "act18sign",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "端午限时签到",
+    "type": "LUNAR",
     "color": ["#008a67"],
-    "startTime": 1623268800,
-    "endTime": 1624132799,
-    "rewardEndTime": 1624132799,
-    "isReplicate": false
+    "start": "2021-06-10 04:00",
+    "days": 10,
+    "timeline": 4
   },
-  "act7mini": {
+  {
     "id": "act7mini",
     "name": "灯火序曲",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1622520000,
-    "endTime": 1623095999,
-    "rewardEndTime": 1623355199,
-    "isReplicate": false
+    "color": ["#b52714"],
+    "start": "2021-06-01 12:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_369_bena"
+    },
+    "timeline": 0
   },
-  "act18d3d3": {
+  {
+    "id": "rune_season_5_1",
+    "name": "光谱行动",
+    "type": "CRISIS",
+    "color": ["#1153b6"],
+    "start": "2021-05-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "蓝毒"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act18d3d3",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「二周年庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#0083ff"],
-    "startTime": 1619852400,
-    "endTime": 1621022399,
-    "rewardEndTime": 1621022399,
-    "isReplicate": false
+    "start": "2021-05-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_284_spot@boc#3"
+    },
+    "timeline": 2
   },
-  "act18d3d2": {
-    "id": "act18d3d2",
-    "name": "兔子谷矿区登录活动",
-    "type": "GRID_GACHA",
-    "color": ["#b91600"],
-    "startTime": 1619852400,
-    "endTime": 1621022399,
-    "rewardEndTime": 1621022399,
-    "isReplicate": false
-  },
-  "act18d3d1": {
-    "id": "act18d3d1",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#00cef3"],
-    "startTime": 1619852400,
-    "endTime": 1621022399,
-    "rewardEndTime": 1621022399,
-    "isReplicate": false
-  },
-  "act18d3": {
+  {
     "id": "act18d3",
     "name": "覆潮之下",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1619852400,
-    "endTime": 1621022399,
-    "rewardEndTime": 1621627199,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#1fc0a4"],
+    "start": "2021-05-01 15:00",
+    "days": 21,
+    "reward": {
+      "type": "char",
+      "id": "char_474_glady"
+    },
+    "drop": ["device", "stone", "unit"],
+    "timeline": 0
   },
-  "act18d0": {
+  {
     "id": "act18d0",
     "name": "遗尘漫步",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1618459200,
-    "endTime": 1619639999,
-    "rewardEndTime": 1620244799,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#e7ec62"],
+    "start": "2021-04-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_304_zebra"
+    },
+    "drop": ["tong", "zhi", "rma"],
+    "timeline": 0
   },
-  "act17d7": {
+  {
     "id": "act17d7",
-    "name": "愚人节活动",
-    "type": "TYPE_ACT17D7",
+    "name": "泰拉 说唱之夜！",
+    "type": "APRIL",
     "color": ["#ff7e00"],
-    "startTime": 1617264000,
-    "endTime": 1617825599,
-    "rewardEndTime": 1617825599,
-    "isReplicate": false
+    "start": "2021-04-01 16:00",
+    "days": 7,
+    "timeline": 4
   },
-  "act17d5": {
+  {
     "id": "act17d5",
     "name": "生于黑夜·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1617091200,
-    "endTime": 1617911999,
-    "rewardEndTime": 1618257599,
-    "isReplicate": true
+    "type": "BRANCHLINE",
+    "color": ["#a5a5a5"],
+    "start": "2021-03-30 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_333_sidero"
+    },
+    "drop": ["iron", "suger", "chun"],
+    "timeline": 0
   },
-  "act17d1": {
-    "id": "act17d1",
-    "name": "罗德岛防御协议",
-    "type": "MULTIPLAY",
-    "color": [],
-    "startTime": 1612324800,
-    "endTime": 1616443199,
-    "rewardEndTime": 1617047999,
-    "isReplicate": false
-  },
-  "act17d0d2": {
-    "id": "act17d0d2",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#ffae00"],
-    "startTime": 1615262400,
-    "endTime": 1616443199,
-    "rewardEndTime": 1616443199,
-    "isReplicate": false
-  },
-  "act17d0d1": {
-    "id": "act17d0d1",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#e16919"],
-    "startTime": 1615262400,
-    "endTime": 1616443199,
-    "rewardEndTime": 1616443199,
-    "isReplicate": false
-  },
-  "act17d0": {
+  {
     "id": "act17d0",
     "name": "源石尘行动",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1612324800,
-    "endTime": 1616443199,
-    "rewardEndTime": 1617047999,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#fb9f00"],
+    "start": "2021-03-09 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_459_tachak"
+    },
+    "drop": ["meng", "zhuan"],
+    "timeline": 0
   },
-  "act16d6": {
+  {
+    "id": "act17d1",
+    "name": "罗德岛防御协议",
+    "type": "OTHER",
+    "color": ["#f8b62a"],
+    "start": "2021-03-09 16:00",
+    "days": 14,
+    "timeline": 2
+  },
+  {
     "id": "act16d6",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「岁暮点雪」限时签到",
+    "type": "CHECKIN",
     "color": ["#2719fa"],
-    "startTime": 1613073600,
-    "endTime": 1614887999,
-    "rewardEndTime": 1614887999,
-    "isReplicate": false
+    "start": "2021-02-12 04:00",
+    "days": 21,
+    "reward": {
+      "type": "skin",
+      "id": "char_436_whispr@nian#4"
+    },
+    "timeline": 2
   },
-  "act16d5d2": {
-    "id": "act16d5d2",
-    "name": "龙门幸运墙登录活动",
-    "type": "PRAY_ONLY",
-    "color": ["#df462d"],
-    "startTime": 1612512000,
-    "endTime": 1613678399,
-    "rewardEndTime": 1613678399,
-    "isReplicate": false
-  },
-  "act16d5d1": {
-    "id": "act16d5d1",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#2ebf81"],
-    "startTime": 1612512000,
-    "endTime": 1613678399,
-    "rewardEndTime": 1613678399,
-    "isReplicate": false
-  },
-  "act16d5": {
+  {
     "id": "act16d5",
     "name": "画中人",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1612512000,
-    "endTime": 1613678399,
-    "rewardEndTime": 1614283199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#cdefe2"],
+    "start": "2021-02-05 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_1011_lava2"
+    },
+    "drop": ["zhi", "stone", "hejin"],
+    "timeline": 0
   },
-  "act15d5": {
+  {
+    "id": "rune_season_4_1",
+    "name": "铅封行动",
+    "type": "CRISIS",
+    "color": ["#198c8f"],
+    "start": "2021-01-19 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "图耶"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act15d5",
     "name": "此地之外",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1609833600,
-    "endTime": 1610395199,
-    "rewardEndTime": 1610654399,
-    "isReplicate": false
+    "color": ["#fb951a"],
+    "start": "2021-01-05 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_108_silent@winter#2"
+    },
+    "timeline": 0
   },
-  "act15d1": {
+  {
     "id": "act15d1",
-    "name": "跨年限时登录活动",
-    "type": "CHECKIN_ONLY",
+    "name": "2021跨年纪念限时签到",
+    "type": "CHECKIN",
     "color": ["#f92946"],
-    "startTime": 1608753600,
-    "endTime": 1609963199,
-    "rewardEndTime": 1609963199,
-    "isReplicate": false
+    "start": "2020-12-24 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_253_greyy@epoque#8"
+    },
+    "timeline": 2
   },
-  "act15d0": {
+  {
     "id": "act15d0",
     "name": "孤岛风云",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1608177600,
-    "endTime": 1609358399,
-    "rewardEndTime": 1609963199,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#bb3115"],
+    "start": "2020-12-17 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_451_robin"
+    },
+    "drop": ["tong", "iron", "suger"],
+    "timeline": 0
   },
-  "act14d7": {
+  {
     "id": "act14d7",
     "name": "喧闹法则·复刻",
-    "type": "TYPE_ACT5D0",
-    "color": [],
-    "startTime": 1606809600,
-    "endTime": 1607630399,
-    "rewardEndTime": 1607975999,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#2679e9"],
+    "start": "2020-12-01 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_325_bison"
+    },
+    "timeline": 0
   },
-  "act14d0d2": {
-    "id": "act14d0d2",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#538cff"],
-    "startTime": 1604203200,
-    "endTime": 1605383999,
-    "rewardEndTime": 1605383999,
-    "isReplicate": false
+  {
+    "id": "rune_season_3_1",
+    "name": "燃灰行动",
+    "type": "CRISIS",
+    "color": ["#c65194"],
+    "start": "2020-11-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "风笛"
+    },
+    "timeline": 2
   },
-  "act14d0d1": {
+  {
+    "id": "actmain8",
+    "name": "EP08 怒号光明",
+    "type": "MAINLINE",
+    "color": ["#feffaf"],
+    "start": "2020-11-01 16:00",
+    "days": 14,
+    "timeline": 0
+  },
+  {
     "id": "act14d0d1",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「感谢庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#ff6425"],
-    "startTime": 1604203200,
-    "endTime": 1605383999,
-    "rewardEndTime": 1605383999,
-    "isReplicate": false
+    "start": "2020-11-01 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_355_ethan@epoque#7"
+    },
+    "timeline": 2
   },
-  "act13d5": {
+  {
     "id": "act13d5",
     "name": "玛莉娅·临光",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1602748800,
-    "endTime": 1603915199,
-    "rewardEndTime": 1604519999,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#bb9b67"],
+    "start": "2020-10-15 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_265_sophia"
+    },
+    "drop": ["zhi", "meng", "jiao"],
+    "timeline": 0
   },
-  "act13d2": {
+  {
     "id": "act13d2",
     "name": "骑兵与猎人·复刻",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1601539200,
-    "endTime": 1602359999,
-    "rewardEndTime": 1602705599,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#c99550"],
+    "start": "2020-10-01 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_220_grani"
+    },
+    "drop": ["chun", "zhuan"],
+    "timeline": 0
   },
-  "act13d2d2": {
-    "id": "act13d2d2",
-    "name": "骑兵与猎人复刻签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#467997"],
-    "startTime": 1601582400,
-    "endTime": 1602359999,
-    "rewardEndTime": 1602359999,
-    "isReplicate": false
-  },
-  "act13d2d1": {
+  {
     "id": "act13d2d1",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "金秋限时签到",
+    "type": "CHECKIN",
     "color": ["#f49c49"],
-    "startTime": 1601496000,
-    "endTime": 1602359999,
-    "rewardEndTime": 1602359999,
-    "isReplicate": false
+    "start": "2020-10-01 04:00",
+    "days": 10,
+    "timeline": 2
   },
-  "act13d0": {
+  {
     "id": "act13d0",
     "name": "踏寻往昔之风",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1600920000,
-    "endTime": 1601495999,
-    "rewardEndTime": 1601755199,
-    "isReplicate": false
+    "color": ["#fe3d11"],
+    "start": "2020-09-24 12:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_388_mint"
+    },
+    "timeline": 0
   },
-  "act12d6": {
+  {
     "id": "act12d6",
     "name": "刻俄柏的灰蕈迷境",
     "type": "ROGUELIKE",
-    "color": [],
-    "startTime": 1598328000,
-    "endTime": 1600113599,
-    "rewardEndTime": 1600718399,
-    "isReplicate": false
+    "color": ["#f7832c"],
+    "start": "2020-08-25 16:00",
+    "days": 21,
+    "reward": {
+      "type": "skin",
+      "id": "宴"
+    },
+    "timeline": 2
   },
-  "act12d0": {
+  {
     "id": "act12d0",
     "name": "密林悍将归来",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1598328000,
-    "endTime": 1599508799,
-    "rewardEndTime": 1600113599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#00ffba"],
+    "start": "2020-08-25 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_411_tomimi"
+    },
+    "drop": ["suger", "stone", "rma"],
+    "timeline": 0
   },
-  "act11d7": {
+  {
     "id": "act11d7",
     "name": "火蓝之心·复刻",
-    "type": "TYPE_ACT3D0",
-    "color": [],
-    "startTime": 1597132800,
-    "endTime": 1597953599,
-    "rewardEndTime": 1598299199,
-    "isReplicate": true
+    "type": "SIDESTORY",
+    "color": ["#9cd7c9"],
+    "start": "2020-08-11 16:00",
+    "days": 10,
+    "reward": {
+      "type": "char",
+      "id": "char_348_ceylon"
+    },
+    "drop": ["suger", "meng"],
+    "timeline": 0
   },
-  "act11d0": {
+  {
+    "id": "rune_season_2_1",
+    "name": "利刃行动",
+    "type": "CRISIS",
+    "color": ["#c15213"],
+    "start": "2020-07-28 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "稀音"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act11d0",
     "name": "沃伦姆德的薄暮",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1594267200,
-    "endTime": 1595447999,
-    "rewardEndTime": 1596052799,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#99834E"],
+    "start": "2020-07-09 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_345_folnic"
+    },
+    "drop": ["tong", "zhuan", "hejin"],
+    "timeline": 0
   },
-  "act10d6": {
+  {
     "id": "act10d6",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "端午限时签到",
+    "type": "LUNAR",
     "color": ["#4adac4"],
-    "startTime": 1593028800,
-    "endTime": 1593892799,
-    "rewardEndTime": 1593892799,
-    "isReplicate": false
+    "start": "2020-06-25 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_164_nightm@epoque#5"
+    },
+    "timeline": 4
   },
-  "act10d5": {
+  {
     "id": "act10d5",
     "name": "乌萨斯的孩子们",
     "type": "MINISTORY",
-    "color": [],
-    "startTime": 1592467200,
-    "endTime": 1593028799,
-    "rewardEndTime": 1593287999,
-    "isReplicate": false
+    "color": ["#ff8902"],
+    "start": "2020-06-18 16:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_405_absin"
+    },
+    "timeline": 0
   },
-  "act9d4": {
+  {
+    "id": "rune_season_1_1",
+    "name": "黄铁行动",
+    "type": "CRISIS",
+    "color": ["#fddb00"],
+    "start": "2020-06-02 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "狮蝎"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act9d4",
-    "name": "限时积分任务",
+    "name": "收集「游击队员徽章」",
     "type": "COLLECTION",
     "color": ["#f46525"],
-    "startTime": 1589486400,
-    "endTime": 1590695999,
-    "rewardEndTime": 1590695999,
-    "isReplicate": false
+    "start": "2020-05-15 04:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_122_beagle@boc#1"
+    },
+    "timeline": 2
   },
-  "act9d1d2": {
-    "id": "act9d1d2",
-    "name": "登录领取奖励",
-    "type": "LOGIN_ONLY",
-    "color": ["#ff0327"],
-    "startTime": 1588316400,
-    "endTime": 1589486399,
-    "rewardEndTime": 1589486399,
-    "isReplicate": false
+  {
+    "id": "actmain7",
+    "name": "EP07 苦难摇篮",
+    "type": "MAINLINE",
+    "color": ["#cec989"],
+    "start": "2020-05-01 16:00:00",
+    "days": 28,
+    "timeline": 0
   },
-  "act9d1d1": {
+  {
     "id": "act9d1d1",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「一周年庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#337eb8"],
-    "startTime": 1588276800,
-    "endTime": 1590695999,
-    "rewardEndTime": 1590695999,
-    "isReplicate": false
+    "start": "2020-05-01 04:00",
+    "days": 28,
+    "reward": {
+      "type": "skin",
+      "id": "char_002_amiya@epoque#4"
+    },
+    "timeline": 2
   },
-  "act9d0": {
+  {
     "id": "act9d0",
     "name": "生于黑夜",
-    "type": "TYPE_ACT9D0",
-    "color": [],
-    "startTime": 1587441600,
-    "endTime": 1589486399,
-    "rewardEndTime": 1590091199,
-    "isReplicate": false
+    "type": "BRANCHLINE",
+    "color": ["#a5a5a5"],
+    "start": "2020-04-21 16:00",
+    "days": 24,
+    "reward": {
+      "type": "char",
+      "id": "char_333_sidero"
+    },
+    "drop": ["iron", "suger", "chun"],
+    "timeline": 0
   },
-  "act8d2": {
+  {
     "id": "act8d2",
-    "name": "愚人节活动",
-    "type": "AVG_ONLY",
-    "color": [],
-    "startTime": 1585728000,
-    "endTime": 1588276799,
-    "rewardEndTime": 1588276799,
-    "isReplicate": false
+    "name": "断罪者的挑战状",
+    "type": "APRIL",
+    "color": ["#a38166"],
+    "start": "2020-04-01 16:00",
+    "days": 30,
+    "reward": {
+      "type": "char",
+      "id": "char_159_peacok"
+    },
+    "timeline": 4
   },
-  "act7d1": {
+  {
+    "id": "rune_season_0_1",
+    "name": "荒芜行动",
+    "type": "CRISIS",
+    "color": ["#bd0000"],
+    "start": "2020-03-17 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "柏喙"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act7d1",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「万类共生」限时签到",
+    "type": "CHECKIN",
     "color": ["#ffc000"],
-    "startTime": 1583179200,
-    "endTime": 1584388799,
-    "rewardEndTime": 1584388799,
-    "isReplicate": false
+    "start": "2020-03-03 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_173_slchan@wwf#1"
+    },
+    "timeline": 2
   },
-  "act7d5": {
+  {
     "id": "act7d5",
     "name": "午间逸话",
-    "type": "TYPE_ACT4D0",
-    "color": [],
-    "startTime": 1582617600,
-    "endTime": 1583179199,
-    "rewardEndTime": 1583783999,
-    "isReplicate": false
+    "type": "MINISTORY",
+    "color": ["#0071e5"],
+    "start": "2020-02-25 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "char_128_plosis@epoque#3"
+    },
+    "timeline": 0
   },
-  "act6d8": {
+  {
     "id": "act6d8",
-    "name": "限时积分任务",
+    "name": "收集「元宵通宝」",
     "type": "COLLECTION",
     "color": ["#ff4128"],
-    "startTime": 1581105600,
-    "endTime": 1582315199,
-    "rewardEndTime": 1582315199,
-    "isReplicate": false
+    "start": "2020-02-08 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_109_fmout@epoque#2"
+    },
+    "timeline": 2
   },
-  "act6d7": {
+  {
     "id": "act6d7",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "新春红包派送限时签到",
+    "type": "CHECKIN",
     "color": ["#cb2632"],
-    "startTime": 1579896000,
-    "endTime": 1581105599,
-    "rewardEndTime": 1581105599,
-    "isReplicate": false
+    "start": "2020-01-25 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_235_jesica@nian#2"
+    },
+    "timeline": 2
   },
-  "act6d5": {
+  {
     "id": "act6d5",
     "name": "洪炉示岁",
-    "type": "TYPE_ACT4D0",
-    "color": [],
-    "startTime": 1578513600,
-    "endTime": 1579118399,
-    "rewardEndTime": 1579723199,
-    "isReplicate": false
+    "type": "MINISTORY",
+    "color": ["#a40109"],
+    "start": "2020-01-09 04:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_383_snsant"
+    },
+    "timeline": 0
   },
-  "act6d0": {
+  {
     "id": "act6d0",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "【冰原信使】限时签到",
+    "type": "CHECKIN",
     "color": ["#006eb6"],
-    "startTime": 1577217600,
-    "endTime": 1578427199,
-    "rewardEndTime": 1578427199,
-    "isReplicate": false
+    "start": "2019-12-25 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_209_ardign@snow#1"
+    },
+    "timeline": 2
   },
-  "act5d1": {
-    "id": "act5d1",
-    "name": "危机合约",
-    "type": "TYPE_ACT5D1",
-    "color": [],
-    "startTime": 1574150400,
-    "endTime": 1575316799,
-    "rewardEndTime": 1575921599,
-    "isReplicate": false
+  {
+    "id": "actmain6",
+    "name": "EP06 局部坏死",
+    "type": "MAINLINE",
+    "color": ["#00fefc"],
+    "start": "2019-12-24 16:00:00",
+    "days": 14,
+    "timeline": 0
   },
-  "act5d0": {
+  {
     "id": "act5d0",
     "name": "喧闹法则",
-    "type": "TYPE_ACT5D0",
-    "color": [],
-    "startTime": 1574150400,
-    "endTime": 1575316799,
-    "rewardEndTime": 1575921599,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#2679e9"],
+    "start": "2019-11-19 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_325_bison"
+    },
+    "timeline": 0
   },
-  "act4d5": {
+  {
+    "id": "act5d1",
+    "name": "危机合约",
+    "type": "CRISIS",
+    "color": ["#663333"],
+    "start": "2019-11-19 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "推进之王"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act4d5",
-    "name": "限时积分任务",
+    "name": "收集「KFC专属点数」",
     "type": "COLLECTION",
     "color": ["#f86900"],
-    "startTime": 1573416000,
-    "endTime": 1574625599,
-    "rewardEndTime": 1574625599,
-    "isReplicate": false
+    "start": "2019-11-11 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_134_ifrit@kfc#1"
+    },
+    "timeline": 3
   },
-  "act4d2": {
+  {
     "id": "act4d2",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "「感谢庆典」限时签到",
+    "type": "CHECKIN",
     "color": ["#a778f8"],
-    "startTime": 1572552000,
-    "endTime": 1573329599,
-    "rewardEndTime": 1573329599,
-    "isReplicate": false
+    "start": "2019-11-01 04:00:00",
+    "days": 9,
+    "reward": {
+      "type": "skin",
+      "id": "char_236_rope@witch#1"
+    },
+    "timeline": 2
   },
-  "act4d0": {
+  {
     "id": "act4d0",
     "name": "战地秘闻",
-    "type": "TYPE_ACT4D0",
-    "color": [],
-    "startTime": 1571126400,
-    "endTime": 1571687999,
-    "rewardEndTime": 1572292799,
-    "isReplicate": false
+    "type": "MINISTORY",
+    "color": ["#ffdd00"],
+    "start": "2019-10-15 16:00",
+    "days": 7,
+    "reward": {
+      "type": "char",
+      "id": "char_131_flameb"
+    },
+    "timeline": 0
   },
-  "act3d7": {
+  {
     "id": "act3d7",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "金秋限时签到",
+    "type": "CHECKIN",
     "color": ["#8d4268"],
-    "startTime": 1569873600,
-    "endTime": 1570737599,
-    "rewardEndTime": 1570737599,
-    "isReplicate": false
+    "start": "2019-10-01 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "char_208_melan@epoque#1"
+    },
+    "timeline": 2
   },
-  "act3d5": {
+  {
     "id": "act3d5",
-    "name": "限时积分任务",
+    "name": "收集「黑曜石节手环」",
     "type": "COLLECTION",
     "color": ["#003edc"],
-    "startTime": 1568059200,
-    "endTime": 1569268799,
-    "rewardEndTime": 1569268799,
-    "isReplicate": false
+    "start": "2019-09-10 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "Castle-3 / 角峰",
+      "extra": "char_286_cast3@summer#1,char_199_yak@summer#1"
+    },
+    "timeline": 2
   },
-  "act3d0": {
+  {
+    "id": "act3d01",
+    "name": "收集「汐斯塔的黑曜石」",
+    "type": "COLLECTION",
+    "color": ["#003edc"],
+    "start": "2019-08-27 16:00:00",
+    "days": 21,
+    "reward": {
+      "type": "skin",
+      "id": "安赛尔"
+    },
+    "timeline": 2
+  },
+  {
     "id": "act3d0",
     "name": "火蓝之心",
-    "type": "TYPE_ACT3D0",
-    "color": [],
-    "startTime": 1566892800,
-    "endTime": 1568059199,
-    "rewardEndTime": 1568663999,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#9cd7c9"],
+    "start": "2019-08-27 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_348_ceylon"
+    },
+    "drop": ["suger", "meng"],
+    "timeline": 0
   },
-  "act2d8": {
-    "id": "act2d8",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#00b7ee"],
-    "startTime": 1565812800,
-    "endTime": 1566763199,
-    "rewardEndTime": 1566763199,
-    "isReplicate": false
-  },
-  "act2d5": {
+  {
     "id": "act2d5",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
+    "name": "黑曜石节预热",
+    "type": "CHECKIN",
+    "color": ["#00b7ee"],
+    "start": "2019-08-15 04:00:00",
+    "days": 11,
+    "timeline": 2
+  },
+  {
+    "id": "act2d5",
+    "name": "EP05 “靶向药物”开启纪念 Part.2",
+    "type": "CHECKIN",
     "color": ["#9e1f28"],
-    "startTime": 1563739200,
-    "endTime": 1564948799,
-    "rewardEndTime": 1564948799,
-    "isReplicate": false
+    "start": "2019-07-22 04:00:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "末药"
+    },
+    "timeline": 2
   },
-  "act1d5": {
+  {
     "id": "act1d5",
-    "name": "限时累计签到",
-    "type": "CHECKIN_ONLY",
-    "color": ["#7AAC0D"],
-    "startTime": 1562659200,
-    "endTime": 1563739199,
-    "rewardEndTime": 1563739199,
-    "isReplicate": false
+    "name": "EP05 “靶向药物”开启纪念 Part.1",
+    "type": "CHECKIN",
+    "color": ["#7aac0d"],
+    "start": "2019-07-09 16:00",
+    "days": 13,
+    "reward": {
+      "type": "skin",
+      "id": "调香师"
+    },
+    "timeline": 2
   },
-  "1stact": {
+  {
+    "id": "actmain5",
+    "name": "EP05 靶向药物",
+    "type": "MAINLINE",
+    "color": ["#7dc5ff"],
+    "start": "2019-07-09 16:00",
+    "days": 27,
+    "timeline": 0
+  },
+  {
     "id": "1stact",
     "name": "骑兵与猎人",
-    "type": "DEFAULT",
-    "color": [],
-    "startTime": 1559181600,
-    "endTime": 1560369599,
-    "rewardEndTime": 1560974399,
-    "isReplicate": false
+    "type": "SIDESTORY",
+    "color": ["#c99550"],
+    "start": "2019-05-30 10:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": "char_220_grani"
+    },
+    "drop": ["chun", "zhuan"],
+    "timeline": 0
   },
-  "0D5act": {
-    "id": "0D5act",
-    "name": "限时任务",
-    "type": "MISSION_ONLY",
+  {
+    "id": "0D5act1",
+    "name": "500万下载突破 Part.2",
+    "type": "CHECKIN",
     "color": ["#FFD800"],
-    "startTime": 1558576800,
-    "endTime": 1559159999,
-    "rewardEndTime": 1559159999,
-    "isReplicate": false
+    "start": "2019-05-30 10:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "芙蓉-守岁人"
+    },
+    "timeline": 2
+  },
+  {
+    "id": "0D5act",
+    "name": "500万下载突破 Part.1",
+    "type": "COLLECTION",
+    "color": ["#FFD800"],
+    "start": "2019-05-23 10:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "阿米娅-报童"
+    },
+    "timeline": 2
   }
-}
+]

@@ -1,17 +1,27 @@
 <script setup>
 import { ref } from 'vue'
 import dayjs from 'dayjs'
+import { useRouter } from 'vue-router'
 import { useCharacterStore } from '@/stores/character'
-import { useMaterialStore } from '@/stores/material'
 
 const operators = useCharacterStore().list
-const materials = useMaterialStore().list
 
 const { affair } = defineProps({ affair: Object })
-const { name, start, days = 14, type, color = [], pickup, reward, drop } = affair
+const { name, start, days = 14, type, rerun, color = [], pickup, reward, drop, fake } = affair
 const isActive = ref(
   dayjs().isBefore(dayjs(start).add(days, 'day')) && dayjs().isAfter(dayjs(start))
 )
+
+const router = useRouter()
+const viewMaterialList = (material) => {
+  router.push({
+    name: 'activityStat',
+    params: {
+      module: 'material',
+      item: material
+    }
+  })
+}
 </script>
 <template>
   <v-sheet
@@ -24,31 +34,17 @@ const isActive = ref(
       :style="{ borderLeft: `15px solid ${color[0] || '#0098dc'}` }"
     >
       <div v-if="name">
-        {{ `${name}${type === 'rerun' ? '·复刻' : ''}` }}
+        {{ `${fake ? '(疑)' : ''}${name}${rerun ? '·复刻' : ''}` }}
       </div>
       <div
         v-if="
-          [
-            'single',
-            'rerun',
-            'joint',
-            'special',
-            'spring',
-            'summer',
-            'fes',
-            'linkage',
-            'limited',
-            'standard',
-            'classic'
-          ].includes(type) && pickup[0].chars.length < 7
+          ['main', 'sub', 'attain', 'standard', 'classic'].includes(type) &&
+          pickup[0].chars.length < 7
         "
-        class="d-flex"
+        class="d-flex ga-2"
       >
         <div v-for="char in pickup[0].chars" :key="char">
-          <v-btn v-if="operators[char]" variant="text" :to="`/operator/${char}`" :height="30">
-            {{ operators[char].name }}
-          </v-btn>
-          <v-btn v-else variant="text">{{ char }}</v-btn>
+          {{ operators[char] ? operators[char].name : char }}
         </div>
       </div>
       <div v-else-if="reward" class="d-flex ga-2">
@@ -66,10 +62,23 @@ const isActive = ref(
           {{ reward.id }}
         </div>
         <div v-if="drop">/</div>
-        <div class="d-flex ga-1">
-          <div v-for="mat in drop" :key="mat">{{ materials[mat].name }}</div>
+        <div class="d-flex">
+          <div v-for="mat in drop" :key="mat" class="thumb" @click="viewMaterialList(mat)">
+            <img :src="`material/${mat}.png`" alt="" />
+          </div>
         </div>
       </div>
     </div>
   </v-sheet>
 </template>
+<style scoped>
+.thumb {
+  --thumb-size: 30px;
+  width: var(--thumb-size);
+  height: var(--thumb-size);
+  cursor: pointer;
+  img {
+    width: 100%;
+  }
+}
+</style>

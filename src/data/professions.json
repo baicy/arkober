@@ -1,0 +1,535 @@
+{
+  "PIONEER": {
+    "id": "PIONEER",
+    "name": "先锋",
+    "subs": {
+      "pioneer": {
+        "name": "尖兵",
+        "code": "sol",
+        "equiped": {
+          "x": "yellow",
+          "y": "green"
+        }
+      },
+      "charger": {
+        "name": "冲锋手",
+        "code": "chg",
+        "equiped": {
+          "x": "green",
+          "y": "red"
+        }
+      },
+      "tactician": {
+        "name": "战术家",
+        "code": "tac",
+        "equiped": {
+          "x": "yellow",
+          "y": "red"
+        }
+      },
+      "bearer": {
+        "name": "执旗手",
+        "code": "bea",
+        "equiped": {
+          "x": "grey"
+        }
+      },
+      "agent": {
+        "name": "情报官",
+        "code": "age",
+        "equiped": {
+          "x": "grey"
+        }
+      }
+    }
+  },
+  "WARRIOR": {
+    "id": "WARRIOR",
+    "name": "近卫",
+    "subs": {
+      "centurion": {
+        "name": "强攻手",
+        "code": "cen",
+        "equiped": {
+          "x": "red",
+          "y": "yellow"
+        }
+      },
+      "fighter": {
+        "name": "斗士",
+        "code": "fgt",
+        "equiped": {
+          "x": "yellow",
+          "y": "red"
+        }
+      },
+      "artsfghter": {
+        "name": "术战者",
+        "code": "aft",
+        "equiped": {
+          "x": "red",
+          "y": "red",
+          "d": "red"
+        }
+      },
+      "instructor": {
+        "name": "教官",
+        "code": "ins",
+        "equiped": {
+          "x": "red",
+          "y": "grey"
+        }
+      },
+      "lord": {
+        "name": "领主",
+        "code": "lor",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "sword": {
+        "name": "剑豪",
+        "code": "swo",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "musha": {
+        "name": "武者",
+        "code": "sbl",
+        "equiped": {
+          "x": "yellow",
+          "y": "grey"
+        }
+      },
+      "fearless": {
+        "name": "无畏者",
+        "code": "dre",
+        "equiped": {
+          "x": "red",
+          "y": "grey"
+        }
+      },
+      "reaper": {
+        "name": "收割者",
+        "code": "rea",
+        "equiped": {
+          "x": "blue"
+        }
+      },
+      "librator": {
+        "name": "解放者",
+        "code": "",
+        "equiped": {}
+      },
+      "crusher": {
+        "name": "重剑手",
+        "code": "cru",
+        "equiped": {
+          "x": "blue"
+        }
+      },
+      "hammer": {
+        "name": "撼地者",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  },
+  "TANK": {
+    "id": "TANK",
+    "name": "重装",
+    "subs": {
+      "protector": {
+        "name": "铁卫",
+        "code": "pro",
+        "equiped": {
+          "x": "yellow",
+          "y": "grey"
+        }
+      },
+      "guardian": {
+        "name": "守护者",
+        "code": "gua",
+        "equiped": {
+          "x": "blue",
+          "y": "yellow"
+        }
+      },
+      "unyield": {
+        "name": "不屈者",
+        "code": "uny",
+        "equiped": {
+          "x": "yellow",
+          "y": "red"
+        }
+      },
+      "artsprotector": {
+        "name": "驭法铁卫",
+        "code": "",
+        "equiped": {}
+      },
+      "duelist": {
+        "name": "决战者",
+        "code": "hes",
+        "equiped": {
+          "x": "grey",
+          "y": "grey"
+        }
+      },
+      "fortress": {
+        "name": "要塞",
+        "code": "for",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "shotprotector": {
+        "name": "哨戒铁卫",
+        "code": "spt",
+        "equiped": {
+          "x": "grey"
+        }
+      },
+      "primprotector": {
+        "name": "本源铁卫",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  },
+  "SNIPER": {
+    "id": "SNIPER",
+    "name": "狙击",
+    "subs": {
+      "fastshot": {
+        "name": "速射手",
+        "code": "mar",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "closerange": {
+        "name": "重射手",
+        "code": "arc",
+        "equiped": {
+          "x": "grey",
+          "y": "red"
+        }
+      },
+      "aoesniper": {
+        "name": "炮手",
+        "code": "art",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "longrange": {
+        "name": "神射手",
+        "code": "dea",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "reaperrange": {
+        "name": "散射手",
+        "code": "rpr",
+        "equiped": {
+          "x": "red"
+        }
+      },
+      "siegesniper": {
+        "name": "攻城手",
+        "code": "sie",
+        "equiped": {
+          "x": "red"
+        }
+      },
+      "bombarder": {
+        "name": "投掷手",
+        "code": "bom",
+        "equiped": {
+          "x": "red"
+        }
+      },
+      "hunter": {
+        "name": "猎手",
+        "code": "hun",
+        "equiped": {
+          "x": "grey"
+        }
+      },
+      "loopshooter": {
+        "name": "回环射手",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  },
+  "CASTER": {
+    "id": "CASTER",
+    "name": "术师",
+    "subs": {
+      "corecaster": {
+        "name": "中坚术师",
+        "code": "ccr",
+        "equiped": {
+          "x": "red",
+          "y": "red",
+          "d": "red"
+        }
+      },
+      "splashcaster": {
+        "name": "扩散术师",
+        "code": "spc",
+        "equiped": {
+          "x": "red",
+          "y": "grey"
+        }
+      },
+      "funnel": {
+        "name": "驭械术师",
+        "code": "fun",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "phalanx": {
+        "name": "阵法术师",
+        "code": "plx",
+        "equiped": {
+          "x": "yellow",
+          "y": "red"
+        }
+      },
+      "mystic": {
+        "name": "秘术师",
+        "code": "msc",
+        "equiped": {
+          "x": "red",
+          "y": "red",
+          "d": "red"
+        }
+      },
+      "chain": {
+        "name": "链术师",
+        "code": "cha",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "blastcaster": {
+        "name": "轰击术师",
+        "code": "bla",
+        "equiped": {
+          "x": "red",
+          "d": "red"
+        }
+      },
+      "primcaster": {
+        "name": "本源术师",
+        "code": "",
+        "equiped": {}
+      },
+      "soulcaster": {
+        "name": "塑灵术师",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  },
+  "MEDIC": {
+    "id": "MEDIC",
+    "name": "医疗",
+    "subs": {
+      "physician": {
+        "name": "医师",
+        "code": "phy",
+        "equiped": {
+          "x": "blue",
+          "y": "blue"
+        }
+      },
+      "ringhealer": {
+        "name": "群愈师",
+        "code": "rin",
+        "equiped": {
+          "x": "blue",
+          "y": "blue"
+        }
+      },
+      "healer": {
+        "name": "疗养师",
+        "code": "wah",
+        "equiped": {
+          "x": "grey",
+          "y": "blue"
+        }
+      },
+      "wandermedic": {
+        "name": "行医",
+        "code": "wdm",
+        "equiped": {
+          "x": "blue"
+        }
+      },
+      "incantationmedic": {
+        "name": "咒愈师",
+        "code": "inc",
+        "equiped": {
+          "x": "blue"
+        }
+      },
+      "chainhealer": {
+        "name": "链愈师",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  },
+  "SUPPORT": {
+    "id": "SUPPORT",
+    "name": "辅助",
+    "subs": {
+      "slower": {
+        "name": "凝滞师",
+        "code": "dec",
+        "equiped": {
+          "x": "grey",
+          "y": "grey"
+        }
+      },
+      "underminer": {
+        "name": "削弱者",
+        "code": "umd",
+        "equiped": {
+          "x": "grey"
+        }
+      },
+      "bard": {
+        "name": "吟游者",
+        "code": "bar",
+        "equiped": {
+          "x": "red"
+        }
+      },
+      "blessing": {
+        "name": "护佑者",
+        "code": "bls",
+        "equiped": {
+          "x": "blue"
+        }
+      },
+      "summoner": {
+        "name": "召唤师",
+        "code": "sum",
+        "equiped": {
+          "x": "red",
+          "y": "grey"
+        }
+      },
+      "craftsman": {
+        "name": "工匠",
+        "code": "cra",
+        "equiped": {
+          "x": "grey",
+          "y": "grey"
+        }
+      },
+      "ritualist": {
+        "name": "巫役",
+        "code": "rit",
+        "equiped": {
+          "x": "red"
+        }
+      }
+    }
+  },
+  "SPECIAL": {
+    "id": "SPECIAL",
+    "name": "特种",
+    "subs": {
+      "executor": {
+        "name": "处决者",
+        "code": "exe",
+        "equiped": {
+          "x": "red",
+          "y": "red"
+        }
+      },
+      "pusher": {
+        "name": "推击手",
+        "code": "pus",
+        "equiped": {
+          "x": "grey",
+          "y": "grey"
+        }
+      },
+      "stalker": {
+        "name": "伏击客",
+        "code": "amb",
+        "equiped": {
+          "x": "grey",
+          "y": "yellow"
+        }
+      },
+      "hookmaster": {
+        "name": "钩索师",
+        "code": "hok",
+        "equiped": {
+          "x": "red",
+          "y": "grey"
+        }
+      },
+      "geek": {
+        "name": "怪杰",
+        "code": "gee",
+        "equiped": {
+          "x": "grey"
+        }
+      },
+      "merchant": {
+        "name": "行商",
+        "code": "mer",
+        "equiped": {
+          "x": "grey",
+          "y": "red"
+        }
+      },
+      "traper": {
+        "name": "陷阱师",
+        "code": "trp",
+        "equiped": {
+          "y": "red",
+          "d": "grey"
+        }
+      },
+      "dollkeeper": {
+        "name": "傀儡师",
+        "code": "pum",
+        "equiped": {
+          "x": "red",
+          "y": "yellow"
+        }
+      },
+      "alchemist": {
+        "name": "炼金师",
+        "code": "",
+        "equiped": {}
+      },
+      "skywalker": {
+        "name": "巡空者",
+        "code": "",
+        "equiped": {}
+      }
+    }
+  }
+}

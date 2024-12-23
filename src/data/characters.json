@@ -1,5 +1,68 @@
 [
   {
+    "id": "char_1039_thorn2",
+    "name": "引星棘刺",
+    "color1": "#684430",
+    "color2": "#001afc",
+    "nationId": "iberia",
+    "groupId": null,
+    "teamId": null,
+    "displayNumber": "II02",
+    "appellation": "Thorns the Lodestar",
+    "rarity": 6,
+    "profession": "SPECIAL",
+    "subProfession": "alchemist",
+    "sp": 1,
+    "passport": "",
+    "type": "",
+    "source": "sidestory",
+    "onlineTime": "2024-12-05 16:00",
+    "recruitTime": "",
+    "classicTime": ""
+  },
+  {
+    "id": "char_4164_tecno",
+    "name": "特克诺",
+    "color1": "#d53137",
+    "color2": "#d8f259",
+    "nationId": "bolivar",
+    "groupId": null,
+    "teamId": null,
+    "displayNumber": "BV23",
+    "appellation": "Tecno",
+    "rarity": 5,
+    "profession": "CASTER",
+    "subProfession": "soulcaster",
+    "sp": -1,
+    "passport": "",
+    "type": "",
+    "source": "",
+    "onlineTime": "2024-12-05 16:00",
+    "recruitTime": "",
+    "classicTime": ""
+  },
+  {
+    "id": "char_4163_rosesa",
+    "name": "瑰盐",
+    "color1": "#cc5d64",
+    "color2": "#bf9174",
+    "nationId": "iberia",
+    "groupId": null,
+    "teamId": null,
+    "displayNumber": "II11",
+    "appellation": "Rose Salt",
+    "rarity": 5,
+    "profession": "MEDIC",
+    "subProfession": "ringhealer",
+    "sp": -1,
+    "passport": "",
+    "type": "activity",
+    "source": "sidestory",
+    "onlineTime": "2024-12-05 16:00",
+    "recruitTime": "",
+    "classicTime": ""
+  },
+  {
     "id": "char_1038_whitw2",
     "name": "荒芜拉普兰德",
     "color1": "#9a2128",
@@ -13,13 +76,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": 1,
-    "main123": "2875",
     "passport": "44.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4026_vulpis",
@@ -35,13 +97,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "8649",
     "passport": "44.0",
     "type": "",
     "source": "",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1502_crosly",
@@ -57,13 +118,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "9032",
     "passport": "43.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4155_talr",
@@ -79,13 +139,12 @@
     "profession": "SPECIAL",
     "subProfession": "merchant",
     "sp": -1,
-    "main123": "3164",
     "passport": "44.0",
     "type": "",
     "source": "",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4148_philae",
@@ -101,13 +160,12 @@
     "profession": "TANK",
     "subProfession": "primprotector",
     "sp": -1,
-    "main123": "0290",
     "passport": "44.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4165_ctrail",
@@ -123,13 +181,12 @@
     "profession": "SPECIAL",
     "subProfession": "skywalker",
     "sp": -1,
-    "main123": "3163",
     "passport": "44.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1730448000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-11-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1019_siege2",
@@ -145,13 +202,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": 1,
-    "main123": "0292",
     "passport": "43.0",
     "type": "",
     "source": "",
-    "onlineTime": 1728403200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-10-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_487_bobb",
@@ -167,13 +223,12 @@
     "profession": "SUPPORT",
     "subProfession": "ritualist",
     "sp": -1,
-    "main123": "7404",
     "passport": "43.0",
     "type": "",
     "source": "",
-    "onlineTime": 1728403200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-10-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4162_cathy",
@@ -189,13 +244,12 @@
     "profession": "SUPPORT",
     "subProfession": "craftsman",
     "sp": -1,
-    "main123": "6329",
     "passport": "43.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1728403200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-10-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4141_marcil",
@@ -211,13 +265,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1725206400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-09-02 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4142_laios",
@@ -233,13 +286,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1725206400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-09-02 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4143_sensi",
@@ -255,13 +307,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "sidestory",
-    "onlineTime": 1725206400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-09-02 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4144_chilc",
@@ -277,13 +328,12 @@
     "profession": "PIONEER",
     "subProfession": "agent",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1725206400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-09-02 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4058_pepe",
@@ -299,13 +349,12 @@
     "profession": "WARRIOR",
     "subProfession": "hammer",
     "sp": -1,
-    "main123": "4918",
     "passport": "42.0",
     "type": "limited",
     "source": "summer",
-    "onlineTime": 1722441600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4138_narant",
@@ -321,13 +370,12 @@
     "profession": "SNIPER",
     "subProfession": "loopshooter",
     "sp": -1,
-    "main123": "8642",
     "passport": "42.0",
     "type": "",
     "source": "",
-    "onlineTime": 1722441600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4139_papyrs",
@@ -343,13 +391,12 @@
     "profession": "MEDIC",
     "subProfession": "chainhealer",
     "sp": -1,
-    "main123": "9034",
     "passport": "42.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1722441600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4140_lasher",
@@ -365,13 +412,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "7405",
     "passport": "42.0",
     "type": "",
     "source": "",
-    "onlineTime": 1722441600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4151_tinman",
@@ -387,13 +433,12 @@
     "profession": "SPECIAL",
     "subProfession": "alchemist",
     "sp": -1,
-    "main123": "3166",
     "passport": "42.0",
-    "type": "",
-    "source": "",
-    "onlineTime": 1721059200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "activity",
+    "source": "rogue",
+    "onlineTime": "2024-07-16 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4146_nymph",
@@ -409,13 +454,12 @@
     "profession": "CASTER",
     "subProfession": "primcaster",
     "sp": -1,
-    "main123": "0293",
     "passport": "42.0",
     "type": "",
     "source": "",
-    "onlineTime": 1720454400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-07-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4147_mitm",
@@ -431,13 +475,12 @@
     "profession": "PIONEER",
     "subProfession": "tactician",
     "sp": -1,
-    "main123": "5750",
     "passport": "42.0",
     "type": "",
     "source": "",
-    "onlineTime": 1720454400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-07-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4145_ulpia",
@@ -453,13 +496,12 @@
     "profession": "WARRIOR",
     "subProfession": "crusher",
     "sp": -1,
-    "main123": "8643",
     "passport": "40.0",
     "type": "",
     "source": "",
-    "onlineTime": 1717516800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-06-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4079_haini",
@@ -475,13 +517,12 @@
     "profession": "SUPPORT",
     "subProfession": "underminer",
     "sp": -1,
-    "main123": "1580",
     "passport": "40.0",
     "type": "",
     "source": "",
-    "onlineTime": 1717516800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-06-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4137_udflow",
@@ -497,13 +538,12 @@
     "profession": "TANK",
     "subProfession": "shotprotector",
     "sp": -1,
-    "main123": "7406",
     "passport": "40.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1717516800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-06-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4136_phonor",
@@ -519,13 +559,12 @@
     "profession": "SUPPORT",
     "subProfession": "ritualist",
     "sp": -1,
-    "main123": "3168",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1714536000,
-    "recruitTime": 1714492800,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 12:00",
+    "recruitTime": "2024-05-01 00:00",
+    "classicTime": ""
   },
   {
     "id": "char_1035_wisdel",
@@ -541,13 +580,12 @@
     "profession": "SNIPER",
     "subProfession": "bombarder",
     "sp": 1,
-    "main123": "4910",
     "passport": "39.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1714492800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4133_logos",
@@ -563,13 +601,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "7407",
     "passport": "39.0",
     "type": "",
     "source": "",
-    "onlineTime": 1714492800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1036_fang2",
@@ -585,13 +622,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": 1,
-    "main123": "1581",
     "passport": "39.0",
     "type": "",
     "source": "",
-    "onlineTime": 1714492800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1037_amiya3",
@@ -607,13 +643,12 @@
     "profession": "MEDIC",
     "subProfession": "incantationmedic",
     "sp": 2,
-    "main123": "0295",
     "passport": "",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1714492800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4134_cetsyr",
@@ -629,13 +664,12 @@
     "profession": "SUPPORT",
     "subProfession": "bard",
     "sp": -1,
-    "main123": "9036",
     "passport": "39.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1714492800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4132_ascln",
@@ -651,13 +685,12 @@
     "profession": "SPECIAL",
     "subProfession": "stalker",
     "sp": -1,
-    "main123": "8645",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1712764800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-04-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_446_aroma",
@@ -673,13 +706,12 @@
     "profession": "CASTER",
     "subProfession": "blastcaster",
     "sp": -1,
-    "main123": "6324",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1712764800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-04-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4131_odda",
@@ -695,13 +727,12 @@
     "profession": "WARRIOR",
     "subProfession": "hammer",
     "sp": -1,
-    "main123": "1582",
     "passport": "38.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1712764800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-04-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4130_luton",
@@ -717,13 +748,12 @@
     "profession": "TANK",
     "subProfession": "unyield",
     "sp": -1,
-    "main123": "2879",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1712764800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-04-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4123_ela",
@@ -739,13 +769,12 @@
     "profession": "SPECIAL",
     "subProfession": "traper",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1709740800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4124_iana",
@@ -761,13 +790,12 @@
     "profession": "SPECIAL",
     "subProfession": "dollkeeper",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1709740800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4125_rdoc",
@@ -783,13 +811,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1709740800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4126_fuze",
@@ -805,13 +832,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "sidestory",
-    "onlineTime": 1709740800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4023_rfalcn",
@@ -827,13 +853,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "2871",
     "passport": "36.0",
     "type": "activity",
     "source": "sandbox",
-    "onlineTime": 1706889600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-02-03 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_2025_shu",
@@ -849,13 +874,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "7409",
     "passport": "36.0",
     "type": "limited",
     "source": "spring",
-    "onlineTime": 1706774400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-02-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4121_zuole",
@@ -871,13 +895,12 @@
     "profession": "WARRIOR",
     "subProfession": "musha",
     "sp": -1,
-    "main123": "8646",
     "passport": "36.0",
     "type": "",
     "source": "",
-    "onlineTime": 1706774400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-02-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4119_wanqin",
@@ -893,13 +916,12 @@
     "profession": "PIONEER",
     "subProfession": "bearer",
     "sp": -1,
-    "main123": "1583",
     "passport": "36.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1706774400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-02-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4122_grabds",
@@ -915,13 +937,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "0297",
     "passport": "36.0",
     "type": "",
     "source": "",
-    "onlineTime": 1706774400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-02-01 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4117_ray",
@@ -937,13 +958,12 @@
     "profession": "SNIPER",
     "subProfession": "hunter",
     "sp": -1,
-    "main123": "3161",
     "passport": "35.0",
     "type": "",
     "source": "",
-    "onlineTime": 1704729600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-01-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4081_warmy",
@@ -959,13 +979,12 @@
     "profession": "CASTER",
     "subProfession": "primcaster",
     "sp": -1,
-    "main123": "0298",
     "passport": "35.0",
     "type": "",
     "source": "",
-    "onlineTime": 1704729600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2024-01-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4116_blkkgt",
@@ -981,13 +1000,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": -1,
-    "main123": "8648",
     "passport": "35.0",
     "type": "",
     "source": "",
-    "onlineTime": 1701705600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-12-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_194_leto",
@@ -1003,13 +1021,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "1585",
     "passport": "35.0",
     "type": "",
     "source": "",
-    "onlineTime": 1701705600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-12-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4114_harold",
@@ -1025,13 +1042,12 @@
     "profession": "MEDIC",
     "subProfession": "wandermedic",
     "sp": -1,
-    "main123": "3162",
     "passport": "35.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1701705600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-12-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_245_cello",
@@ -1047,13 +1063,12 @@
     "profession": "SUPPORT",
     "subProfession": "ritualist",
     "sp": -1,
-    "main123": "2886",
     "passport": "33.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4098_vvana",
@@ -1069,13 +1084,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": -1,
-    "main123": "6331",
     "passport": "33.0",
     "type": "",
     "source": "",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_499_kaitou",
@@ -1091,13 +1105,12 @@
     "profession": "CASTER",
     "subProfession": "primcaster",
     "sp": -1,
-    "main123": "7415",
     "passport": "33.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4011_lessng",
@@ -1113,13 +1126,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "8657",
     "passport": "33.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4100_caper",
@@ -1135,13 +1147,12 @@
     "profession": "SNIPER",
     "subProfession": "loopshooter",
     "sp": -1,
-    "main123": "0202",
     "passport": "33.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4109_baslin",
@@ -1157,13 +1168,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "4928",
     "passport": "33.0",
     "type": "",
     "source": "",
-    "onlineTime": 1698768000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4088_hodrer",
@@ -1179,13 +1189,12 @@
     "profession": "WARRIOR",
     "subProfession": "crusher",
     "sp": -1,
-    "main123": "3175",
     "passport": "32.0",
     "type": "",
     "source": "",
-    "onlineTime": 1696694400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-10-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_494_vendla",
@@ -1201,13 +1210,12 @@
     "profession": "MEDIC",
     "subProfession": "incantationmedic",
     "sp": -1,
-    "main123": "9049",
     "passport": "32.0",
     "type": "",
     "source": "",
-    "onlineTime": 1696694400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-10-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4110_delphn",
@@ -1223,13 +1231,12 @@
     "profession": "CASTER",
     "subProfession": "mystic",
     "sp": -1,
-    "main123": "6332",
     "passport": "32.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1696694400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-10-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4107_vrdant",
@@ -1245,13 +1252,12 @@
     "profession": "SPECIAL",
     "subProfession": "dollkeeper",
     "sp": -1,
-    "main123": "5763",
     "passport": "32.0",
     "type": "",
     "source": "",
-    "onlineTime": 1696694400,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2023-10-08 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_1034_jesca2",
@@ -1267,13 +1273,12 @@
     "profession": "TANK",
     "subProfession": "shotprotector",
     "sp": 1,
-    "main123": "1592",
     "passport": "32.0",
     "type": "",
     "source": "",
-    "onlineTime": 1693843200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-09-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4104_coldst",
@@ -1289,13 +1294,12 @@
     "profession": "SNIPER",
     "subProfession": "hunter",
     "sp": -1,
-    "main123": "4929",
     "passport": "32.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1693843200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-09-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4105_almond",
@@ -1311,13 +1315,12 @@
     "profession": "SPECIAL",
     "subProfession": "hookmaster",
     "sp": -1,
-    "main123": "0204",
     "passport": "32.0",
     "type": "",
     "source": "",
-    "onlineTime": 1693843200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-09-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1016_agoat2",
@@ -1333,13 +1336,12 @@
     "profession": "MEDIC",
     "subProfession": "wandermedic",
     "sp": 1,
-    "main123": "6334",
     "passport": "30.0",
     "type": "limited",
     "source": "summer",
-    "onlineTime": 1690819200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1033_swire2",
@@ -1355,13 +1357,12 @@
     "profession": "SPECIAL",
     "subProfession": "merchant",
     "sp": 1,
-    "main123": "6333",
     "passport": "30.0",
     "type": "",
     "source": "",
-    "onlineTime": 1690819200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_488_buildr",
@@ -1377,13 +1378,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "8659",
     "passport": "30.0",
     "type": "",
     "source": "",
-    "onlineTime": 1690819200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4106_bryota",
@@ -1399,13 +1399,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": -1,
-    "main123": "4920",
     "passport": "30.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1690819200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-08-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4102_threye",
@@ -1421,13 +1420,12 @@
     "profession": "SUPPORT",
     "subProfession": "ritualist",
     "sp": -1,
-    "main123": "3177",
     "passport": "29.0",
-    "type": "",
-    "source": "",
-    "onlineTime": 1689177600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "activity",
+    "source": "rogue",
+    "onlineTime": "2023-07-13 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_2012_typhon",
@@ -1443,13 +1441,12 @@
     "profession": "SNIPER",
     "subProfession": "siegesniper",
     "sp": -1,
-    "main123": "8650",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1688572800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-07-06 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_341_sntlla",
@@ -1465,13 +1462,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "5766",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1688572800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-07-06 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1032_excu2",
@@ -1487,13 +1483,12 @@
     "profession": "WARRIOR",
     "subProfession": "reaper",
     "sp": 1,
-    "main123": "5767",
     "passport": "28.0",
     "type": "",
     "source": "",
-    "onlineTime": 1686153600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-06-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_498_inside",
@@ -1509,13 +1504,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "0206",
     "passport": "28.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1686153600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-06-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4015_spuria",
@@ -1531,13 +1525,12 @@
     "profession": "SPECIAL",
     "subProfession": "geek",
     "sp": -1,
-    "main123": "3178",
     "passport": "28.0",
     "type": "",
     "source": "",
-    "onlineTime": 1686153600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-06-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4093_frston",
@@ -1553,13 +1546,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "7419",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1684728000,
-    "recruitTime": 1684684800,
-    "classicTime": -1
+    "onlineTime": "2023-05-22 12:00",
+    "recruitTime": "2023-05-22 00:00",
+    "classicTime": ""
   },
   {
     "id": "char_249_mlyss",
@@ -1575,13 +1567,12 @@
     "profession": "PIONEER",
     "subProfession": "tactician",
     "sp": -1,
-    "main123": "2881",
     "passport": "27.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1682870400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4027_heyak",
@@ -1597,13 +1588,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "1595",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1682870400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1031_slent2",
@@ -1619,13 +1609,12 @@
     "profession": "SUPPORT",
     "subProfession": "blessing",
     "sp": 1,
-    "main123": "0207",
     "passport": "27.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1682870400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4006_melnte",
@@ -1641,13 +1630,12 @@
     "profession": "SNIPER",
     "subProfession": "closerange",
     "sp": -1,
-    "main123": "8652",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1682870400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4087_ines",
@@ -1663,13 +1651,12 @@
     "profession": "PIONEER",
     "subProfession": "agent",
     "sp": -1,
-    "main123": "0208",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1680710400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-04-06 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_154_morgan",
@@ -1685,13 +1672,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "7411",
     "passport": "25.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1680710400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-04-06 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_464_cement",
@@ -1707,13 +1693,12 @@
     "profession": "TANK",
     "subProfession": "duelist",
     "sp": -1,
-    "main123": "2882",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1680710400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-04-06 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_491_humus",
@@ -1729,13 +1714,12 @@
     "profession": "WARRIOR",
     "subProfession": "reaper",
     "sp": -1,
-    "main123": "9045",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1680710400,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2023-04-06 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_4091_ulika",
@@ -1751,13 +1735,12 @@
     "profession": "SUPPORT",
     "subProfession": "bard",
     "sp": -1,
-    "main123": "",
     "passport": "25.0",
     "type": "activity",
     "source": "april",
-    "onlineTime": 1680278400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-04-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1029_yato2",
@@ -1773,13 +1756,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": 1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1678118400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1030_noirc2",
@@ -1795,13 +1777,12 @@
     "profession": "WARRIOR",
     "subProfession": "musha",
     "sp": 1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1678118400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4077_palico",
@@ -1817,13 +1798,12 @@
     "profession": "SNIPER",
     "subProfession": "bombarder",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "sidestory",
-    "onlineTime": 1678118400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-03-07 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4082_qiubai",
@@ -1839,13 +1819,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "3171",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1676304000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-02-14 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4083_chimes",
@@ -1861,13 +1840,12 @@
     "profession": "WARRIOR",
     "subProfession": "crusher",
     "sp": -1,
-    "main123": "6338",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1676304000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-02-14 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_2024_chyue",
@@ -1883,13 +1861,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "5761",
     "passport": "22.0",
     "type": "limited",
     "source": "spring",
-    "onlineTime": 1673884800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-01-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4080_lin",
@@ -1905,13 +1882,12 @@
     "profession": "CASTER",
     "subProfession": "phalanx",
     "sp": -1,
-    "main123": "8655",
     "passport": "22.0",
     "type": "",
     "source": "",
-    "onlineTime": 1673884800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-01-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_493_firwhl",
@@ -1927,13 +1903,12 @@
     "profession": "TANK",
     "subProfession": "fortress",
     "sp": -1,
-    "main123": "3172",
     "passport": "22.0",
     "type": "",
     "source": "",
-    "onlineTime": 1673884800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-01-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4078_bdhkgt",
@@ -1949,13 +1924,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "1598",
     "passport": "22.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1673884800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2023-01-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1020_reed2",
@@ -1971,13 +1945,12 @@
     "profession": "MEDIC",
     "subProfession": "incantationmedic",
     "sp": 1,
-    "main123": "0201",
     "passport": "20.0",
     "type": "",
     "source": "",
-    "onlineTime": 1671033600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-12-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_297_hamoni",
@@ -1993,13 +1966,12 @@
     "profession": "CASTER",
     "subProfession": "mystic",
     "sp": -1,
-    "main123": "9048",
     "passport": "20.0",
     "type": "",
     "source": "",
-    "onlineTime": 1671033600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-12-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4017_puzzle",
@@ -2015,13 +1987,12 @@
     "profession": "PIONEER",
     "subProfession": "agent",
     "sp": -1,
-    "main123": "4927",
     "passport": "20.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1671033600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-12-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1028_texas2",
@@ -2037,13 +2008,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": 1,
-    "main123": "3186",
     "passport": "19.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4065_judge",
@@ -2059,13 +2029,12 @@
     "profession": "TANK",
     "subProfession": "unyield",
     "sp": -1,
-    "main123": "8663",
     "passport": "19.0",
     "type": "",
     "source": "",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_427_vigil",
@@ -2081,13 +2050,12 @@
     "profession": "PIONEER",
     "subProfession": "tactician",
     "sp": -1,
-    "main123": "6349",
     "passport": "19.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_466_qanik",
@@ -2103,13 +2071,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "",
     "passport": "19.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4014_lunacu",
@@ -2125,13 +2092,12 @@
     "profession": "SNIPER",
     "subProfession": "longrange",
     "sp": -1,
-    "main123": "2890",
     "passport": "19.0",
     "type": "",
     "source": "",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4063_quartz",
@@ -2147,13 +2113,12 @@
     "profession": "WARRIOR",
     "subProfession": "crusher",
     "sp": -1,
-    "main123": "",
     "passport": "19.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1667232000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4072_ironmn",
@@ -2169,13 +2134,12 @@
     "profession": "SUPPORT",
     "subProfession": "craftsman",
     "sp": -1,
-    "main123": "1503",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1665417600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-10-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_157_dagda",
@@ -2191,13 +2155,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "9058",
     "passport": "18.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1665417600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-10-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4071_peper",
@@ -2213,13 +2176,12 @@
     "profession": "MEDIC",
     "subProfession": "chainhealer",
     "sp": -1,
-    "main123": "6340",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1665417600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-10-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4062_totter",
@@ -2235,13 +2197,12 @@
     "profession": "SNIPER",
     "subProfession": "siegesniper",
     "sp": -1,
-    "main123": "2891",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1665417600,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2022-10-11 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_513_apionr",
@@ -2257,13 +2218,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
-    "source": "rogue",
-    "onlineTime": 1664265600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "rogue",
+    "source": "",
+    "onlineTime": "2022-09-27 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4066_highmo",
@@ -2279,13 +2239,12 @@
     "profession": "WARRIOR",
     "subProfession": "reaper",
     "sp": -1,
-    "main123": "7413",
     "passport": "20.0",
-    "type": "",
-    "source": "",
-    "onlineTime": 1664208000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "activity",
+    "source": "rogue",
+    "onlineTime": "2022-09-27 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4067_lolxh",
@@ -2301,13 +2260,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "3188",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "ministory",
-    "onlineTime": 1663171200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-09-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4064_mlynar",
@@ -2323,13 +2281,12 @@
     "profession": "WARRIOR",
     "subProfession": "librator",
     "sp": -1,
-    "main123": "7420",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1662566400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-09-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4032_provs",
@@ -2345,13 +2302,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "5776",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1662566400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-09-08 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1026_gvial2",
@@ -2367,13 +2323,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": 1,
-    "main123": "8666",
     "passport": "16.0",
     "type": "limited",
     "source": "summer",
-    "onlineTime": 1660147200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-08-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4055_bgsnow",
@@ -2389,13 +2344,12 @@
     "profession": "SNIPER",
     "subProfession": "closerange",
     "sp": -1,
-    "main123": "5777",
     "passport": "16.0",
     "type": "",
     "source": "",
-    "onlineTime": 1660147200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-08-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_497_ctable",
@@ -2411,13 +2365,12 @@
     "profession": "PIONEER",
     "subProfession": "agent",
     "sp": -1,
-    "main123": "7421",
     "passport": "16.0",
     "type": "",
     "source": "",
-    "onlineTime": 1660147200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-08-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4054_malist",
@@ -2433,13 +2386,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": -1,
-    "main123": "0218",
     "passport": "16.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1660147200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-08-11 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4048_doroth",
@@ -2455,13 +2407,12 @@
     "profession": "SPECIAL",
     "subProfession": "traper",
     "sp": -1,
-    "main123": "0219",
     "passport": "15.0",
     "type": "",
     "source": "",
-    "onlineTime": 1656950400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-07-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_135_halo",
@@ -2477,13 +2428,12 @@
     "profession": "CASTER",
     "subProfession": "chain",
     "sp": -1,
-    "main123": "3180",
     "passport": "15.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1656950400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-07-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1027_greyy2",
@@ -2499,13 +2449,12 @@
     "profession": "SNIPER",
     "subProfession": "bombarder",
     "sp": 1,
-    "main123": "6343",
     "passport": "15.0",
     "type": "",
     "source": "",
-    "onlineTime": 1656950400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-07-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4046_ebnhlz",
@@ -2521,13 +2470,12 @@
     "profession": "CASTER",
     "subProfession": "mystic",
     "sp": -1,
-    "main123": "4937",
     "passport": "13.0",
     "type": "",
     "source": "",
-    "onlineTime": 1654704000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-06-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1024_hbisc2",
@@ -2543,13 +2491,12 @@
     "profession": "MEDIC",
     "subProfession": "incantationmedic",
     "sp": 1,
-    "main123": "0211",
     "passport": "13.0",
     "type": "",
     "source": "",
-    "onlineTime": 1654704000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-06-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4047_pianst",
@@ -2565,13 +2512,12 @@
     "profession": "TANK",
     "subProfession": "artsprotector",
     "sp": -1,
-    "main123": "6345",
     "passport": "13.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1654704000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-06-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4043_erato",
@@ -2587,13 +2533,12 @@
     "profession": "SNIPER",
     "subProfession": "siegesniper",
     "sp": -1,
-    "main123": "",
     "passport": "13.0",
     "type": "activity",
     "source": "crisis",
-    "onlineTime": 1652889600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-05-19 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1023_ghost2",
@@ -2609,13 +2554,12 @@
     "profession": "SPECIAL",
     "subProfession": "dollkeeper",
     "sp": 1,
-    "main123": "8660",
     "passport": "40.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1651334400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4009_irene",
@@ -2631,13 +2575,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": -1,
-    "main123": "6346",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1651334400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_433_windft",
@@ -2653,13 +2596,12 @@
     "profession": "SUPPORT",
     "subProfession": "craftsman",
     "sp": -1,
-    "main123": "4938",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1651334400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4042_lumen",
@@ -2675,13 +2617,12 @@
     "profession": "MEDIC",
     "subProfession": "healer",
     "sp": -1,
-    "main123": "5771",
     "passport": "41.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1651334400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4039_horn",
@@ -2697,13 +2638,12 @@
     "profession": "TANK",
     "subProfession": "fortress",
     "sp": -1,
-    "main123": "7426",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1649865600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-04-14 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4040_rockr",
@@ -2719,13 +2659,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": -1,
-    "main123": "9055",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1649865600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-04-14 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4045_heidi",
@@ -2741,13 +2680,12 @@
     "profession": "SUPPORT",
     "subProfession": "bard",
     "sp": -1,
-    "main123": "6347",
     "passport": "26.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1649865600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-04-14 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4041_chnut",
@@ -2763,13 +2701,12 @@
     "profession": "MEDIC",
     "subProfession": "wandermedic",
     "sp": -1,
-    "main123": "2898",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1649865600,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2022-04-14 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_300_phenxi",
@@ -2785,13 +2722,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "9056",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1647273600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-03-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4016_kazema",
@@ -2807,13 +2743,12 @@
     "profession": "SPECIAL",
     "subProfession": "dollkeeper",
     "sp": -1,
-    "main123": "1501",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1647273600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-03-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4036_forcer",
@@ -2829,13 +2764,12 @@
     "profession": "SPECIAL",
     "subProfession": "pusher",
     "sp": -1,
-    "main123": "7427",
     "passport": "10.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1647273600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-03-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_377_gdglow",
@@ -2851,13 +2785,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": -1,
-    "main123": "5773",
     "passport": "13.0",
     "type": "",
     "source": "",
-    "onlineTime": 1644854400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-02-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_492_quercu",
@@ -2873,13 +2806,12 @@
     "profession": "SUPPORT",
     "subProfession": "blessing",
     "sp": -1,
-    "main123": "2899",
     "passport": "13.0",
     "type": "",
     "source": "",
-    "onlineTime": 1644854400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-02-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_322_lmlee",
@@ -2895,13 +2827,12 @@
     "profession": "SPECIAL",
     "subProfession": "merchant",
     "sp": -1,
-    "main123": "3190",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1643040000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-01-25 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_2023_ling",
@@ -2917,13 +2848,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "9063",
     "passport": "21.0",
     "type": "limited",
     "source": "spring",
-    "onlineTime": 1643040000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-01-25 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_476_blkngt",
@@ -2939,13 +2869,12 @@
     "profession": "PIONEER",
     "subProfession": "tactician",
     "sp": -1,
-    "main123": "2802",
     "passport": "21.0",
     "type": "",
     "source": "",
-    "onlineTime": 1643040000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-01-25 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1021_kroos2",
@@ -2961,13 +2890,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": 1,
-    "main123": "8674",
     "passport": "22.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1643040000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-01-25 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4019_ncdeer",
@@ -2983,13 +2911,12 @@
     "profession": "SUPPORT",
     "subProfession": "blessing",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "checkin",
-    "onlineTime": 1641744000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2022-01-10 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4025_aprot2",
@@ -3005,13 +2932,12 @@
     "profession": "TANK",
     "subProfession": "artsprotector",
     "sp": -1,
-    "main123": "",
     "passport": "30.0",
-    "type": "",
-    "source": "",
-    "onlineTime": 1641312000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "activity",
+    "source": "rogue",
+    "onlineTime": "2022-01-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_206_gnosis",
@@ -3027,13 +2953,12 @@
     "profession": "SUPPORT",
     "subProfession": "underminer",
     "sp": -1,
-    "main123": "",
     "passport": "28.0",
     "type": "",
     "source": "",
-    "onlineTime": 1640016000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-12-21 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_422_aurora",
@@ -3049,13 +2974,12 @@
     "profession": "TANK",
     "subProfession": "duelist",
     "sp": -1,
-    "main123": "7416",
     "passport": "28.0",
     "type": "",
     "source": "",
-    "onlineTime": 1640016000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-12-21 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4013_kjera",
@@ -3071,13 +2995,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": -1,
-    "main123": "",
     "passport": "28.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1640016000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-12-21 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4000_jnight",
@@ -3093,13 +3016,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1635739200,
-    "recruitTime": 1635696000,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 12:00",
+    "recruitTime": "2021-11-01 00:00",
+    "classicTime": ""
   },
   {
     "id": "char_420_flamtl",
@@ -3115,13 +3037,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1014_nearl2",
@@ -3137,13 +3058,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": 1,
-    "main123": "",
     "passport": "34.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_449_glider",
@@ -3159,13 +3079,12 @@
     "profession": "MEDIC",
     "subProfession": "wandermedic",
     "sp": -1,
-    "main123": "",
     "passport": "36.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_489_serum",
@@ -3181,13 +3100,12 @@
     "profession": "CASTER",
     "subProfession": "blastcaster",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_496_wildmn",
@@ -3203,13 +3121,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_4004_pudd",
@@ -3225,13 +3142,12 @@
     "profession": "CASTER",
     "subProfession": "chain",
     "sp": -1,
-    "main123": "",
     "passport": "20.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1635696000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_430_fartth",
@@ -3247,13 +3163,12 @@
     "profession": "SNIPER",
     "subProfession": "longrange",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1634227200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-10-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_431_ashlok",
@@ -3269,13 +3184,12 @@
     "profession": "TANK",
     "subProfession": "fortress",
     "sp": -1,
-    "main123": "",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1634227200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-10-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_479_sleach",
@@ -3291,13 +3205,12 @@
     "profession": "PIONEER",
     "subProfession": "bearer",
     "sp": -1,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1631808000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-09-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_473_mberry",
@@ -3313,13 +3226,12 @@
     "profession": "MEDIC",
     "subProfession": "wandermedic",
     "sp": -1,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1631808000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-09-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_484_robrta",
@@ -3335,13 +3247,12 @@
     "profession": "SUPPORT",
     "subProfession": "craftsman",
     "sp": -1,
-    "main123": "5752",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1631808000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2021-09-17 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_437_mizuki",
@@ -3357,13 +3268,12 @@
     "profession": "SPECIAL",
     "subProfession": "stalker",
     "sp": -1,
-    "main123": "6339",
     "passport": "31.0",
     "type": "",
     "source": "",
-    "onlineTime": 1627920000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-08-03 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1013_chen2",
@@ -3379,13 +3289,12 @@
     "profession": "SNIPER",
     "subProfession": "reaperrange",
     "sp": 1,
-    "main123": "",
     "passport": "31.0",
     "type": "limited",
     "source": "summer",
-    "onlineTime": 1627920000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-08-03 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_421_crow",
@@ -3401,13 +3310,12 @@
     "profession": "WARRIOR",
     "subProfession": "reaper",
     "sp": -1,
-    "main123": "",
     "passport": "31.0",
     "type": "",
     "source": "",
-    "onlineTime": 1627920000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-08-03 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_486_takila",
@@ -3423,13 +3331,12 @@
     "profession": "WARRIOR",
     "subProfession": "librator",
     "sp": -1,
-    "main123": "",
     "passport": "31.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1627920000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-08-03 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_485_pallas",
@@ -3445,13 +3352,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": -1,
-    "main123": "",
     "passport": "37.0",
     "type": "",
     "source": "",
-    "onlineTime": 1625155200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-07-02 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_426_billro",
@@ -3467,13 +3373,12 @@
     "profession": "CASTER",
     "subProfession": "phalanx",
     "sp": -1,
-    "main123": "",
     "passport": "16.0",
     "type": "",
     "source": "",
-    "onlineTime": 1622476800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-06-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_369_bena",
@@ -3489,13 +3394,12 @@
     "profession": "SPECIAL",
     "subProfession": "dollkeeper",
     "sp": -1,
-    "main123": "",
     "passport": "43.0",
     "type": "activity",
     "source": "ministory",
-    "onlineTime": 1622476800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-06-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_478_kirara",
@@ -3511,13 +3415,12 @@
     "profession": "SPECIAL",
     "subProfession": "stalker",
     "sp": -1,
-    "main123": "9044",
     "passport": "20.0",
     "type": "",
     "source": "",
-    "onlineTime": 1622476800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-06-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_469_indigo",
@@ -3533,13 +3436,12 @@
     "profession": "CASTER",
     "subProfession": "mystic",
     "sp": -1,
-    "main123": "7401",
     "passport": "36.0",
     "type": "",
     "source": "",
-    "onlineTime": 1622476800,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2021-06-01 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_003_kalts",
@@ -3555,13 +3457,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "4926",
     "passport": "26.0",
     "type": "",
     "source": "",
-    "onlineTime": 1619798400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_1012_skadi2",
@@ -3577,13 +3478,12 @@
     "profession": "SUPPORT",
     "subProfession": "bard",
     "sp": 1,
-    "main123": "",
     "passport": "26.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1619798400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_474_glady",
@@ -3599,13 +3499,12 @@
     "profession": "SPECIAL",
     "subProfession": "hookmaster",
     "sp": -1,
-    "main123": "",
     "passport": "12.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1619798400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_475_akafyu",
@@ -3621,13 +3520,12 @@
     "profession": "WARRIOR",
     "subProfession": "musha",
     "sp": -1,
-    "main123": "",
     "passport": "26.0",
     "type": "",
     "source": "",
-    "onlineTime": 1619798400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_472_pasngr",
@@ -3643,13 +3541,12 @@
     "profession": "CASTER",
     "subProfession": "chain",
     "sp": -1,
-    "main123": "",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1618416000,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-04-15 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_304_zebra",
@@ -3665,13 +3562,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "",
     "passport": "11.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1618416000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-04-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_363_toddi",
@@ -3687,13 +3583,12 @@
     "profession": "SNIPER",
     "subProfession": "siegesniper",
     "sp": -1,
-    "main123": "",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1618416000,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-04-15 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_456_ash",
@@ -3709,13 +3604,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1615219200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-03-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_457_blitz",
@@ -3731,13 +3625,12 @@
     "profession": "TANK",
     "subProfession": "shotprotector",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1615219200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-03-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_458_rfrost",
@@ -3753,13 +3646,12 @@
     "profession": "SPECIAL",
     "subProfession": "traper",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "linkage",
     "source": "",
-    "onlineTime": 1615219200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-03-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_459_tachak",
@@ -3775,13 +3667,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
+    "type": "linkageActivity",
     "source": "sidestory",
-    "onlineTime": 1615219200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-03-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_362_saga",
@@ -3797,13 +3688,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1612454400,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-02-05 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_2015_dusk",
@@ -3819,13 +3709,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "",
     "passport": "21.0",
     "type": "limited",
     "source": "spring",
-    "onlineTime": 1612454400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-02-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_455_nothin",
@@ -3841,13 +3730,12 @@
     "profession": "SPECIAL",
     "subProfession": "merchant",
     "sp": -1,
-    "main123": "",
     "passport": "21.0",
     "type": "",
     "source": "",
-    "onlineTime": 1612454400,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-02-05 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_1011_lava2",
@@ -3863,13 +3751,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": 1,
-    "main123": "",
     "passport": "21.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1612454400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-02-05 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_402_tuye",
@@ -3885,13 +3772,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "activity",
     "source": "crisis",
-    "onlineTime": 1610985600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2021-01-19 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_332_archet",
@@ -3907,13 +3793,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "37.0",
     "type": "",
     "source": "",
-    "onlineTime": 1609776000,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-01-05 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_338_iris",
@@ -3929,13 +3814,12 @@
     "profession": "CASTER",
     "subProfession": "mystic",
     "sp": -1,
-    "main123": "",
     "passport": "43.0",
     "type": "",
     "source": "",
-    "onlineTime": 1609776000,
-    "recruitTime": -1,
-    "classicTime": 1713384000
+    "onlineTime": "2021-01-05 00:00",
+    "recruitTime": "",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_452_bstalk",
@@ -3951,13 +3835,12 @@
     "profession": "PIONEER",
     "subProfession": "tactician",
     "sp": -1,
-    "main123": "",
     "passport": "40.0",
     "type": "",
     "source": "",
-    "onlineTime": 1609776000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2021-01-05 00:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_264_f12yin",
@@ -3973,13 +3856,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "",
     "passport": "15.0",
     "type": "",
     "source": "",
-    "onlineTime": 1608134400,
-    "recruitTime": 1730448000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-12-17 00:00",
+    "recruitTime": "2024-11-01 16:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_214_kafka",
@@ -3995,13 +3877,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "",
     "passport": "15.0",
     "type": "",
     "source": "",
-    "onlineTime": 1608134400,
-    "recruitTime": 1730448000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-12-17 00:00",
+    "recruitTime": "2024-11-01 16:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_451_robin",
@@ -4017,13 +3898,12 @@
     "profession": "SPECIAL",
     "subProfession": "traper",
     "sp": -1,
-    "main123": "",
     "passport": "15.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1608134400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-12-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_440_pinecn",
@@ -4039,13 +3919,12 @@
     "profession": "SNIPER",
     "subProfession": "reaperrange",
     "sp": -1,
-    "main123": "",
     "passport": "15.0",
     "type": "",
     "source": "",
-    "onlineTime": 1608134400,
-    "recruitTime": 1730448000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-12-17 00:00",
+    "recruitTime": "2024-11-01 16:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_311_mudrok",
@@ -4061,13 +3940,12 @@
     "profession": "TANK",
     "subProfession": "unyield",
     "sp": -1,
-    "main123": "",
     "passport": "5.0",
     "type": "",
     "source": "",
-    "onlineTime": 1604160000,
-    "recruitTime": 1722441600,
-    "classicTime": 1713384000
+    "onlineTime": "2020-11-01 00:00",
+    "recruitTime": "2024-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_391_rosmon",
@@ -4083,13 +3961,12 @@
     "profession": "SNIPER",
     "subProfession": "bombarder",
     "sp": -1,
-    "main123": "5775",
     "passport": "5.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1604160000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_436_whispr",
@@ -4105,13 +3982,12 @@
     "profession": "MEDIC",
     "subProfession": "healer",
     "sp": -1,
-    "main123": "",
     "passport": "5.0",
     "type": "",
     "source": "",
-    "onlineTime": 1604160000,
-    "recruitTime": 1722441600,
-    "classicTime": 1713384000
+    "onlineTime": "2020-11-01 00:00",
+    "recruitTime": "2024-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_1001_amiya2",
@@ -4127,13 +4003,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": 1,
-    "main123": "",
     "passport": "",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1604160000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_347_jaksel",
@@ -4149,13 +4024,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "",
     "passport": "5.0",
     "type": "",
     "source": "",
-    "onlineTime": 1604160000,
-    "recruitTime": 1722441600,
-    "classicTime": 1680768000
+    "onlineTime": "2020-11-01 00:00",
+    "recruitTime": "2024-08-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_423_blemsh",
@@ -4171,13 +4045,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1602691200,
-    "recruitTime": 1714492800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-10-15 00:00",
+    "recruitTime": "2024-05-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_265_sophia",
@@ -4193,13 +4066,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": -1,
-    "main123": "",
     "passport": "9.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1602691200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-10-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_346_aosta",
@@ -4215,13 +4087,12 @@
     "profession": "SNIPER",
     "subProfession": "reaperrange",
     "sp": -1,
-    "main123": "",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1602691200,
-    "recruitTime": 1714492800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-10-15 00:00",
+    "recruitTime": "2024-05-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_381_bubble",
@@ -4237,13 +4108,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1602691200,
-    "recruitTime": 1714492800,
-    "classicTime": 1680768000
+    "onlineTime": "2020-10-15 00:00",
+    "recruitTime": "2024-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_350_surtr",
@@ -4259,13 +4129,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": -1,
-    "main123": "",
     "passport": "37.0",
     "type": "",
     "source": "",
-    "onlineTime": 1600876800,
-    "recruitTime": 1706716800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-09-24 00:00",
+    "recruitTime": "2024-02-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_365_aprl",
@@ -4281,13 +4150,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1600876800,
-    "recruitTime": 1706716800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-09-24 00:00",
+    "recruitTime": "2024-02-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_388_mint",
@@ -4303,13 +4171,12 @@
     "profession": "CASTER",
     "subProfession": "phalanx",
     "sp": -1,
-    "main123": "",
     "passport": "35.0",
     "type": "activity",
     "source": "ministory",
-    "onlineTime": 1600876800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-09-24 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_271_spikes",
@@ -4325,13 +4192,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "3182",
     "passport": "33.0",
     "type": "",
     "source": "",
-    "onlineTime": 1600876800,
-    "recruitTime": 1706716800,
-    "classicTime": 1680768000
+    "onlineTime": "2020-09-24 00:00",
+    "recruitTime": "2024-02-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_508_aguard",
@@ -4347,13 +4213,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
-    "source": "rogue",
-    "onlineTime": 1598342400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "rogue",
+    "source": "",
+    "onlineTime": "2020-08-25 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_509_acast",
@@ -4369,13 +4234,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
-    "source": "rogue",
-    "onlineTime": 1598342400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "rogue",
+    "source": "",
+    "onlineTime": "2020-08-25 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_510_amedic",
@@ -4391,13 +4255,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
-    "source": "rogue",
-    "onlineTime": 1598342400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "rogue",
+    "source": "",
+    "onlineTime": "2020-08-25 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_511_asnipe",
@@ -4413,13 +4276,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "",
-    "type": "activity",
-    "source": "rogue",
-    "onlineTime": 1598342400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "type": "rogue",
+    "source": "",
+    "onlineTime": "2020-08-25 16:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_416_zumama",
@@ -4435,13 +4297,12 @@
     "profession": "TANK",
     "subProfession": "duelist",
     "sp": -1,
-    "main123": "",
     "passport": "4.0",
     "type": "",
     "source": "",
-    "onlineTime": 1598284800,
-    "recruitTime": 1698768000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-08-25 00:00",
+    "recruitTime": "2023-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_411_tomimi",
@@ -4457,13 +4318,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "5760",
     "passport": "4.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1598284800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-08-25 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_415_flint",
@@ -4479,13 +4339,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "",
     "passport": "4.0",
     "type": "",
     "source": "",
-    "onlineTime": 1598284800,
-    "recruitTime": 1698768000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-08-25 00:00",
+    "recruitTime": "2023-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_366_acdrop",
@@ -4501,13 +4360,12 @@
     "profession": "SNIPER",
     "subProfession": "closerange",
     "sp": -1,
-    "main123": "8667",
     "passport": "4.0",
     "type": "",
     "source": "",
-    "onlineTime": 1598284800,
-    "recruitTime": 1698768000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-08-25 00:00",
+    "recruitTime": "2023-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_293_thorns",
@@ -4523,13 +4381,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1597075200,
-    "recruitTime": 1690819200,
-    "classicTime": 1713384000
+    "onlineTime": "2020-08-11 00:00",
+    "recruitTime": "2023-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_218_cuttle",
@@ -4545,13 +4402,12 @@
     "profession": "SNIPER",
     "subProfession": "longrange",
     "sp": -1,
-    "main123": "",
     "passport": "26.0",
     "type": "",
     "source": "",
-    "onlineTime": 1597075200,
-    "recruitTime": 1690819200,
-    "classicTime": 1713384000
+    "onlineTime": "2020-08-11 00:00",
+    "recruitTime": "2023-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_272_strong",
@@ -4567,13 +4423,12 @@
     "profession": "SPECIAL",
     "subProfession": "merchant",
     "sp": -1,
-    "main123": "8654",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1597075200,
-    "recruitTime": 1690819200,
-    "classicTime": 1680768000
+    "onlineTime": "2020-08-11 00:00",
+    "recruitTime": "2023-08-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_336_folivo",
@@ -4589,13 +4444,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "0294",
     "passport": "29.0",
     "type": "activity",
     "source": "crisis",
-    "onlineTime": 1595865600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-07-28 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_344_beewax",
@@ -4611,13 +4465,12 @@
     "profession": "CASTER",
     "subProfession": "phalanx",
     "sp": -1,
-    "main123": "",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1595865600,
-    "recruitTime": 1690819200,
-    "classicTime": 1713384000
+    "onlineTime": "2020-07-28 00:00",
+    "recruitTime": "2023-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_349_chiave",
@@ -4633,13 +4486,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "4917",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1595865600,
-    "recruitTime": 1690819200,
-    "classicTime": 1713384000
+    "onlineTime": "2020-07-28 00:00",
+    "recruitTime": "2023-08-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_358_lisa",
@@ -4655,13 +4507,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "",
     "passport": "44.0",
     "type": "",
     "source": "",
-    "onlineTime": 1594224000,
-    "recruitTime": 1682870400,
-    "classicTime": 1713384000
+    "onlineTime": "2020-07-09 00:00",
+    "recruitTime": "2023-05-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_294_ayer",
@@ -4677,13 +4528,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "1591",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1594224000,
-    "recruitTime": 1682870400,
-    "classicTime": 1713384000
+    "onlineTime": "2020-07-09 00:00",
+    "recruitTime": "2023-05-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_345_folnic",
@@ -4699,13 +4549,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "39.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1594224000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-07-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_328_cammou",
@@ -4721,13 +4570,12 @@
     "profession": "CASTER",
     "subProfession": "funnel",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1594224000,
-    "recruitTime": 1682870400,
-    "classicTime": 1680768000
+    "onlineTime": "2020-07-09 00:00",
+    "recruitTime": "2023-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_197_poca",
@@ -4743,13 +4591,12 @@
     "profession": "SNIPER",
     "subProfession": "siegesniper",
     "sp": -1,
-    "main123": "",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1592409600,
-    "recruitTime": 1673884800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-06-18 00:00",
+    "recruitTime": "2023-01-17 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_373_lionhd",
@@ -4765,13 +4612,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "1588",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1592409600,
-    "recruitTime": 1673884800,
-    "classicTime": 1713384000
+    "onlineTime": "2020-06-18 00:00",
+    "recruitTime": "2023-01-17 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_405_absin",
@@ -4787,13 +4633,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "7412",
     "passport": "3.0",
     "type": "activity",
     "source": "ministory",
-    "onlineTime": 1592409600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-06-18 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_258_podego",
@@ -4809,13 +4654,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "",
     "passport": "44.0",
     "type": "",
     "source": "",
-    "onlineTime": 1592409600,
-    "recruitTime": 1673884800,
-    "classicTime": 1680768000
+    "onlineTime": "2020-06-18 00:00",
+    "recruitTime": "2023-01-17 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_343_tknogi",
@@ -4831,13 +4675,12 @@
     "profession": "SUPPORT",
     "subProfession": "blessing",
     "sp": -1,
-    "main123": "",
     "passport": "35.0",
     "type": "",
     "source": "",
-    "onlineTime": 1591027200,
-    "recruitTime": 1667232000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-06-02 00:00",
+    "recruitTime": "2022-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_378_asbest",
@@ -4853,13 +4696,12 @@
     "profession": "TANK",
     "subProfession": "artsprotector",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1591027200,
-    "recruitTime": 1667232000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-06-02 00:00",
+    "recruitTime": "2022-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_376_therex",
@@ -4875,13 +4717,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1588305600,
-    "recruitTime": 1588262400,
-    "classicTime": -1
+    "onlineTime": "2020-05-01 12:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": ""
   },
   {
     "id": "char_113_cqbw",
@@ -4897,13 +4738,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": 0,
-    "main123": "",
     "passport": "1.0",
     "type": "limited",
     "source": "fes",
-    "onlineTime": 1588262400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-05-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_400_weedy",
@@ -4919,13 +4759,12 @@
     "profession": "SPECIAL",
     "subProfession": "pusher",
     "sp": -1,
-    "main123": "",
     "passport": "1.0",
     "type": "",
     "source": "",
-    "onlineTime": 1588262400,
-    "recruitTime": 1667232000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-05-01 00:00",
+    "recruitTime": "2022-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_401_elysm",
@@ -4941,13 +4780,12 @@
     "profession": "PIONEER",
     "subProfession": "bearer",
     "sp": -1,
-    "main123": "",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1588262400,
-    "recruitTime": 1667232000,
-    "classicTime": 1713384000
+    "onlineTime": "2020-05-01 00:00",
+    "recruitTime": "2022-11-01 00:00",
+    "classicTime": "2024-04-18 04:00"
   },
   {
     "id": "char_250_phatom",
@@ -4963,13 +4801,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1587398400,
-    "recruitTime": 1660147200,
-    "classicTime": 1680768000
+    "onlineTime": "2020-04-21 00:00",
+    "recruitTime": "2022-08-11 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_254_vodfox",
@@ -4985,13 +4822,12 @@
     "profession": "SUPPORT",
     "subProfession": "underminer",
     "sp": -1,
-    "main123": "",
     "passport": "1.0",
     "type": "",
     "source": "",
-    "onlineTime": 1587398400,
-    "recruitTime": 1660147200,
-    "classicTime": 1680768000
+    "onlineTime": "2020-04-21 00:00",
+    "recruitTime": "2022-08-11 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_333_sidero",
@@ -5007,13 +4843,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": -1,
-    "main123": "",
     "passport": "1.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1587398400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-04-21 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_301_cutter",
@@ -5029,13 +4864,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1587398400,
-    "recruitTime": 1660147200,
-    "classicTime": 1680768000
+    "onlineTime": "2020-04-21 00:00",
+    "recruitTime": "2022-08-11 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_159_peacok",
@@ -5051,13 +4885,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "4911",
     "passport": "5.0",
     "type": "activity",
     "source": "april",
-    "onlineTime": 1585670400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-04-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_222_bpipe",
@@ -5073,13 +4906,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": -1,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1584374400,
-    "recruitTime": 1649865600,
-    "classicTime": 1680768000
+    "onlineTime": "2020-03-17 00:00",
+    "recruitTime": "2022-04-14 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_252_bibeak",
@@ -5095,13 +4927,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": -1,
-    "main123": "",
     "passport": "40.0",
     "type": "activity",
     "source": "crisis",
-    "onlineTime": 1584374400,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-03-17 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_379_sesa",
@@ -5117,13 +4948,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "9037",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1584374400,
-    "recruitTime": 1649865600,
-    "classicTime": 1680768000
+    "onlineTime": "2020-03-17 00:00",
+    "recruitTime": "2022-04-14 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_337_utage",
@@ -5139,13 +4969,12 @@
     "profession": "WARRIOR",
     "subProfession": "musha",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1584374400,
-    "recruitTime": 1649865600,
-    "classicTime": 1680768000
+    "onlineTime": "2020-03-17 00:00",
+    "recruitTime": "2022-04-14 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_385_finlpp",
@@ -5161,13 +4990,12 @@
     "profession": "MEDIC",
     "subProfession": "healer",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1583164800,
-    "recruitTime": 1618416000,
-    "classicTime": -1
+    "onlineTime": "2020-03-03 00:00",
+    "recruitTime": "2021-04-15 00:00",
+    "classicTime": ""
   },
   {
     "id": "char_2013_cerber",
@@ -5183,13 +5011,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "",
     "passport": "20.0",
     "type": "",
     "source": "",
-    "onlineTime": 1582560000,
-    "recruitTime": 1643040000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-02-25 00:00",
+    "recruitTime": "2022-01-25 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_306_leizi",
@@ -5205,13 +5032,12 @@
     "profession": "CASTER",
     "subProfession": "chain",
     "sp": -1,
-    "main123": "",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1582560000,
-    "recruitTime": 1643040000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-02-25 00:00",
+    "recruitTime": "2022-01-25 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_225_haak",
@@ -5227,13 +5053,12 @@
     "profession": "SPECIAL",
     "subProfession": "geek",
     "sp": -1,
-    "main123": "5765",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1579104000,
-    "recruitTime": 1635696000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-01-16 00:00",
+    "recruitTime": "2021-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_2014_nian",
@@ -5249,13 +5074,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "",
     "passport": "21.0",
     "type": "limited",
     "source": "spring",
-    "onlineTime": 1579104000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-01-16 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_226_hmau",
@@ -5271,13 +5095,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "5759",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1579104000,
-    "recruitTime": 1635696000,
-    "classicTime": 1680768000
+    "onlineTime": "2020-01-16 00:00",
+    "recruitTime": "2021-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_383_snsant",
@@ -5293,13 +5116,12 @@
     "profession": "SPECIAL",
     "subProfession": "hookmaster",
     "sp": -1,
-    "main123": "",
     "passport": "23.0",
     "type": "activity",
     "source": "ministory",
-    "onlineTime": 1578499200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2020-01-09 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_017_huang",
@@ -5315,13 +5137,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "9054",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1577116800,
-    "recruitTime": 1627920000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-12-24 00:00",
+    "recruitTime": "2021-08-03 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_367_swllow",
@@ -5337,13 +5158,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1577116800,
-    "recruitTime": 1627920000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-12-24 00:00",
+    "recruitTime": "2021-08-03 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_302_glaze",
@@ -5359,13 +5179,12 @@
     "profession": "SNIPER",
     "subProfession": "longrange",
     "sp": -1,
-    "main123": "",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1577116800,
-    "recruitTime": 1627920000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-12-24 00:00",
+    "recruitTime": "2021-08-03 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_261_sddrag",
@@ -5381,13 +5200,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": 0,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1575907200,
-    "recruitTime": 1627920000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-12-10 00:00",
+    "recruitTime": "2021-08-03 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_356_broca",
@@ -5403,13 +5221,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1575907200,
-    "recruitTime": 1627920000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-12-10 00:00",
+    "recruitTime": "2021-08-03 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_213_mostma",
@@ -5425,13 +5242,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "",
     "passport": "11.0",
     "type": "",
     "source": "",
-    "onlineTime": 1573747200,
-    "recruitTime": 1618416000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-11-15 00:00",
+    "recruitTime": "2021-04-15 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_243_waaifu",
@@ -5447,13 +5263,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "7418",
     "passport": "23.0",
     "type": "",
     "source": "",
-    "onlineTime": 1573747200,
-    "recruitTime": 1618416000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-11-15 00:00",
+    "recruitTime": "2021-04-15 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_325_bison",
@@ -5469,13 +5284,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "",
     "passport": "11.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1573747200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-11-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_133_mm",
@@ -5491,13 +5305,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "6320",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1573747200,
-    "recruitTime": 1618416000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-11-15 00:00",
+    "recruitTime": "2021-04-15 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_275_breeze",
@@ -5513,13 +5326,12 @@
     "profession": "MEDIC",
     "subProfession": "ringhealer",
     "sp": -1,
-    "main123": "",
     "passport": "22.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1572537600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_355_ethan",
@@ -5535,13 +5347,12 @@
     "profession": "SPECIAL",
     "subProfession": "stalker",
     "sp": -1,
-    "main123": "",
     "passport": "2.0",
     "type": "activity",
     "source": "purchase",
-    "onlineTime": 1572537600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-11-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_248_mgllan",
@@ -5557,13 +5368,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "7403",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1571068800,
-    "recruitTime": 1610985600,
-    "classicTime": 1680768000
+    "onlineTime": "2019-10-15 00:00",
+    "recruitTime": "2021-01-19 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_131_flameb",
@@ -5579,13 +5389,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "",
     "passport": "2.0",
     "type": "activity",
     "source": "ministory",
-    "onlineTime": 1571068800,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-10-15 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_279_excu",
@@ -5601,13 +5410,12 @@
     "profession": "SNIPER",
     "subProfession": "reaperrange",
     "sp": 0,
-    "main123": "",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1571068800,
-    "recruitTime": 1610985600,
-    "classicTime": 1680768000
+    "onlineTime": "2019-10-15 00:00",
+    "recruitTime": "2021-01-19 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_190_clour",
@@ -5623,13 +5431,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "28.0",
     "type": "",
     "source": "",
-    "onlineTime": 1571068800,
-    "recruitTime": 1610985600,
-    "classicTime": 1680768000
+    "onlineTime": "2019-10-15 00:00",
+    "recruitTime": "2021-01-19 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_260_durnar",
@@ -5645,13 +5452,12 @@
     "profession": "TANK",
     "subProfession": "artsprotector",
     "sp": -1,
-    "main123": "",
     "passport": "37.0",
     "type": "activity",
     "source": "credit",
-    "onlineTime": 1569859200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-10-01 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_188_helage",
@@ -5667,13 +5473,12 @@
     "profession": "WARRIOR",
     "subProfession": "musha",
     "sp": -1,
-    "main123": "1593",
     "passport": "4.0",
     "type": "",
     "source": "",
-    "onlineTime": 1568044800,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-09-10 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_274_astesi",
@@ -5689,13 +5494,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": -1,
-    "main123": "",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1568044800,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-09-10 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_151_myrtle",
@@ -5711,13 +5515,12 @@
     "profession": "PIONEER",
     "subProfession": "bearer",
     "sp": -1,
-    "main123": "",
     "passport": "37.0",
     "type": "",
     "source": "",
-    "onlineTime": 1568044800,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-09-10 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_340_shwaz",
@@ -5733,13 +5536,12 @@
     "profession": "SNIPER",
     "subProfession": "closerange",
     "sp": -1,
-    "main123": "",
     "passport": "4.0",
     "type": "",
     "source": "",
-    "onlineTime": 1566835200,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-08-27 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_326_glacus",
@@ -5755,13 +5557,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "",
     "passport": "21.0",
     "type": "",
     "source": "",
-    "onlineTime": 1566835200,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-08-27 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_348_ceylon",
@@ -5777,13 +5578,12 @@
     "profession": "MEDIC",
     "subProfession": "healer",
     "sp": -1,
-    "main123": "",
     "passport": "4.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1566835200,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-08-27 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_298_susuro",
@@ -5799,13 +5599,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "1.0",
     "type": "",
     "source": "",
-    "onlineTime": 1566835200,
-    "recruitTime": 1604160000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-08-27 00:00",
+    "recruitTime": "2020-11-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_010_chen",
@@ -5821,13 +5620,12 @@
     "profession": "WARRIOR",
     "subProfession": "sword",
     "sp": 0,
-    "main123": "5755",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1562601600,
-    "recruitTime": 1588262400,
-    "classicTime": 1680768000
+    "onlineTime": "2019-07-09 00:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_308_swire",
@@ -5843,13 +5641,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": 0,
-    "main123": "",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1562601600,
-    "recruitTime": 1588262400,
-    "classicTime": 1680768000
+    "onlineTime": "2019-07-09 00:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_253_greyy",
@@ -5865,13 +5662,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": 0,
-    "main123": "",
     "passport": "12.0",
     "type": "",
     "source": "",
-    "onlineTime": 1562601600,
-    "recruitTime": 1588262400,
-    "classicTime": 1680768000
+    "onlineTime": "2019-07-09 00:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_281_popka",
@@ -5887,13 +5683,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1562601600,
-    "recruitTime": 1588262400,
-    "classicTime": 1680768000
+    "onlineTime": "2019-07-09 00:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_284_spot",
@@ -5909,13 +5704,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "4930",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1562601600,
-    "recruitTime": 1588262400,
-    "classicTime": 1680768000
+    "onlineTime": "2019-07-09 00:00",
+    "recruitTime": "2020-05-01 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_263_skadi",
@@ -5931,13 +5725,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": 0,
-    "main123": "3170",
     "passport": "12.0",
     "type": "",
     "source": "",
-    "onlineTime": 1559145600,
-    "recruitTime": 1577116800,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-30 00:00",
+    "recruitTime": "2019-12-24 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_164_nightm",
@@ -5953,13 +5746,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "",
     "passport": "40.0",
     "type": "",
     "source": "",
-    "onlineTime": 1559145600,
-    "recruitTime": 1577116800,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-30 00:00",
+    "recruitTime": "2019-12-24 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_220_grani",
@@ -5975,13 +5767,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": -1,
-    "main123": "4914",
     "passport": "12.0",
     "type": "activity",
     "source": "sidestory",
-    "onlineTime": 1559145600,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-05-30 00:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_137_brownb",
@@ -5997,13 +5788,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "",
     "passport": "12.0",
     "type": "",
     "source": "",
-    "onlineTime": 1559145600,
-    "recruitTime": 1577116800,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-30 00:00",
+    "recruitTime": "2019-12-24 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_283_midn",
@@ -6019,13 +5809,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "",
     "passport": "6.0",
     "type": "",
     "source": "",
-    "onlineTime": 1559145600,
-    "recruitTime": 1577116800,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-30 00:00",
+    "recruitTime": "2019-12-24 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_282_catap",
@@ -6041,13 +5830,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1558540800,
-    "recruitTime": 1577116800,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-23 00:00",
+    "recruitTime": "2019-12-24 00:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_103_angel",
@@ -6063,13 +5851,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "9030",
     "passport": "11.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_112_siege",
@@ -6085,13 +5872,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": 0,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_134_ifrit",
@@ -6107,13 +5893,12 @@
     "profession": "CASTER",
     "subProfession": "blastcaster",
     "sp": -1,
-    "main123": "",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_136_hsguma",
@@ -6129,13 +5914,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "4935",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_147_shining",
@@ -6151,13 +5935,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_172_svrash",
@@ -6173,13 +5956,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_179_cgbird",
@@ -6195,13 +5977,12 @@
     "profession": "MEDIC",
     "subProfession": "ringhealer",
     "sp": -1,
-    "main123": "",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_180_amgoat",
@@ -6217,13 +5998,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": 0,
-    "main123": "",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_202_demkni",
@@ -6239,13 +6019,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "4913",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_291_aglina",
@@ -6261,17 +6040,16 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "7417",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_002_amiya",
-    "name": "阿米娅（术师）",
+    "name": "阿米娅",
     "color1": "#0098dc",
     "color2": "#0098dc",
     "nationId": "rhodes",
@@ -6283,13 +6061,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": 0,
-    "main123": "9064",
     "passport": "1.0",
     "type": "activity",
     "source": "mainline",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_101_sora",
@@ -6305,13 +6082,12 @@
     "profession": "SUPPORT",
     "subProfession": "bard",
     "sp": -1,
-    "main123": "",
     "passport": "11.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_102_texas",
@@ -6327,13 +6103,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": 0,
-    "main123": "",
     "passport": "11.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_106_franka",
@@ -6349,13 +6124,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "3179",
     "passport": "5.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_107_liskam",
@@ -6371,13 +6145,12 @@
     "profession": "TANK",
     "subProfession": "shotprotector",
     "sp": -1,
-    "main123": "4923",
     "passport": "5.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_108_silent",
@@ -6393,13 +6166,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": 0,
-    "main123": "8658",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_115_headbr",
@@ -6415,13 +6187,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "0209",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_127_estell",
@@ -6437,13 +6208,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "",
     "passport": "26.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_128_plosis",
@@ -6459,13 +6229,12 @@
     "profession": "MEDIC",
     "subProfession": "ringhealer",
     "sp": -1,
-    "main123": "2877",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_129_bluep",
@@ -6481,13 +6250,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "31.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_140_whitew",
@@ -6503,13 +6271,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": 0,
-    "main123": "6323",
     "passport": "19.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_143_ghost",
@@ -6525,13 +6292,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": 0,
-    "main123": "",
     "passport": "12.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_144_red",
@@ -6547,13 +6313,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "3165",
     "passport": "43.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_145_prove",
@@ -6569,13 +6334,12 @@
     "profession": "SNIPER",
     "subProfession": "closerange",
     "sp": -1,
-    "main123": "",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_148_nearl",
@@ -6591,13 +6355,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": 0,
-    "main123": "0291",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_155_tiger",
@@ -6613,13 +6376,12 @@
     "profession": "WARRIOR",
     "subProfession": "fighter",
     "sp": -1,
-    "main123": "6321",
     "passport": "18.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_158_milu",
@@ -6635,13 +6397,12 @@
     "profession": "SNIPER",
     "subProfession": "longrange",
     "sp": -1,
-    "main123": "",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_163_hpsts",
@@ -6657,13 +6418,12 @@
     "profession": "TANK",
     "subProfession": "unyield",
     "sp": -1,
-    "main123": "",
     "passport": "22.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_166_skfire",
@@ -6679,13 +6439,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "",
     "passport": "16.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_171_bldsk",
@@ -6701,13 +6460,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "39.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_173_slchan",
@@ -6723,13 +6481,12 @@
     "profession": "SPECIAL",
     "subProfession": "hookmaster",
     "sp": -1,
-    "main123": "1586",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_174_slbell",
@@ -6745,13 +6502,12 @@
     "profession": "SUPPORT",
     "subProfession": "underminer",
     "sp": -1,
-    "main123": "7428",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_187_ccheal",
@@ -6767,13 +6523,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": 0,
-    "main123": "4919",
     "passport": "26.0",
     "type": "activity",
     "source": "credit",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_195_glassb",
@@ -6789,13 +6544,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "5754",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_198_blackd",
@@ -6811,13 +6565,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "",
     "passport": "7.0",
     "type": "activity",
     "source": "credit",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_201_moeshd",
@@ -6833,13 +6586,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "",
     "passport": "11.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_204_platnm",
@@ -6855,13 +6607,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_215_mantic",
@@ -6877,13 +6628,12 @@
     "profession": "SPECIAL",
     "subProfession": "stalker",
     "sp": -1,
-    "main123": "",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_219_meteo",
@@ -6899,13 +6649,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "",
     "passport": "16.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_230_savage",
@@ -6921,13 +6670,12 @@
     "profession": "WARRIOR",
     "subProfession": "centurion",
     "sp": -1,
-    "main123": "1509",
     "passport": "37.0",
     "type": "activity",
     "source": "annual",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": ""
   },
   {
     "id": "char_241_panda",
@@ -6943,13 +6691,12 @@
     "profession": "SPECIAL",
     "subProfession": "pusher",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_242_otter",
@@ -6965,13 +6712,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "1594",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_109_fmout",
@@ -6987,13 +6733,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "5751",
     "passport": "31.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_110_deepcl",
@@ -7009,13 +6754,12 @@
     "profession": "SUPPORT",
     "subProfession": "summoner",
     "sp": -1,
-    "main123": "",
     "passport": "12.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_117_myrrh",
@@ -7031,13 +6775,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "4912",
     "passport": "14.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_118_yuki",
@@ -7053,13 +6796,12 @@
     "profession": "SNIPER",
     "subProfession": "aoesniper",
     "sp": -1,
-    "main123": "5757",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_126_shotst",
@@ -7075,13 +6817,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "8641",
     "passport": "30.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_130_doberm",
@@ -7097,13 +6838,12 @@
     "profession": "WARRIOR",
     "subProfession": "instructor",
     "sp": -1,
-    "main123": "2892",
     "passport": "37.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_141_nights",
@@ -7119,13 +6859,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "9042",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_149_scave",
@@ -7141,13 +6880,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "9040",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_150_snakek",
@@ -7163,13 +6901,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "3167",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_181_flower",
@@ -7185,13 +6922,12 @@
     "profession": "MEDIC",
     "subProfession": "ringhealer",
     "sp": -1,
-    "main123": "9039",
     "passport": "41.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_183_skgoat",
@@ -7207,13 +6943,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "",
     "passport": "13.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_185_frncat",
@@ -7229,13 +6964,12 @@
     "profession": "WARRIOR",
     "subProfession": "artsfghter",
     "sp": -1,
-    "main123": "1590",
     "passport": "39.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_193_frostl",
@@ -7251,13 +6985,12 @@
     "profession": "WARRIOR",
     "subProfession": "lord",
     "sp": -1,
-    "main123": "9033",
     "passport": "38.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_196_sunbr",
@@ -7273,13 +7006,12 @@
     "profession": "TANK",
     "subProfession": "guardian",
     "sp": -1,
-    "main123": "8647",
     "passport": "3.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_199_yak",
@@ -7295,13 +7027,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "7408",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_235_jesica",
@@ -7317,13 +7048,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": 0,
-    "main123": "2880",
     "passport": "31.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_236_rope",
@@ -7339,13 +7069,12 @@
     "profession": "SPECIAL",
     "subProfession": "hookmaster",
     "sp": -1,
-    "main123": "1584",
     "passport": "30.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_237_gravel",
@@ -7361,13 +7090,12 @@
     "profession": "SPECIAL",
     "subProfession": "executor",
     "sp": -1,
-    "main123": "",
     "passport": "17.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_277_sqrrel",
@@ -7383,13 +7111,12 @@
     "profession": "SPECIAL",
     "subProfession": "pusher",
     "sp": -1,
-    "main123": "4934",
     "passport": "24.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_289_gyuki",
@@ -7405,13 +7132,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "",
     "passport": "",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_290_vigna",
@@ -7427,13 +7153,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": -1,
-    "main123": "2876",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_120_hibisc",
@@ -7449,13 +7174,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": 0,
-    "main123": "",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_121_lava",
@@ -7471,13 +7195,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": 0,
-    "main123": "0296",
     "passport": "8.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_122_beagle",
@@ -7493,13 +7216,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "1596",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_123_fang",
@@ -7515,13 +7237,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": 0,
-    "main123": "2894",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_124_kroos",
@@ -7537,13 +7258,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": 0,
-    "main123": "8644",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_192_falco",
@@ -7559,13 +7279,12 @@
     "profession": "PIONEER",
     "subProfession": "charger",
     "sp": -1,
-    "main123": "0215",
     "passport": "1.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_208_melan",
@@ -7581,13 +7300,12 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "5762",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_209_ardign",
@@ -7603,13 +7321,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": -1,
-    "main123": "6325",
     "passport": "29.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": -1,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_210_stward",
@@ -7625,13 +7342,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "2888",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_211_adnach",
@@ -7647,13 +7363,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "5769",
     "passport": "10.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_212_ansel",
@@ -7669,13 +7384,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "",
     "passport": "25.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_240_wyvern",
@@ -7691,13 +7405,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": -1,
-    "main123": "7429",
     "passport": "1.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_278_orchid",
@@ -7713,13 +7426,12 @@
     "profession": "SUPPORT",
     "subProfession": "slower",
     "sp": -1,
-    "main123": "2878",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": 1680768000
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": "2023-04-06 16:00"
   },
   {
     "id": "char_009_12fce",
@@ -7735,13 +7447,12 @@
     "profession": "CASTER",
     "subProfession": "splashcaster",
     "sp": -1,
-    "main123": "2872",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_500_noirc",
@@ -7757,13 +7468,12 @@
     "profession": "TANK",
     "subProfession": "protector",
     "sp": 0,
-    "main123": "6348",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_501_durin",
@@ -7779,13 +7489,12 @@
     "profession": "CASTER",
     "subProfession": "corecaster",
     "sp": -1,
-    "main123": "3169",
     "passport": "34.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_502_nblade",
@@ -7801,13 +7510,12 @@
     "profession": "PIONEER",
     "subProfession": "pioneer",
     "sp": 0,
-    "main123": "4933",
     "passport": "27.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_503_rang",
@@ -7823,13 +7531,12 @@
     "profession": "SNIPER",
     "subProfession": "fastshot",
     "sp": -1,
-    "main123": "3173",
     "passport": "2.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_285_medic2",
@@ -7845,13 +7552,12 @@
     "profession": "MEDIC",
     "subProfession": "physician",
     "sp": -1,
-    "main123": "5774",
     "passport": "7.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   },
   {
     "id": "char_286_cast3",
@@ -7867,12 +7573,11 @@
     "profession": "WARRIOR",
     "subProfession": "fearless",
     "sp": -1,
-    "main123": "",
     "passport": "9.0",
     "type": "",
     "source": "",
-    "onlineTime": 1556676000,
-    "recruitTime": 1556676000,
-    "classicTime": -1
+    "onlineTime": "2019-05-01 10:00",
+    "recruitTime": "2019-05-01 10:00",
+    "classicTime": ""
   }
 ]

@@ -11,7 +11,16 @@ import Unocss from 'unocss/vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/arkober',
+  base: '/arkober/',
+  server: {
+    proxy: {
+      '/mh/': {
+        target: 'https://terra-historicus.hypergryph.com/api/comic/',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/\/mh/, '')
+      }
+    }
+  },
   plugins: [
     vue(),
     vueJsx(),

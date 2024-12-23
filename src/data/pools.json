@@ -1,9 +1,283 @@
 {
-  "SINGLE_57_0_6": {
-    "id": "SINGLE_57_0_6",
+  "NORM_62_0_3": {
+    "fake": true,
+    "id": "NORM_56_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "start": "2025-02-13 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": []
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_433_windft",
+          "char_1036_fang2",
+          "char_494_vendla",
+          "char_421_crow",
+          "char_4140_lasher",
+          "char_488_buildr"
+        ]
+      }
+    ]
+  },
+  "NORM_61_0_1": {
+    "fake": true,
+    "id": "NORM_56_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2025-02-13 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4082_qiubai", "char_4121_zuole"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
+      }
+    ],
+    "color": ["#ca4d55"]
+  },
+  "CLASSIC_60_0_1": {
+    "fake": true,
+    "id": "CLASSIC_57_0_1",
+    "name": "中坚甄选",
+    "type": "classic",
+    "start": "2025-02-06 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["", ""]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau", "char_346_aosta", "char_174_slbell"]
+      }
+    ]
+  },
+  "NORM_60_0_1": {
+    "fake": true,
+    "id": "NORM_56_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2025-01-30 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["", ""]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
+      }
+    ],
+    "color": ["#ca4d55"]
+  },
+  "CLASSIC_59_0_1": {
+    "fake": true,
+    "id": "CLASSIC_57_0_1",
+    "name": "",
+    "type": "classic",
+    "start": "2025-01-23 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", ""]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau", "char_346_aosta", "char_174_slbell"]
+      }
+    ]
+  },
+  "LIMITED_59_0_1": {
+    "id": "LIMITED_47_0_1",
+    "name": "岁池",
+    "type": "spring",
+    "start": "2025-01-22 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["厨子弟", "异格煌"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4122_grabds"]
+      }
+    ],
+    "color": ["#dcde4f", "#446cdb"]
+  },
+  "NORM_59_0_1": {
+    "fake": true,
+    "id": "NORM_56_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2025-01-16 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4080_lin", ""]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
+      }
+    ],
+    "color": ["#ca4d55"]
+  },
+  "CLASSIC_58_0_1": {
+    "fake": true,
+    "id": "CLASSIC_57_0_1",
+    "name": "",
+    "type": "classic",
+    "start": "2025-01-09 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["", ""]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau", "char_346_aosta", "char_174_slbell"]
+      }
+    ]
+  },
+  "NORM_58_0_1": {
+    "fake": true,
+    "id": "NORM_56_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2025-01-02 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["号角", "妮芙"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
+      }
+    ],
+    "color": ["#ca4d55"]
+  },
+  "ATTAIN_57_0_5": {
+    "fake": true,
+    "id": "ATTAIN_45_0_5",
+    "name": "跨年欢庆·展望",
+    "type": "attain",
+    "start": "2025-01-01 00:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_362_saga",
+          "char_472_pasngr",
+          "char_003_kalts",
+          "char_426_billro",
+          "char_485_pallas",
+          "char_437_mizuki",
+          "char_479_sleach",
+          "char_430_fartth",
+          "char_420_flamtl",
+          "char_206_gnosis",
+          "char_322_lmlee",
+          "char_377_gdglow",
+          "char_300_phenxi",
+          "char_4039_horn",
+          "char_4009_irene",
+          "char_4046_ebnhlz",
+          "char_4055_bgsnow",
+          "char_4048_doroth",
+          "char_4064_mlynar",
+          "char_4072_ironmn",
+          "char_4065_judge",
+          "char_1020_reed2"
+        ]
+      }
+    ],
+    "color": ["#ea210a"]
+  },
+  "CLASSIC_ATTAIN_57_0_2": {
+    "id": "CLASSIC_ATTAIN_45_0_2",
+    "name": "跨年欢庆·中坚",
+    "type": "cattain",
+    "start": "2024-12-26 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": [
+          "char_103_angel",
+          "char_112_siege",
+          "char_134_ifrit",
+          "char_180_amgoat",
+          "char_291_aglina",
+          "char_147_shining",
+          "char_179_cgbird",
+          "char_136_hsguma",
+          "char_202_demkni",
+          "char_172_svrash",
+          "char_263_skadi",
+          "char_010_chen",
+          "char_340_shwaz",
+          "char_188_helage",
+          "char_248_mgllan",
+          "char_213_mostma",
+          "char_017_huang",
+          "char_225_haak",
+          "char_2013_cerber",
+          "char_222_bpipe",
+          "char_250_phatom",
+          "char_400_weedy",
+          "char_197_poca",
+          "char_358_lisa",
+          "char_293_thorns",
+          "char_416_zumama",
+          "char_350_surtr",
+          "char_423_blemsh",
+          "char_311_mudrok",
+          "char_264_f12yin",
+          "char_332_archet",
+          "char_362_saga",
+          "char_472_pasngr"
+        ]
+      }
+    ]
+  },
+  "NORM_57_0_2": {
+    "id": "NORM_57_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2024-12-19 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_300_phenxi", "char_1034_jesca2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4083_chimes", "char_4079_haini", "char_4014_lunacu"]
+      }
+    ],
+    "color": ["#f9c001"]
+  },
+  "SINGLE_57_0_3": {
+    "id": "SINGLE_57_0_3",
     "name": "游邦者",
     "type": "single",
-    "open": 1734595200,
+    "start": "2024-12-19 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -14,30 +288,46 @@
         "chars": ["char_194_leto", "char_343_tknogi"]
       }
     ],
-    "color": ["#e7952f"]
+    "color": ["#ba6f12"]
   },
-  "SINGLE_57_0_5": {
-    "id": "SINGLE_57_0_5",
-    "name": "不知道",
-    "type": "single",
-    "open": 1733385600,
+  "CLASSIC_57_0_1": {
+    "id": "CLASSIC_57_0_1",
+    "name": "",
+    "type": "classic",
+    "start": "2024-12-12 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["异格棘刺"]
+        "chars": ["char_225_haak", "char_188_helage"]
       },
       {
         "rarity": 5,
-        "chars": ["char_493_firwhl", "char_431_ashlok", "char_497_ctable"]
+        "chars": ["char_226_hmau", "char_346_aosta", "char_174_slbell"]
+      }
+    ]
+  },
+  "SINGLE_57_0_1": {
+    "id": "SINGLE_57_0_1",
+    "name": "证实，完成，指引",
+    "type": "single",
+    "start": "2024-12-05 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1039_thorn2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_4164_tecno", "char_4105_almond"]
       }
     ],
-    "color": ["#ffa905"]
+    "color": ["#1b26d6"]
   },
   "NORM_56_0_5": {
     "id": "NORM_56_0_5",
     "name": "",
     "type": "standard",
-    "open": 1733342400,
+    "start": "2024-12-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -48,13 +338,13 @@
         "chars": ["char_492_quercu", "char_4071_peper", "char_478_kirara"]
       }
     ],
-    "color": ["#cb4e56"]
+    "color": ["#ca4d55"]
   },
   "CLASSIC_56_0_2": {
     "id": "CLASSIC_56_0_2",
     "name": "",
     "type": "classic",
-    "open": 1732737600,
+    "start": "2024-11-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -70,7 +360,7 @@
     "id": "NORM_56_0_4",
     "name": "",
     "type": "standard",
-    "open": 1732132800,
+    "start": "2024-11-21 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -87,7 +377,7 @@
     "id": "NORM_56_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1731657600,
+    "start": "2024-11-15 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -111,7 +401,7 @@
     "id": "FESCLASSIC_56_0_1",
     "name": "中坚甄选",
     "type": "classic",
-    "open": 1731528000,
+    "start": "2024-11-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -165,7 +455,7 @@
     "id": "NORM_56_0_2",
     "name": "",
     "type": "standard",
-    "open": 1730923200,
+    "start": "2024-11-07 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -182,7 +472,7 @@
     "id": "LIMITED_56_0_1",
     "name": "恶人寥寥",
     "type": "fes",
-    "open": 1730448000,
+    "start": "2024-11-01 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -199,7 +489,7 @@
     "id": "CLASSIC_55_0_2",
     "name": "",
     "type": "classic",
-    "open": 1730318400,
+    "start": "2024-10-31 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -215,7 +505,7 @@
     "id": "NORM_55_0_3",
     "name": "",
     "type": "standard",
-    "open": 1729713600,
+    "start": "2024-10-24 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -232,7 +522,7 @@
     "id": "CLASSIC_55_0_1",
     "name": "",
     "type": "classic",
-    "open": 1729108800,
+    "start": "2024-10-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -248,7 +538,7 @@
     "id": "NORM_55_0_2",
     "name": "",
     "type": "standard",
-    "open": 1728504000,
+    "start": "2024-10-10 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -265,7 +555,7 @@
     "id": "SINGLE_55_0_1",
     "name": "未致蒙尘",
     "type": "single",
-    "open": 1728446400,
+    "start": "2024-10-09 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -282,7 +572,7 @@
     "id": "CLASSIC_54_0_3",
     "name": "",
     "type": "classic",
-    "open": 1727899200,
+    "start": "2024-10-03 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -298,7 +588,8 @@
     "id": "SPECIAL_54_0_5",
     "name": "定向甄选",
     "type": "special",
-    "open": 1727424000,
+    "sub": true,
+    "start": "2024-09-27 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -329,7 +620,7 @@
     "id": "NORM_54_0_4",
     "name": "",
     "type": "standard",
-    "open": 1727294400,
+    "start": "2024-09-26 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -346,7 +637,7 @@
     "id": "SINGLE_54_0_3",
     "name": "鸣铳",
     "type": "rerun",
-    "open": 1726732800,
+    "start": "2024-09-19 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -359,7 +650,7 @@
     "id": "CLASSIC_54_0_2",
     "name": "",
     "type": "classic",
-    "open": 1726689600,
+    "start": "2024-09-19 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -375,7 +666,7 @@
     "id": "NORM_54_0_2",
     "name": "",
     "type": "standard",
-    "open": 1726084800,
+    "start": "2024-09-12 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -387,7 +678,7 @@
     "id": "CLASSIC_54_0_1",
     "name": "",
     "type": "classic",
-    "open": 1725480000,
+    "start": "2024-09-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -403,7 +694,7 @@
     "id": "LINKAGE_54_0_1",
     "name": "泰拉饭，呜呼，泰拉饭",
     "type": "linkage",
-    "open": 1725249600,
+    "start": "2024-09-02 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -420,7 +711,7 @@
     "id": "NORM_53_0_3",
     "name": "",
     "type": "standard",
-    "open": 1724875200,
+    "start": "2024-08-29 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -432,7 +723,7 @@
     "id": "CLASSIC_53_0_2",
     "name": "",
     "type": "classic",
-    "open": 1724270400,
+    "start": "2024-08-22 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -448,7 +739,7 @@
     "id": "NORM_53_0_2",
     "name": "",
     "type": "standard",
-    "open": 1723665600,
+    "start": "2024-08-15 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -460,7 +751,7 @@
     "id": "CLASSIC_53_0_1",
     "name": "",
     "type": "classic",
-    "open": 1723060800,
+    "start": "2024-08-08 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -476,7 +767,7 @@
     "id": "LIMITED_53_0_1",
     "name": "在流沙上刻印",
     "type": "summer",
-    "open": 1722484800,
+    "start": "2024-08-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -487,13 +778,13 @@
         "chars": ["char_4140_lasher"]
       }
     ],
-    "color": ["#ffd140", "#d43c2b"]
+    "color": ["#ffd140", "#d43c2b", "#ce2625"]
   },
   "NORM_52_0_4": {
     "id": "NORM_52_0_4",
     "name": "",
     "type": "standard",
-    "open": 1722456000,
+    "start": "2024-08-01 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -503,9 +794,9 @@
   },
   "FESCLASSIC_52_0_2": {
     "id": "FESCLASSIC_52_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1721851200,
+    "start": "2024-07-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -559,7 +850,7 @@
     "id": "NORM_52_0_3",
     "name": "",
     "type": "standard",
-    "open": 1721246400,
+    "start": "2024-07-18 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -571,7 +862,8 @@
     "id": "NORM_52_0_2",
     "name": "联合行动",
     "type": "joint",
-    "open": 1721116800,
+    "sub": true,
+    "start": "2024-07-16 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -584,7 +876,7 @@
     "id": "CLASSIC_52_0_1",
     "name": "",
     "type": "classic",
-    "open": 1720641600,
+    "start": "2024-07-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -600,7 +892,7 @@
     "id": "SINGLE_52_0_1",
     "name": "心与镜的印痕",
     "type": "single",
-    "open": 1720497600,
+    "start": "2024-07-09 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -613,7 +905,7 @@
     "id": "NORM_51_0_5",
     "name": "",
     "type": "standard",
-    "open": 1720036800,
+    "start": "2024-07-04 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -630,7 +922,7 @@
     "id": "CLASSIC_51_0_2",
     "name": "",
     "type": "classic",
-    "open": 1719432000,
+    "start": "2024-06-27 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -646,11 +938,15 @@
     "id": "SINGLE_51_0_4",
     "name": "执裁者",
     "type": "rerun",
-    "open": 1719302400,
+    "start": "2024-06-25 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_1032_excu2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["空构", "晓歌"]
       }
     ],
     "color": ["#c02d3d"]
@@ -659,7 +955,7 @@
     "id": "NORM_51_0_3",
     "name": "",
     "type": "standard",
-    "open": 1718827200,
+    "start": "2024-06-20 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -676,7 +972,7 @@
     "id": "CLASSIC_51_0_1",
     "name": "",
     "type": "classic",
-    "open": 1718222400,
+    "start": "2024-06-13 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -692,7 +988,7 @@
     "id": "NORM_51_0_2",
     "name": "",
     "type": "standard",
-    "open": 1717617600,
+    "start": "2024-06-06 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -709,7 +1005,7 @@
     "id": "SINGLE_51_0_1",
     "name": "沉向深渊的锚",
     "type": "single",
-    "open": 1717560000,
+    "start": "2024-06-05 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -722,7 +1018,7 @@
     "id": "CLASSIC_50_0_3",
     "name": "",
     "type": "classic",
-    "open": 1717012800,
+    "start": "2024-05-30 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -738,7 +1034,7 @@
     "id": "NORM_50_0_4",
     "name": "",
     "type": "standard",
-    "open": 1716408000,
+    "start": "2024-05-23 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -748,9 +1044,9 @@
   },
   "FESCLASSIC_50_0_2": {
     "id": "FESCLASSIC_50_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1715803200,
+    "start": "2024-05-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -804,7 +1100,7 @@
     "id": "NORM_50_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1715760000,
+    "start": "2024-05-15 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -817,7 +1113,7 @@
     "id": "NORM_50_0_2",
     "name": "",
     "type": "standard",
-    "open": 1715198400,
+    "start": "2024-05-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -829,7 +1125,7 @@
     "id": "CLASSIC_50_0_1",
     "name": "",
     "type": "classic",
-    "open": 1714593600,
+    "start": "2024-05-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -845,7 +1141,7 @@
     "id": "LIMITED_50_0_1",
     "name": "何以为我",
     "type": "fes",
-    "open": 1714536000,
+    "start": "2024-05-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -856,13 +1152,13 @@
         "chars": ["char_1036_fang2"]
       }
     ],
-    "color": ["#e71717", "#3b51a2"]
+    "color": ["#e71717", "#3b51a2", "#eb3535", "#b3191b"]
   },
   "NORM_49_0_3": {
     "id": "NORM_49_0_3",
     "name": "",
     "type": "standard",
-    "open": 1713988800,
+    "start": "2024-04-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -874,7 +1170,7 @@
     "id": "CLASSIC_49_0_1",
     "name": "",
     "type": "classic",
-    "open": 1713384000,
+    "start": "2024-04-18 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -889,8 +1185,9 @@
   "NORM_49_0_2": {
     "id": "NORM_49_0_2",
     "name": "前路回响",
-    "type": "special",
-    "open": 1713297600,
+    "type": "mainline",
+    "sub": true,
+    "start": "2024-04-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -903,7 +1200,7 @@
     "id": "SINGLE_49_0_1",
     "name": "如死亦终",
     "type": "single",
-    "open": 1712808000,
+    "start": "2024-04-11 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -920,7 +1217,7 @@
     "id": "NORM_48_0_6",
     "name": "",
     "type": "standard",
-    "open": 1712779200,
+    "start": "2024-04-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -932,7 +1229,7 @@
     "id": "CLASSIC_48_0_2",
     "name": "",
     "type": "classic",
-    "open": 1712174400,
+    "start": "2024-04-04 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -948,7 +1245,8 @@
     "id": "NORM_48_0_5",
     "name": "联合行动",
     "type": "joint",
-    "open": 1711612800,
+    "sub": true,
+    "start": "2024-03-28 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -961,7 +1259,7 @@
     "id": "NORM_48_0_4",
     "name": "",
     "type": "standard",
-    "open": 1711569600,
+    "start": "2024-03-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -973,7 +1271,7 @@
     "id": "LINKAGE_48_0_3",
     "name": "进攻·防守·战术交汇",
     "type": "linkage",
-    "open": 1711008000,
+    "start": "2024-03-21 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -984,13 +1282,13 @@
         "chars": ["char_457_blitz", "char_458_rfrost"]
       }
     ],
-    "color": ["#f5c70f"]
+    "color": ["#f3c817"]
   },
   "CLASSIC_48_0_1": {
     "id": "CLASSIC_48_0_1",
     "name": "",
     "type": "classic",
-    "open": 1710964800,
+    "start": "2024-03-21 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1006,7 +1304,7 @@
     "id": "NORM_48_0_2",
     "name": "",
     "type": "standard",
-    "open": 1710360000,
+    "start": "2024-03-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1018,7 +1316,7 @@
     "id": "LINKAGE_48_0_1",
     "name": "突破，援助，任务循环",
     "type": "linkage",
-    "open": 1709784000,
+    "start": "2024-03-07 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1035,7 +1333,7 @@
     "id": "CLASSIC_47_0_3",
     "name": "",
     "type": "classic",
-    "open": 1709755200,
+    "start": "2024-03-07 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1051,7 +1349,7 @@
     "id": "NORM_47_0_4",
     "name": "",
     "type": "standard",
-    "open": 1709150400,
+    "start": "2024-02-29 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1063,7 +1361,7 @@
     "id": "NORM_47_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1708588800,
+    "start": "2024-02-22 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1074,9 +1372,9 @@
   },
   "FESCLASSIC_47_0_2": {
     "id": "FESCLASSIC_47_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1708545600,
+    "start": "2024-02-22 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1130,7 +1428,7 @@
     "id": "NORM_47_0_2",
     "name": "",
     "type": "standard",
-    "open": 1707940800,
+    "start": "2024-02-15 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1142,7 +1440,7 @@
     "id": "CLASSIC_47_0_1",
     "name": "",
     "type": "classic",
-    "open": 1707336000,
+    "start": "2024-02-08 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1158,7 +1456,7 @@
     "id": "LIMITED_47_0_1",
     "name": "千秋一粟",
     "type": "spring",
-    "open": 1706760000,
+    "start": "2024-02-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1169,13 +1467,13 @@
         "chars": ["char_4122_grabds"]
       }
     ],
-    "color": ["#dcde4f", "#446cdb"]
+    "color": ["#dcde4f", "#446cdb", "#9cad30", "#b1c626"]
   },
   "NORM_45_0_9": {
     "id": "NORM_45_0_9",
     "name": "",
     "type": "standard",
-    "open": 1706731200,
+    "start": "2024-02-01 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1187,7 +1485,7 @@
     "id": "CLASSIC_45_0_4",
     "name": "",
     "type": "classic",
-    "open": 1706126400,
+    "start": "2024-01-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1203,7 +1501,7 @@
     "id": "NORM_45_0_8",
     "name": "",
     "type": "standard",
-    "open": 1705521600,
+    "start": "2024-01-18 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1215,7 +1513,7 @@
     "id": "CLASSIC_45_0_3",
     "name": "",
     "type": "classic",
-    "open": 1704916800,
+    "start": "2024-01-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1231,7 +1529,7 @@
     "id": "SINGLE_45_0_7",
     "name": "一线微明",
     "type": "single",
-    "open": 1704787200,
+    "start": "2024-01-09 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1244,7 +1542,7 @@
     "id": "NORM_45_0_6",
     "name": "",
     "type": "standard",
-    "open": 1704312000,
+    "start": "2024-01-04 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1255,8 +1553,8 @@
   "ATTAIN_45_0_5": {
     "id": "ATTAIN_45_0_5",
     "name": "跨年欢庆·展望",
-    "type": "limited",
-    "open": 1704038400,
+    "type": "attain",
+    "start": "2024-01-01 00:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1301,8 +1599,8 @@
   "CLASSIC_ATTAIN_45_0_2": {
     "id": "CLASSIC_ATTAIN_45_0_2",
     "name": "跨年欢庆·中坚",
-    "type": "classic",
-    "open": 1703750400,
+    "type": "cattain",
+    "start": "2023-12-28 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1336,7 +1634,7 @@
     "id": "SINGLE_45_0_4",
     "name": "枯焰生花",
     "type": "rerun",
-    "open": 1703232000,
+    "start": "2023-12-22 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1347,13 +1645,13 @@
         "chars": ["char_297_hamoni", "char_1027_greyy2"]
       }
     ],
-    "color": ["#be4d15"]
+    "color": ["#c44a1b"]
   },
   "NORM_45_0_3": {
     "id": "NORM_45_0_3",
     "name": "",
     "type": "standard",
-    "open": 1703102400,
+    "start": "2023-12-21 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1365,7 +1663,7 @@
     "id": "CLASSIC_45_0_1",
     "name": "",
     "type": "classic",
-    "open": 1702497600,
+    "start": "2023-12-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1381,7 +1679,7 @@
     "id": "NORM_45_0_2",
     "name": "",
     "type": "standard",
-    "open": 1701892800,
+    "start": "2023-12-07 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1393,7 +1691,7 @@
     "id": "SINGLE_45_0_1",
     "name": "游邦者",
     "type": "single",
-    "open": 1701748800,
+    "start": "2023-12-05 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1404,13 +1702,13 @@
         "chars": ["char_194_leto", "char_343_tknogi"]
       }
     ],
-    "color": ["#e7952f"]
+    "color": ["#ba6f12"]
   },
   "CLASSIC_44_0_3": {
     "id": "CLASSIC_44_0_3",
     "name": "",
     "type": "classic",
-    "open": 1701288000,
+    "start": "2023-11-30 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1426,7 +1724,7 @@
     "id": "NORM_44_0_4",
     "name": "",
     "type": "standard",
-    "open": 1700683200,
+    "start": "2023-11-23 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1438,19 +1736,20 @@
     "id": "NORM_44_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1700553600,
+    "start": "2023-11-21 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_358_lisa", "char_350_surtr", "char_437_mizuki", "char_4055_bgsnow"]
       }
-    ]
+    ],
+    "color": ["#3778dc"]
   },
   "FESCLASSIC_44_0_2": {
     "id": "FESCLASSIC_44_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1700078400,
+    "start": "2023-11-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1504,7 +1803,7 @@
     "id": "NORM_44_0_2",
     "name": "",
     "type": "standard",
-    "open": 1699473600,
+    "start": "2023-11-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1516,7 +1815,7 @@
     "id": "CLASSIC_44_0_1",
     "name": "",
     "type": "classic",
-    "open": 1698868800,
+    "start": "2023-11-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1532,7 +1831,7 @@
     "id": "LIMITED_44_0_1",
     "name": "宿愿",
     "type": "fes",
-    "open": 1698811200,
+    "start": "2023-11-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1542,13 +1841,14 @@
         "rarity": 5,
         "chars": ["char_4109_baslin"]
       }
-    ]
+    ],
+    "color": ["#f3e3cf", "#7b6157"]
   },
   "NORM_43_0_3": {
     "id": "NORM_43_0_3",
     "name": "",
     "type": "standard",
-    "open": 1698264000,
+    "start": "2023-10-26 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1560,7 +1860,7 @@
     "id": "CLASSIC_43_0_1",
     "name": "",
     "type": "classic",
-    "open": 1697659200,
+    "start": "2023-10-19 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1576,7 +1876,7 @@
     "id": "NORM_43_0_2",
     "name": "",
     "type": "standard",
-    "open": 1697054400,
+    "start": "2023-10-12 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1588,23 +1888,28 @@
     "id": "SINGLE_43_0_1",
     "name": "烁尘烟中",
     "type": "single",
-    "open": 1696737600,
+    "start": "2023-10-08 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4088_hodrer"]
       },
       {
+        "rarity": 5,
+        "chars": ["刺玫", "夏栎"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_4107_vrdant"]
       }
-    ]
+    ],
+    "color": ["#ae1809"]
   },
   "CLASSIC_42_0_3": {
     "id": "CLASSIC_42_0_3",
     "name": "",
     "type": "classic",
-    "open": 1696449600,
+    "start": "2023-10-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1620,7 +1925,7 @@
     "id": "NORM_42_0_4",
     "name": "",
     "type": "standard",
-    "open": 1695844800,
+    "start": "2023-09-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1630,21 +1935,22 @@
   },
   "NORM_42_0_3": {
     "id": "NORM_42_0_3",
-    "name": "",
-    "type": "standard",
-    "open": 1695499200,
+    "name": "前路回响",
+    "type": "mainline",
+    "start": "2023-09-24 04:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4039_horn", "char_4072_ironmn", "char_4087_ines"]
       }
-    ]
+    ],
+    "color": ["#e6ca80"]
   },
   "CLASSIC_42_0_2": {
     "id": "CLASSIC_42_0_2",
     "name": "",
     "type": "classic",
-    "open": 1695240000,
+    "start": "2023-09-21 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1660,7 +1966,7 @@
     "id": "NORM_42_0_2",
     "name": "",
     "type": "standard",
-    "open": 1694635200,
+    "start": "2023-09-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1672,7 +1978,7 @@
     "id": "CLASSIC_42_0_1",
     "name": "",
     "type": "classic",
-    "open": 1694030400,
+    "start": "2023-09-07 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1688,7 +1994,7 @@
     "id": "SINGLE_42_0_1",
     "name": "鸣铳",
     "type": "single",
-    "open": 1693886400,
+    "start": "2023-09-05 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1701,7 +2007,7 @@
     "id": "NORM_41_0_5",
     "name": "",
     "type": "standard",
-    "open": 1693425600,
+    "start": "2023-08-31 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1711,9 +2017,9 @@
   },
   "FESCLASSIC_41_0_2": {
     "id": "FESCLASSIC_41_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1692820800,
+    "start": "2023-08-24 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1767,7 +2073,7 @@
     "id": "NORM_41_0_4",
     "name": "联合行动",
     "type": "joint",
-    "open": 1692345600,
+    "start": "2023-08-18 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1779,7 +2085,7 @@
     "id": "NORM_41_0_3",
     "name": "",
     "type": "standard",
-    "open": 1692216000,
+    "start": "2023-08-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1791,7 +2097,7 @@
     "id": "CLASSIC_41_0_1",
     "name": "",
     "type": "classic",
-    "open": 1691611200,
+    "start": "2023-08-10 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1807,7 +2113,7 @@
     "id": "NORM_41_0_2",
     "name": "",
     "type": "standard",
-    "open": 1691006400,
+    "start": "2023-08-03 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1819,7 +2125,7 @@
     "id": "LIMITED_41_0_1",
     "name": "云间清醒梦",
     "type": "summer",
-    "open": 1690862400,
+    "start": "2023-08-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1829,13 +2135,14 @@
         "rarity": 5,
         "chars": ["char_488_buildr"]
       }
-    ]
+    ],
+    "color": ["#ff76ad", "#ab70df"]
   },
   "CLASSIC_40_0_2": {
     "id": "CLASSIC_40_0_2",
     "name": "",
     "type": "classic",
-    "open": 1690401600,
+    "start": "2023-07-27 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1851,7 +2158,7 @@
     "id": "NORM_40_0_3",
     "name": "",
     "type": "standard",
-    "open": 1689796800,
+    "start": "2023-07-20 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1863,19 +2170,25 @@
     "id": "SINGLE_40_0_2",
     "name": "沙洲引路人",
     "type": "rerun",
-    "open": 1689667200,
+    "sub": true,
+    "start": "2023-07-18 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4048_doroth"]
+      },
+      {
+        "rarity": 6,
+        "chars": ["承曦格雷伊", "白面鸮"]
       }
-    ]
+    ],
+    "color": ["#e9bf4f"]
   },
   "CLASSIC_40_0_1": {
     "id": "CLASSIC_40_0_1",
     "name": "",
     "type": "classic",
-    "open": 1689192000,
+    "start": "2023-07-13 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1891,19 +2204,24 @@
     "id": "SINGLE_40_0_1",
     "name": "射落灾异的风暴",
     "type": "single",
-    "open": 1688616000,
+    "start": "2023-07-06 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_2012_typhon"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["寒檀", "蜜蜡"]
       }
-    ]
+    ],
+    "color": ["#5f3b9b"]
   },
   "NORM_39_0_4": {
     "id": "NORM_39_0_4",
     "name": "",
     "type": "standard",
-    "open": 1688587200,
+    "start": "2023-07-06 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1915,7 +2233,7 @@
     "id": "CLASSIC_39_0_2",
     "name": "",
     "type": "classic",
-    "open": 1687982400,
+    "start": "2023-06-29 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1931,7 +2249,7 @@
     "id": "NORM_39_0_3",
     "name": "",
     "type": "standard",
-    "open": 1687377600,
+    "start": "2023-06-22 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1943,19 +2261,25 @@
     "id": "SINGLE_39_0_2",
     "name": "不协和音程",
     "type": "rerun",
-    "open": 1687248000,
+    "sub": true,
+    "start": "2023-06-20 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4046_ebnhlz"]
+      },
+      {
+        "rarity": 6,
+        "chars": ["濯尘芙蓉", "蓝毒"]
       }
-    ]
+    ],
+    "color": ["#a47e5a"]
   },
   "CLASSIC_39_0_1": {
     "id": "CLASSIC_39_0_1",
     "name": "",
     "type": "classic",
-    "open": 1686772800,
+    "start": "2023-06-15 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1971,19 +2295,24 @@
     "id": "SINGLE_39_0_1",
     "name": "执裁者",
     "type": "single",
-    "open": 1686196800,
+    "start": "2023-06-08 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_1032_excu2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["空构", "晓歌"]
       }
-    ]
+    ],
+    "color": ["#c02d3d"]
   },
   "NORM_38_0_5": {
     "id": "NORM_38_0_5",
     "name": "",
     "type": "standard",
-    "open": 1686168000,
+    "start": "2023-06-08 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -1995,7 +2324,7 @@
     "id": "CLASSIC_38_0_3",
     "name": "",
     "type": "classic",
-    "open": 1685563200,
+    "start": "2023-06-01 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2011,7 +2340,7 @@
     "id": "NORM_38_0_4",
     "name": "",
     "type": "standard",
-    "open": 1684958400,
+    "start": "2023-05-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2023,19 +2352,20 @@
     "id": "NORM_38_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1684742400,
+    "start": "2023-05-22 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_362_saga", "char_264_f12yin", "char_311_mudrok", "char_377_gdglow"]
       }
-    ]
+    ],
+    "color": ["#ff6221"]
   },
   "FESCLASSIC_38_0_2": {
     "id": "FESCLASSIC_38_0_2",
-    "name": "",
+    "name": "中坚甄选",
     "type": "classic",
-    "open": 1684353600,
+    "start": "2023-05-18 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2089,7 +2419,7 @@
     "id": "NORM_38_0_2",
     "name": "",
     "type": "standard",
-    "open": 1683748800,
+    "start": "2023-05-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2101,7 +2431,7 @@
     "id": "CLASSIC_38_0_1",
     "name": "",
     "type": "classic",
-    "open": 1683144000,
+    "start": "2023-05-04 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2117,7 +2447,7 @@
     "id": "LIMITED_38_0_1",
     "name": "真理孑然",
     "type": "fes",
-    "open": 1682913600,
+    "start": "2023-05-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2127,13 +2457,14 @@
         "rarity": 5,
         "chars": ["char_4006_melnte"]
       }
-    ]
+    ],
+    "color": ["#cfd340", "#03b7b6"]
   },
   "NORM_37_0_3": {
     "id": "NORM_37_0_3",
     "name": "",
     "type": "standard",
-    "open": 1682539200,
+    "start": "2023-04-27 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2145,7 +2476,7 @@
     "id": "CLASSIC_37_0_2",
     "name": "",
     "type": "classic",
-    "open": 1681934400,
+    "start": "2023-04-20 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2161,7 +2492,7 @@
     "id": "NORM_37_0_2",
     "name": "",
     "type": "standard",
-    "open": 1681329600,
+    "start": "2023-04-13 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2173,23 +2504,28 @@
     "id": "SINGLE_37_0_1",
     "name": "犹在影中",
     "type": "single",
-    "open": 1680753600,
+    "start": "2023-04-06 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4087_ines"]
       },
       {
+        "rarity": 5,
+        "chars": ["洋灰", "掠风"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_491_humus"]
       }
-    ]
+    ],
+    "color": ["#f21800"]
   },
   "CLASSIC_37_0_1": {
     "id": "CLASSIC_37_0_1",
     "name": "",
     "type": "classic",
-    "open": 1680753600,
+    "start": "2023-04-06 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2205,7 +2541,7 @@
     "id": "NORM_36_0_5",
     "name": "",
     "type": "standard",
-    "open": 1680120000,
+    "start": "2023-03-30 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2216,32 +2552,35 @@
   "NORM_36_0_4": {
     "id": "NORM_36_0_4",
     "name": "前路回响",
-    "type": "special",
-    "open": 1679515200,
+    "type": "mainline",
+    "start": "2023-03-23 04:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_479_sleach", "char_4039_horn", "char_4072_ironmn"]
       }
-    ]
+    ],
+    "color": ["#eacb7b"]
   },
   "NORM_36_0_3": {
     "id": "NORM_36_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1679385600,
+    "sub": true,
+    "start": "2023-03-21 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_322_lmlee", "char_293_thorns", "char_4009_irene", "char_4048_doroth"]
       }
-    ]
+    ],
+    "color": ["#ffbe00"]
   },
   "NORM_36_0_2": {
     "id": "NORM_36_0_2",
     "name": "",
     "type": "standard",
-    "open": 1678910400,
+    "start": "2023-03-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2253,7 +2592,7 @@
     "id": "LINKAGE_36_0_1",
     "name": "砺火成锋",
     "type": "linkage",
-    "open": 1678161600,
+    "start": "2023-03-07 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2263,13 +2602,14 @@
         "rarity": 5,
         "chars": ["char_1030_noirc2"]
       }
-    ]
+    ],
+    "color": ["#e74d38"]
   },
   "NORM_35_0_7": {
     "id": "NORM_35_0_7",
     "name": "",
     "type": "standard",
-    "open": 1677700800,
+    "start": "2023-03-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2281,19 +2621,25 @@
     "id": "NORM_35_0_6",
     "name": "炽焰无霾",
     "type": "rerun",
-    "open": 1676966400,
+    "sub": true,
+    "start": "2023-02-21 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_300_phenxi"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["风丸", "char_279_excu"]
       }
-    ]
+    ],
+    "color": ["#f37600"]
   },
   "NORM_35_0_5": {
     "id": "NORM_35_0_5",
     "name": "",
     "type": "standard",
-    "open": 1676491200,
+    "start": "2023-02-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2305,19 +2651,24 @@
     "id": "NORM_35_0_4",
     "name": "春江逢雪",
     "type": "single",
-    "open": 1676361600,
+    "start": "2023-02-14 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4082_qiubai"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["铎铃", "吽"]
       }
-    ]
+    ],
+    "color": ["#8f212e"]
   },
   "NORM_35_0_3": {
     "id": "NORM_35_0_3",
     "name": "",
     "type": "standard",
-    "open": 1675281600,
+    "start": "2023-02-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2329,7 +2680,7 @@
     "id": "NORM_35_0_2",
     "name": "",
     "type": "standard",
-    "open": 1674072000,
+    "start": "2023-01-19 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2341,7 +2692,7 @@
     "id": "LIMITED_35_0_1",
     "name": "万象伶仃",
     "type": "spring",
-    "open": 1673928000,
+    "start": "2023-01-17 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2351,13 +2702,14 @@
         "rarity": 5,
         "chars": ["char_493_firwhl"]
       }
-    ]
+    ],
+    "color": ["#fe7037"]
   },
   "NORM_34_0_4": {
     "id": "NORM_34_0_4",
     "name": "",
     "type": "standard",
-    "open": 1672862400,
+    "start": "2023-01-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2368,8 +2720,8 @@
   "ATTAIN_34_0_3": {
     "id": "ATTAIN_34_0_3",
     "name": "跨年欢庆·相逢",
-    "type": "limited",
-    "open": 1672502400,
+    "type": "attain",
+    "start": "2023-01-01 00:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2417,13 +2769,14 @@
           "char_206_gnosis"
         ]
       }
-    ]
+    ],
+    "color": ["#ea2208"]
   },
   "NORM_34_0_2": {
     "id": "NORM_34_0_2",
     "name": "",
     "type": "standard",
-    "open": 1671652800,
+    "start": "2022-12-22 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2435,19 +2788,24 @@
     "id": "NORM_34_0_1",
     "name": "枯焰生花",
     "type": "single",
-    "open": 1671076800,
+    "start": "2022-12-15 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_1020_reed2"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_297_hamoni", "char_1027_greyy2"]
       }
-    ]
+    ],
+    "color": ["#c44a1b"]
   },
   "NORM_33_0_6": {
     "id": "NORM_33_0_6",
     "name": "",
     "type": "standard",
-    "open": 1670443200,
+    "start": "2022-12-08 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2459,19 +2817,24 @@
     "id": "NORM_33_0_5",
     "name": "雪融之诺",
     "type": "rerun",
-    "open": 1669881600,
+    "start": "2022-12-01 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_206_gnosis"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["极光", "初雪"]
       }
-    ]
+    ],
+    "color": ["#4aa1d7"]
   },
   "NORM_33_0_4": {
     "id": "NORM_33_0_4",
     "name": "",
     "type": "standard",
-    "open": 1669233600,
+    "start": "2022-11-24 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2483,19 +2846,20 @@
     "id": "NORM_33_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1668499200,
+    "start": "2022-11-15 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_416_zumama", "char_430_fartth", "char_358_lisa", "char_377_gdglow"]
       }
-    ]
+    ],
+    "color": ["#9d98f6"]
   },
   "NORM_33_0_2": {
     "id": "NORM_33_0_2",
     "name": "",
     "type": "standard",
-    "open": 1668024000,
+    "start": "2022-11-10 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2507,7 +2871,7 @@
     "id": "LIMITED_33_0_1",
     "name": "斩荆辟路",
     "type": "fes",
-    "open": 1667275200,
+    "start": "2022-11-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2517,13 +2881,14 @@
         "rarity": 5,
         "chars": ["char_4014_lunacu"]
       }
-    ]
+    ],
+    "color": ["#3751f1", "#c7a55e", "#b09357"]
   },
   "NORM_32_0_5": {
     "id": "NORM_32_0_5",
     "name": "",
     "type": "standard",
-    "open": 1666814400,
+    "start": "2022-10-27 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2535,7 +2900,7 @@
     "id": "NORM_32_0_4",
     "name": "",
     "type": "standard",
-    "open": 1665604800,
+    "start": "2022-10-13 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2547,23 +2912,28 @@
     "id": "NORM_32_0_3",
     "name": "轴承与火星",
     "type": "single",
-    "open": 1665475200,
+    "start": "2022-10-11 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4072_ironmn"]
       },
       {
+        "rarity": 5,
+        "chars": ["明椒", "崖心"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_4062_totter"]
       }
-    ]
+    ],
+    "color": ["#8f2c27"]
   },
   "NORM_32_0_2": {
     "id": "NORM_32_0_2",
     "name": "",
     "type": "standard",
-    "open": 1664395200,
+    "start": "2022-09-29 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2574,20 +2944,29 @@
   "NORM_32_0_1": {
     "id": "NORM_32_0_1",
     "name": "前路回响",
-    "type": "special",
-    "open": 1664251200,
+    "type": "mainline",
+    "start": "2022-09-27 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_311_mudrok", "char_479_sleach", "char_4039_horn"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["絮雨", "桑葚", "洛洛"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["杰克", "罗比菈塔", "褐果"]
       }
-    ]
+    ],
+    "color": ["#c49f74"]
   },
   "NORM_31_0_2": {
     "id": "NORM_31_0_2",
     "name": "",
     "type": "standard",
-    "open": 1663185600,
+    "start": "2022-09-15 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2599,19 +2978,24 @@
     "id": "NORM_31_0_1",
     "name": "未曾起誓",
     "type": "single",
-    "open": 1662609600,
+    "start": "2022-09-08 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4064_mlynar"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["但书", "芙兰卡"]
       }
-    ]
+    ],
+    "color": ["#f0e1b6"]
   },
   "NORM_30_0_4": {
     "id": "NORM_30_0_4",
     "name": "",
     "type": "standard",
-    "open": 1661976000,
+    "start": "2022-09-01 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2623,19 +3007,20 @@
     "id": "NORM_30_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1661414400,
+    "start": "2022-08-25 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_222_bpipe", "char_426_billro", "char_248_mgllan", "char_472_pasngr"]
       }
-    ]
+    ],
+    "color": ["#eeb100"]
   },
   "NORM_30_0_2": {
     "id": "NORM_30_0_2",
     "name": "",
     "type": "standard",
-    "open": 1660766400,
+    "start": "2022-08-18 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2647,7 +3032,7 @@
     "id": "LIMITED_30_0_1",
     "name": "巨斧与笔尖",
     "type": "summer",
-    "open": 1660190400,
+    "start": "2022-08-11 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2657,13 +3042,14 @@
         "rarity": 5,
         "chars": ["char_497_ctable"]
       }
-    ]
+    ],
+    "color": ["#5f9e1b"]
   },
   "NORM_29_0_4": {
     "id": "NORM_29_0_4",
     "name": "",
     "type": "standard",
-    "open": 1659556800,
+    "start": "2022-08-04 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2675,7 +3061,7 @@
     "id": "NORM_29_0_3",
     "name": "",
     "type": "standard",
-    "open": 1658347200,
+    "start": "2022-07-21 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2687,7 +3073,7 @@
     "id": "NORM_29_0_2",
     "name": "",
     "type": "standard",
-    "open": 1657137600,
+    "start": "2022-07-07 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2699,19 +3085,24 @@
     "id": "NORM_29_0_1",
     "name": "沙洲引路人",
     "type": "single",
-    "open": 1656993600,
+    "start": "2022-07-05 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4048_doroth"]
+      },
+      {
+        "rarity": 6,
+        "chars": ["承曦格雷伊", "白面鸮"]
       }
-    ]
+    ],
+    "color": ["#e9bf4f"]
   },
   "NORM_28_0_2": {
     "id": "NORM_28_0_2",
     "name": "",
     "type": "standard",
-    "open": 1655928000,
+    "start": "2022-06-23 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2723,19 +3114,24 @@
     "id": "NORM_28_0_1",
     "name": "不协和音程",
     "type": "single",
-    "open": 1654747200,
+    "start": "2022-06-09 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4046_ebnhlz"]
+      },
+      {
+        "rarity": 6,
+        "chars": ["濯尘芙蓉", "蓝毒"]
       }
-    ]
+    ],
+    "color": ["#a47e5a"]
   },
   "NORM_27_0_7": {
     "id": "NORM_27_0_7",
     "name": "",
     "type": "standard",
-    "open": 1654718400,
+    "start": "2022-06-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2747,7 +3143,7 @@
     "id": "NORM_27_0_6",
     "name": "",
     "type": "standard",
-    "open": 1653508800,
+    "start": "2022-05-26 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2759,19 +3155,20 @@
     "id": "NORM_27_0_5",
     "name": "联合行动",
     "type": "joint",
-    "open": 1652947200,
+    "start": "2022-05-19 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_103_angel", "char_263_skadi", "char_264_f12yin", "char_003_kalts"]
       }
-    ]
+    ],
+    "color": ["#bac24b"]
   },
   "NORM_27_0_4": {
     "id": "NORM_27_0_4",
     "name": "",
     "type": "standard",
-    "open": 1652299200,
+    "start": "2022-05-12 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2783,7 +3180,7 @@
     "id": "LIMITED_27_0_3",
     "name": "海蚀",
     "type": "fes",
-    "open": 1651388400,
+    "start": "2022-05-01 15:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2793,13 +3190,14 @@
         "rarity": 5,
         "chars": ["char_433_windft"]
       }
-    ]
+    ],
+    "color": ["#187fff"]
   },
   "NORM_27_0_2": {
     "id": "NORM_27_0_2",
     "name": "",
     "type": "standard",
-    "open": 1651089600,
+    "start": "2022-04-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2811,23 +3209,28 @@
     "id": "NORM_27_0_1",
     "name": "奔崖怒号",
     "type": "single",
-    "open": 1649908800,
+    "start": "2022-04-14 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_4039_horn"]
       },
       {
+        "rarity": 5,
+        "chars": ["洛洛", "华法琳"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_4041_chnut"]
       }
-    ]
+    ],
+    "color": ["#b82a12"]
   },
   "NORM_26_0_5": {
     "id": "NORM_26_0_5",
     "name": "",
     "type": "standard",
-    "open": 1649880000,
+    "start": "2022-04-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2839,7 +3242,7 @@
     "id": "NORM_26_0_4",
     "name": "",
     "type": "standard",
-    "open": 1648670400,
+    "start": "2022-03-31 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2851,19 +3254,24 @@
     "id": "NORM_26_0_3",
     "name": "沙海过客",
     "type": "rerun",
-    "open": 1648540800,
+    "start": "2022-03-29 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_472_pasngr"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["熔泉", "慑砂"]
       }
-    ]
+    ],
+    "color": ["#b3481a"]
   },
   "NORM_26_0_2": {
     "id": "NORM_26_0_2",
     "name": "",
     "type": "standard",
-    "open": 1647460800,
+    "start": "2022-03-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2875,19 +3283,24 @@
     "id": "NORM_26_0_1",
     "name": "炽焰无霾",
     "type": "single",
-    "open": 1647316800,
+    "start": "2022-03-15 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_300_phenxi"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["风丸", "char_279_excu"]
       }
-    ]
+    ],
+    "color": ["#f37600"]
   },
   "NORM_25_0_5": {
     "id": "NORM_25_0_5",
     "name": "",
     "type": "standard",
-    "open": 1646251200,
+    "start": "2022-03-03 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2899,7 +3312,7 @@
     "id": "NORM_25_0_4",
     "name": "",
     "type": "standard",
-    "open": 1645041600,
+    "start": "2022-02-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2911,19 +3324,24 @@
     "id": "NORM_25_0_3",
     "name": "火花绽放",
     "type": "single",
-    "open": 1644912000,
+    "start": "2022-02-15 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_377_gdglow"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["夏栎", "天火"]
       }
-    ]
+    ],
+    "color": ["#fc9dbd"]
   },
   "NORM_25_0_2": {
     "id": "NORM_25_0_2",
     "name": "",
     "type": "standard",
-    "open": 1643832000,
+    "start": "2022-02-03 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2935,7 +3353,7 @@
     "id": "LIMITED_25_0_1",
     "name": "浊酒澄心",
     "type": "spring",
-    "open": 1643083200,
+    "start": "2022-01-25 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2945,13 +3363,14 @@
         "rarity": 5,
         "chars": ["char_476_blkngt"]
       }
-    ]
+    ],
+    "color": ["#3691e2", "#e79300", "#b8935d"]
   },
   "NORM_24_0_5": {
     "id": "NORM_24_0_5",
     "name": "",
     "type": "standard",
-    "open": 1642622400,
+    "start": "2022-01-20 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2963,7 +3382,7 @@
     "id": "NORM_24_0_4",
     "name": "",
     "type": "standard",
-    "open": 1641412800,
+    "start": "2022-01-06 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -2974,8 +3393,8 @@
   "ATTAIN_24_0_3": {
     "id": "ATTAIN_24_0_3",
     "name": "跨年欢庆·回首",
-    "type": "limited",
-    "open": 1640980800,
+    "type": "attain",
+    "start": "2022-01-01 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3012,13 +3431,14 @@
           "char_264_f12yin"
         ]
       }
-    ]
+    ],
+    "color": ["#a70200"]
   },
   "NORM_24_0_2": {
     "id": "NORM_24_0_2",
     "name": "",
     "type": "standard",
-    "open": 1640203200,
+    "start": "2021-12-23 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3030,19 +3450,24 @@
     "id": "NORM_24_0_1",
     "name": "雪融之诺",
     "type": "single",
-    "open": 1640059200,
+    "start": "2021-12-21 12:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_206_gnosis"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["极光", "初雪"]
       }
-    ]
+    ],
+    "color": ["#4aa1d7"]
   },
   "NORM_23_0_6": {
     "id": "NORM_23_0_6",
     "name": "",
     "type": "standard",
-    "open": 1638993600,
+    "start": "2021-12-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3054,19 +3479,28 @@
     "id": "NORM_23_0_5",
     "name": "自由的囚徒",
     "type": "rerun",
-    "open": 1638864000,
+    "start": "2021-12-07 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_264_f12yin"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["卡夫卡", "char_108_silent"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["松果"]
       }
-    ]
+    ],
+    "color": ["#9e181e"]
   },
   "NORM_23_0_4": {
     "id": "NORM_23_0_4",
     "name": "",
     "type": "standard",
-    "open": 1637784000,
+    "start": "2021-11-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3078,19 +3512,20 @@
     "id": "NORM_23_0_3",
     "name": "联合行动",
     "type": "joint",
-    "open": 1636963200,
+    "start": "2021-11-15 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_362_saga", "char_340_shwaz", "char_250_phatom", "char_350_surtr"]
       }
-    ]
+    ],
+    "color": ["#c43635"]
   },
   "NORM_23_0_2": {
     "id": "NORM_23_0_2",
     "name": "",
     "type": "standard",
-    "open": 1636574400,
+    "start": "2021-11-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3102,7 +3537,7 @@
     "id": "LIMITED_23_0_1",
     "name": "循光道途",
     "type": "fes",
-    "open": 1635739200,
+    "start": "2021-11-01 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3112,13 +3547,14 @@
         "rarity": 5,
         "chars": ["char_489_serum"]
       }
-    ]
+    ],
+    "color": ["#ff9b00"]
   },
   "NORM_22_0_6": {
     "id": "NORM_22_0_6",
     "name": "",
     "type": "standard",
-    "open": 1635364800,
+    "start": "2021-10-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3130,19 +3566,24 @@
     "id": "NORM_22_0_5",
     "name": "漂泊于风",
     "type": "single",
-    "open": 1634284800,
+    "start": "2021-10-15 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_430_fartth"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["灰毫", "狮蝎"]
       }
-    ]
+    ],
+    "color": ["#b1cc65"]
   },
   "NORM_22_0_4": {
     "id": "NORM_22_0_4",
     "name": "",
     "type": "standard",
-    "open": 1634155200,
+    "start": "2021-10-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3154,19 +3595,28 @@
     "id": "NORM_22_0_3",
     "name": "瑕光微明",
     "type": "rerun",
-    "open": 1633075200,
+    "start": "2021-10-01 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_423_blemsh"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["奥斯塔", "白金"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["泡泡"]
       }
-    ]
+    ],
+    "color": ["#fd5d4d"]
   },
   "NORM_22_0_2": {
     "id": "NORM_22_0_2",
     "name": "",
     "type": "standard",
-    "open": 1632945600,
+    "start": "2021-09-30 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3178,23 +3628,28 @@
     "id": "NORM_22_0_1",
     "name": "小丘上的眠柳",
     "type": "single",
-    "open": 1631851200,
+    "start": "2021-09-17 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_479_sleach"]
       },
       {
+        "rarity": 5,
+        "chars": ["桑葚", "雷蛇"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_484_robrta"]
       }
-    ]
+    ],
+    "color": ["#2b414f"]
   },
   "NORM_21_0_6": {
     "id": "NORM_21_0_6",
     "name": "",
     "type": "standard",
-    "open": 1631736000,
+    "start": "2021-09-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3206,7 +3661,7 @@
     "id": "NORM_21_0_5",
     "name": "",
     "type": "standard",
-    "open": 1630526400,
+    "start": "2021-09-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3218,668 +3673,7 @@
     "id": "NORM_21_0_4",
     "name": "不羁逆流",
     "type": "rerun",
-    "open": 1629964800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_293_thorns"]
-      }
-    ]
-  },
-  "NORM_21_0_3": {
-    "id": "NORM_21_0_3",
-    "name": "",
-    "type": "standard",
-    "open": 1629316800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_147_shining", "char_472_pasngr"]
-      }
-    ]
-  },
-  "NORM_21_0_2": {
-    "id": "NORM_21_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1628107200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_250_phatom", "char_311_mudrok"]
-      }
-    ]
-  },
-  "LIMITED_21_0_1": {
-    "id": "LIMITED_21_0_1",
-    "name": "盛夏新星",
-    "type": "summer",
-    "open": 1627963200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_1013_chen2", "char_437_mizuki"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_421_crow"]
-      }
-    ]
-  },
-  "NORM_20_0_4": {
-    "id": "NORM_20_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1626897600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_291_aglina", "char_197_poca"]
-      }
-    ]
-  },
-  "NORM_20_0_3": {
-    "id": "NORM_20_0_3",
-    "name": "燃钢之心 暴躁铁皮",
-    "type": "rerun",
-    "open": 1626768000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_416_zumama"]
-      }
-    ]
-  },
-  "NORM_20_0_2": {
-    "id": "NORM_20_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1625688000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_202_demkni", "char_362_saga"]
-      }
-    ]
-  },
-  "NORM_20_0_1": {
-    "id": "NORM_20_0_1",
-    "name": "从星火中来",
-    "type": "single",
-    "open": 1625198400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_485_pallas"]
-      }
-    ]
-  },
-  "NORM_19_0_4": {
-    "id": "NORM_19_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1624478400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_222_bpipe", "char_332_archet"]
-      }
-    ]
-  },
-  "NORM_19_0_3": {
-    "id": "NORM_19_0_3",
-    "name": "君影轻灵",
-    "type": "rerun",
-    "open": 1623916800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_358_lisa"]
-      }
-    ]
-  },
-  "NORM_19_0_2": {
-    "id": "NORM_19_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1623268800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_112_siege", "char_213_mostma"]
-      }
-    ]
-  },
-  "NORM_19_0_1": {
-    "id": "NORM_19_0_1",
-    "name": "革新交响曲",
-    "type": "single",
-    "open": 1622520000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_426_billro"]
-      },
-      {
-        "rarity": 4,
-        "chars": ["char_469_indigo"]
-      }
-    ]
-  },
-  "NORM_18_0_6": {
-    "id": "NORM_18_0_6",
-    "name": "",
-    "type": "standard",
-    "open": 1622059200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_180_amgoat", "char_350_surtr"]
-      }
-    ]
-  },
-  "NORM_18_0_5": {
-    "id": "NORM_18_0_5",
-    "name": "联合行动",
-    "type": "joint",
-    "open": 1621065600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_293_thorns", "char_179_cgbird", "char_358_lisa", "char_400_weedy"]
-      }
-    ]
-  },
-  "NORM_18_0_4": {
-    "id": "NORM_18_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1620849600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_225_haak", "char_416_zumama"]
-      }
-    ]
-  },
-  "LIMITED_18_0_3": {
-    "id": "LIMITED_18_0_3",
-    "name": "深悼",
-    "type": "fes",
-    "open": 1619852400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_1012_skadi2", "char_003_kalts"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_475_akafyu"]
-      }
-    ]
-  },
-  "NORM_18_0_2": {
-    "id": "NORM_18_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1619640000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_017_huang", "char_264_f12yin"]
-      }
-    ]
-  },
-  "NORM_18_0_1": {
-    "id": "NORM_18_0_1",
-    "name": "沙海过客",
-    "type": "single",
-    "open": 1618459200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_472_pasngr"]
-      }
-    ]
-  },
-  "NORM_17_0_5": {
-    "id": "NORM_17_0_5",
-    "name": "",
-    "type": "standard",
-    "open": 1618430400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_188_helage", "char_311_mudrok"]
-      }
-    ]
-  },
-  "NORM_17_0_4": {
-    "id": "NORM_17_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1617220800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_136_hsguma", "char_423_blemsh"]
-      }
-    ]
-  },
-  "NORM_17_0_3": {
-    "id": "NORM_17_0_3",
-    "name": "往日幻象",
-    "type": "rerun",
-    "open": 1617091200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_250_phatom"]
-      }
-    ]
-  },
-  "NORM_17_0_2": {
-    "id": "NORM_17_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1616011200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_2013_cerber", "char_291_aglina"]
-      }
-    ]
-  },
-  "LINKAGE_17_0_1": {
-    "id": "LINKAGE_17_0_1",
-    "name": "进攻·防守·战术交汇",
-    "type": "linkage",
-    "open": 1615262400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_456_ash"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_457_blitz", "char_458_rfrost"]
-      }
-    ],
-    "color": ["#f5c70f"]
-  },
-  "NORM_16_0_6": {
-    "id": "NORM_16_0_6",
-    "name": "",
-    "type": "standard",
-    "open": 1614801600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_340_shwaz", "char_350_surtr"]
-      }
-    ]
-  },
-  "NORM_16_0_5": {
-    "id": "NORM_16_0_5",
-    "name": "",
-    "type": "standard",
-    "open": 1613592000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_134_ifrit", "char_416_zumama"]
-      }
-    ]
-  },
-  "LIMITED_16_0_4": {
-    "id": "LIMITED_16_0_4",
-    "name": "月隐晦明",
-    "type": "spring",
-    "open": 1612512000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_2015_dusk", "char_362_saga"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_455_nothin"]
-      }
-    ]
-  },
-  "NORM_16_0_3": {
-    "id": "NORM_16_0_3",
-    "name": "",
-    "type": "standard",
-    "open": 1612382400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_213_mostma", "char_293_thorns"]
-      }
-    ]
-  },
-  "NORM_16_0_2": {
-    "id": "NORM_16_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1611172800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_010_chen", "char_112_siege"]
-      }
-    ]
-  },
-  "LIMITED_16_0_1": {
-    "id": "LIMITED_16_0_1",
-    "name": "地生五金",
-    "type": "spring",
-    "open": 1611028800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_2014_nian", "char_225_haak"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_226_hmau"]
-      }
-    ]
-  },
-  "NORM_15_0_4": {
-    "id": "NORM_15_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1609963200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_172_svrash", "char_147_shining"]
-      }
-    ]
-  },
-  "NORM_15_0_3": {
-    "id": "NORM_15_0_3",
-    "name": "麦穗与赞美诗",
-    "type": "single",
-    "open": 1609833600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_332_archet"]
-      }
-    ]
-  },
-  "NORM_15_0_2": {
-    "id": "NORM_15_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1608753600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_263_skadi", "char_202_demkni"]
-      }
-    ]
-  },
-  "NORM_15_0_1": {
-    "id": "NORM_15_0_1",
-    "name": "自由的囚徒",
-    "type": "single",
-    "open": 1608177600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_264_f12yin"]
-      }
-    ]
-  },
-  "NORM_14_0_6": {
-    "id": "NORM_14_0_6",
-    "name": "",
-    "type": "standard",
-    "open": 1607544000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_017_huang", "char_358_lisa"]
-      }
-    ]
-  },
-  "NORM_14_0_5": {
-    "id": "NORM_14_0_5",
-    "name": "锁与匙的守卫者",
-    "type": "rerun",
-    "open": 1606809600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_213_mostma"]
-      }
-    ]
-  },
-  "NORM_14_0_4": {
-    "id": "NORM_14_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1606334400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_103_angel", "char_291_aglina"]
-      }
-    ]
-  },
-  "NORM_14_0_3": {
-    "id": "NORM_14_0_3",
-    "name": "联合行动",
-    "type": "joint",
-    "open": 1605427200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_225_haak", "char_136_hsguma", "char_2013_cerber", "char_222_bpipe"]
-      }
-    ]
-  },
-  "NORM_14_0_2": {
-    "id": "NORM_14_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1605124800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_179_cgbird", "char_197_poca"]
-      }
-    ]
-  },
-  "LIMITED_14_0_1": {
-    "id": "LIMITED_14_0_1",
-    "name": "勿忘我",
-    "type": "fes",
-    "open": 1604203200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_391_rosmon", "char_311_mudrok"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_436_whispr"]
-      }
-    ]
-  },
-  "NORM_13_0_6": {
-    "id": "NORM_13_0_6",
-    "name": "",
-    "type": "standard",
-    "open": 1603915200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_248_mgllan", "char_180_amgoat"]
-      }
-    ]
-  },
-  "NORM_13_0_5": {
-    "id": "NORM_13_0_5",
-    "name": "瑕光微明",
-    "type": "single",
-    "open": 1602748800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_423_blemsh"]
-      }
-    ]
-  },
-  "NORM_13_0_4": {
-    "id": "NORM_13_0_4",
-    "name": "",
-    "type": "standard",
-    "open": 1602705600,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_112_siege", "char_250_phatom"]
-      }
-    ]
-  },
-  "NORM_13_0_3": {
-    "id": "NORM_13_0_3",
-    "name": "搅动潮汐之剑",
-    "type": "rerun",
-    "open": 1601539200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_263_skadi"]
-      },
-      {
-        "rarity": 4,
-        "chars": ["char_137_brownb", "char_236_rope"]
-      }
-    ]
-  },
-  "NORM_13_0_2": {
-    "id": "NORM_13_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1601496000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_202_demkni", "char_400_weedy"]
-      }
-    ]
-  },
-  "NORM_13_0_1": {
-    "id": "NORM_13_0_1",
-    "name": "无拘熔火",
-    "type": "single",
-    "open": 1600920000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_350_surtr"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_365_aprl"]
-      },
-      {
-        "rarity": 4,
-        "chars": ["char_271_spikes"]
-      }
-    ]
-  },
-  "NORM_12_0_5": {
-    "id": "NORM_12_0_5",
-    "name": "",
-    "type": "standard",
-    "open": 1600286400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_188_helage", "char_134_ifrit"]
-      }
-    ]
-  },
-  "NORM_12_0_4": {
-    "id": "NORM_12_0_4",
-    "name": "燃钢之心 暴躁铁皮",
-    "type": "rerun",
-    "open": 1599552000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_416_zumama"]
-      }
-    ]
-  },
-  "NORM_12_0_3": {
-    "id": "NORM_12_0_3",
-    "name": "不羁逆流",
-    "type": "rerun",
-    "open": 1599552000,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_293_thorns"]
-      }
-    ]
-  },
-  "NORM_12_0_2": {
-    "id": "NORM_12_0_2",
-    "name": "",
-    "type": "standard",
-    "open": 1599076800,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_147_shining", "char_017_huang"]
-      }
-    ]
-  },
-  "NORM_12_0_1": {
-    "id": "NORM_12_0_1",
-    "name": "燃钢之心 暴躁铁皮",
-    "type": "single",
-    "open": 1598342400,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_416_zumama"]
-      },
-      {
-        "rarity": 5,
-        "chars": ["char_415_flint"]
-      },
-      {
-        "rarity": 4,
-        "chars": ["char_366_acdrop"]
-      }
-    ]
-  },
-  "NORM_11_0_6": {
-    "id": "NORM_11_0_6",
-    "name": "",
-    "type": "standard",
-    "open": 1597867200,
-    "pickup": [
-      {
-        "rarity": 6,
-        "chars": ["char_172_svrash", "char_2013_cerber"]
-      }
-    ]
-  },
-  "NORM_11_0_5": {
-    "id": "NORM_11_0_5",
-    "name": "不羁逆流",
-    "type": "single",
-    "open": 1597132800,
+    "start": "2021-08-26 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3893,49 +3687,126 @@
         "rarity": 4,
         "chars": ["char_272_strong"]
       }
-    ]
+    ],
+    "color": ["#ffbb00"]
   },
-  "NORM_11_0_4": {
-    "id": "NORM_11_0_4",
+  "NORM_21_0_3": {
+    "id": "NORM_21_0_3",
     "name": "",
     "type": "standard",
-    "open": 1596657600,
+    "start": "2021-08-19 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_340_shwaz", "char_263_skadi"]
+        "chars": ["char_147_shining", "char_472_pasngr"]
       }
     ]
   },
-  "NORM_11_0_3": {
-    "id": "NORM_11_0_3",
-    "name": "流沙涡旋",
-    "type": "single",
-    "open": 1595923200,
+  "NORM_21_0_2": {
+    "id": "NORM_21_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-08-05 04:00",
     "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom", "char_311_mudrok"]
+      }
+    ]
+  },
+  "LIMITED_21_0_1": {
+    "id": "LIMITED_21_0_1",
+    "name": "盛夏新星",
+    "type": "summer",
+    "start": "2021-08-03 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1013_chen2", "char_437_mizuki"]
+      },
       {
         "rarity": 5,
-        "chars": ["char_344_beewax", "char_349_chiave"]
+        "chars": ["char_421_crow"]
       }
-    ]
+    ],
+    "color": ["#1d33e1"]
   },
-  "NORM_11_0_2": {
-    "id": "NORM_11_0_2",
+  "NORM_20_0_4": {
+    "id": "NORM_20_0_4",
     "name": "",
     "type": "standard",
-    "open": 1595448000,
+    "start": "2021-07-22 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_291_aglina", "char_222_bpipe"]
+        "chars": ["char_291_aglina", "char_197_poca"]
       }
     ]
   },
-  "NORM_11_0_1": {
-    "id": "NORM_11_0_1",
-    "name": "君影轻灵",
+  "NORM_20_0_3": {
+    "id": "NORM_20_0_3",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "rerun",
+    "start": "2021-07-20 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_415_flint"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_366_acdrop"]
+      }
+    ],
+    "color": ["#0065fc"]
+  },
+  "NORM_20_0_2": {
+    "id": "NORM_20_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-07-08 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_362_saga"]
+      }
+    ]
+  },
+  "NORM_20_0_1": {
+    "id": "NORM_20_0_1",
+    "name": "从星火中来",
     "type": "single",
-    "open": 1594267200,
+    "start": "2021-07-02 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_485_pallas"]
+      },
+      { "rarity": 5, "chars": ["char_143_ghost", "char_144_red"] }
+    ],
+    "color": ["#8377f7"]
+  },
+  "NORM_19_0_4": {
+    "id": "NORM_19_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2021-06-24 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_222_bpipe", "char_332_archet"]
+      }
+    ]
+  },
+  "NORM_19_0_3": {
+    "id": "NORM_19_0_3",
+    "name": "君影轻灵",
+    "type": "rerun",
+    "start": "2021-06-17 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3949,13 +3820,710 @@
         "rarity": 4,
         "chars": ["char_328_cammou"]
       }
+    ],
+    "color": ["#397ade"]
+  },
+  "NORM_19_0_2": {
+    "id": "NORM_19_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-06-10 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_213_mostma"]
+      }
     ]
+  },
+  "NORM_19_0_1": {
+    "id": "NORM_19_0_1",
+    "name": "革新交响曲",
+    "type": "single",
+    "start": "2021-06-01 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_426_billro"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["绮良", "崖心"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_469_indigo"]
+      }
+    ],
+    "color": ["#f94439"]
+  },
+  "NORM_18_0_6": {
+    "id": "NORM_18_0_6",
+    "name": "",
+    "type": "standard",
+    "start": "2021-05-27 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_180_amgoat", "char_350_surtr"]
+      }
+    ]
+  },
+  "NORM_18_0_5": {
+    "id": "NORM_18_0_5",
+    "name": "联合行动",
+    "type": "joint",
+    "start": "2021-05-15 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns", "char_179_cgbird", "char_358_lisa", "char_400_weedy"]
+      }
+    ],
+    "color": ["#e85c77"]
+  },
+  "NORM_18_0_4": {
+    "id": "NORM_18_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2021-05-13 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_416_zumama"]
+      }
+    ]
+  },
+  "LIMITED_18_0_3": {
+    "id": "LIMITED_18_0_3",
+    "name": "深悼",
+    "type": "fes",
+    "start": "2021-05-01 15:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_1012_skadi2", "char_003_kalts"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_475_akafyu"]
+      }
+    ],
+    "color": ["#1dcbdb", "#da2a35", "#5ad1d3"]
+  },
+  "NORM_18_0_2": {
+    "id": "NORM_18_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-04-29 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_264_f12yin"]
+      }
+    ]
+  },
+  "NORM_18_0_1": {
+    "id": "NORM_18_0_1",
+    "name": "沙海过客",
+    "type": "single",
+    "start": "2021-04-15 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_472_pasngr"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["熔泉", "慑砂"]
+      }
+    ],
+    "color": ["#b3481a"]
+  },
+  "NORM_17_0_5": {
+    "id": "NORM_17_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2021-04-15 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_311_mudrok"]
+      }
+    ]
+  },
+  "NORM_17_0_4": {
+    "id": "NORM_17_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2021-04-01 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_136_hsguma", "char_423_blemsh"]
+      }
+    ]
+  },
+  "NORM_17_0_3": {
+    "id": "NORM_17_0_3",
+    "name": "往日幻象",
+    "type": "rerun",
+    "start": "2021-03-30 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_250_phatom"]
+      }
+    ],
+    "color": ["#eeb96b"]
+  },
+  "NORM_17_0_2": {
+    "id": "NORM_17_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-03-18 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2013_cerber", "char_291_aglina"]
+      }
+    ]
+  },
+  "LINKAGE_17_0_1": {
+    "id": "LINKAGE_17_0_1",
+    "name": "进攻·防守·战术交汇",
+    "type": "linkage",
+    "start": "2021-03-09 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_456_ash"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_457_blitz", "char_458_rfrost"]
+      }
+    ],
+    "color": ["#f3c817"]
+  },
+  "NORM_16_0_6": {
+    "id": "NORM_16_0_6",
+    "name": "",
+    "type": "standard",
+    "start": "2021-03-04 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_350_surtr"]
+      }
+    ]
+  },
+  "NORM_16_0_5": {
+    "id": "NORM_16_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2021-02-18 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_134_ifrit", "char_416_zumama"]
+      }
+    ]
+  },
+  "LIMITED_16_0_4": {
+    "id": "LIMITED_16_0_4",
+    "name": "月隐晦明",
+    "type": "spring",
+    "start": "2021-02-05 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2015_dusk", "char_362_saga"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_455_nothin"]
+      }
+    ],
+    "color": ["#39B47A", "#2ebf81", "#0cd39d", "#724a88"]
+  },
+  "NORM_16_0_3": {
+    "id": "NORM_16_0_3",
+    "name": "",
+    "type": "standard",
+    "start": "2021-02-04 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma", "char_293_thorns"]
+      }
+    ]
+  },
+  "NORM_16_0_2": {
+    "id": "NORM_16_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2021-01-21 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_010_chen", "char_112_siege"]
+      }
+    ]
+  },
+  "LIMITED_16_0_1": {
+    "id": "LIMITED_16_0_1",
+    "name": "地生五金·复刻",
+    "type": "spring",
+    "start": "2021-01-19 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2014_nian", "char_225_haak"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_226_hmau"]
+      }
+    ],
+    "color": ["#ff5a27"]
+  },
+  "NORM_15_0_4": {
+    "id": "NORM_15_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2021-01-07 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_147_shining"]
+      }
+    ]
+  },
+  "NORM_15_0_3": {
+    "id": "NORM_15_0_3",
+    "name": "麦穗与赞美诗",
+    "type": "single",
+    "start": "2021-01-05 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_332_archet"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["爱丽丝", "贾维"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["豆苗"]
+      }
+    ],
+    "color": ["#f98201"]
+  },
+  "NORM_15_0_2": {
+    "id": "NORM_15_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2020-12-24 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi", "char_202_demkni"]
+      }
+    ]
+  },
+  "NORM_15_0_1": {
+    "id": "NORM_15_0_1",
+    "name": "自由的囚徒",
+    "type": "single",
+    "start": "2020-12-17 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_264_f12yin"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["卡夫卡", "char_108_silent"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["松果"]
+      }
+    ],
+    "color": ["#9e181e"]
+  },
+  "NORM_14_0_6": {
+    "id": "NORM_14_0_6",
+    "name": "",
+    "type": "standard",
+    "start": "2020-12-10 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_017_huang", "char_358_lisa"]
+      }
+    ]
+  },
+  "NORM_14_0_5": {
+    "id": "NORM_14_0_5",
+    "name": "锁与匙的守卫者",
+    "type": "rerun",
+    "start": "2020-12-01 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_213_mostma"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["槐琥", "守林人"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_133_mm"]
+      }
+    ],
+    "color": ["#1e3265"]
+  },
+  "NORM_14_0_4": {
+    "id": "NORM_14_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2020-11-26 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_103_angel", "char_291_aglina"]
+      }
+    ]
+  },
+  "NORM_14_0_3": {
+    "id": "NORM_14_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "start": "2020-11-15 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_225_haak", "char_136_hsguma", "char_2013_cerber", "char_222_bpipe"]
+      }
+    ],
+    "color": ["#f4b764"]
+  },
+  "NORM_14_0_2": {
+    "id": "NORM_14_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2020-11-12 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_179_cgbird", "char_197_poca"]
+      }
+    ]
+  },
+  "LIMITED_14_0_1": {
+    "id": "LIMITED_14_0_1",
+    "name": "勿忘我",
+    "type": "fes",
+    "start": "2020-11-01 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_391_rosmon", "char_311_mudrok"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_436_whispr"]
+      }
+    ],
+    "color": ["#4f74f9", "#f05a5b"]
+  },
+  "NORM_13_0_6": {
+    "id": "NORM_13_0_6",
+    "name": "",
+    "type": "standard",
+    "start": "2020-10-29 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_248_mgllan", "char_180_amgoat"]
+      }
+    ]
+  },
+  "NORM_13_0_5": {
+    "id": "NORM_13_0_5",
+    "name": "瑕光微明",
+    "type": "single",
+    "start": "2020-10-15 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_423_blemsh"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["奥斯塔", "白金"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["泡泡"]
+      }
+    ],
+    "color": ["#fd5d4d"]
+  },
+  "NORM_13_0_4": {
+    "id": "NORM_13_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2020-10-15 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_112_siege", "char_250_phatom"]
+      }
+    ]
+  },
+  "NORM_13_0_3": {
+    "id": "NORM_13_0_3",
+    "name": "搅动潮汐之剑",
+    "type": "rerun",
+    "sub": true,
+    "start": "2020-10-01 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_263_skadi"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["夜魔", "char_148_nearl"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_137_brownb", "char_236_rope"]
+      }
+    ],
+    "color": ["#467997"]
+  },
+  "NORM_13_0_2": {
+    "id": "NORM_13_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2020-10-01 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_202_demkni", "char_400_weedy"]
+      }
+    ]
+  },
+  "NORM_13_0_1": {
+    "id": "NORM_13_0_1",
+    "name": "无拘熔火",
+    "type": "single",
+    "start": "2020-09-24 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_350_surtr"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_365_aprl"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_271_spikes"]
+      }
+    ],
+    "color": ["#db2611"]
+  },
+  "NORM_12_0_5": {
+    "id": "NORM_12_0_5",
+    "name": "",
+    "type": "standard",
+    "start": "2020-09-17 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_188_helage", "char_134_ifrit"]
+      }
+    ]
+  },
+  "NORM_12_0_4": {
+    "id": "NORM_12_0_4",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "rerun",
+    "sub": true,
+    "start": "2020-09-08 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_415_flint"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_366_acdrop"]
+      }
+    ],
+    "color": ["#0065fc"]
+  },
+  "NORM_12_0_3": {
+    "id": "NORM_12_0_3",
+    "name": "不羁逆流",
+    "type": "rerun",
+    "start": "2020-09-08 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_218_cuttle"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_272_strong"]
+      }
+    ],
+    "color": ["#ffbb00"]
+  },
+  "NORM_12_0_2": {
+    "id": "NORM_12_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2020-09-03 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_147_shining", "char_017_huang"]
+      }
+    ]
+  },
+  "NORM_12_0_1": {
+    "id": "NORM_12_0_1",
+    "name": "燃钢之心 暴躁铁皮",
+    "type": "single",
+    "start": "2020-08-25 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_416_zumama"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_415_flint"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_366_acdrop"]
+      }
+    ],
+    "color": ["#0065fc"]
+  },
+  "NORM_11_0_6": {
+    "id": "NORM_11_0_6",
+    "name": "",
+    "type": "standard",
+    "start": "2020-08-20 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_172_svrash", "char_2013_cerber"]
+      }
+    ]
+  },
+  "NORM_11_0_5": {
+    "id": "NORM_11_0_5",
+    "name": "不羁逆流",
+    "type": "single",
+    "start": "2020-08-11 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_293_thorns"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_218_cuttle"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_272_strong"]
+      }
+    ],
+    "color": ["#ffbb00"]
+  },
+  "NORM_11_0_4": {
+    "id": "NORM_11_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2020-08-06 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_340_shwaz", "char_263_skadi"]
+      }
+    ]
+  },
+  "NORM_11_0_3": {
+    "id": "NORM_11_0_3",
+    "name": "流沙涡旋",
+    "type": "single",
+    "start": "2020-07-28 16:00",
+    "pickup": [
+      {
+        "rarity": 5,
+        "chars": ["char_344_beewax", "char_349_chiave"]
+      }
+    ],
+    "color": ["#ffe723"]
+  },
+  "NORM_11_0_2": {
+    "id": "NORM_11_0_2",
+    "name": "",
+    "type": "standard",
+    "start": "2020-07-23 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_291_aglina", "char_222_bpipe"]
+      }
+    ]
+  },
+  "NORM_11_0_1": {
+    "id": "NORM_11_0_1",
+    "name": "君影轻灵",
+    "type": "single",
+    "start": "2020-07-09 12:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_358_lisa"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_294_ayer"]
+      },
+      {
+        "rarity": 4,
+        "chars": ["char_328_cammou"]
+      }
+    ],
+    "color": ["#397ade"]
   },
   "NORM_10_0_5": {
     "id": "NORM_10_0_5",
     "name": "",
     "type": "standard",
-    "open": 1594238400,
+    "start": "2020-07-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3967,7 +4535,7 @@
     "id": "NORM_10_0_4",
     "name": "",
     "type": "standard",
-    "open": 1593028800,
+    "start": "2020-06-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3979,7 +4547,7 @@
     "id": "NORM_10_0_3",
     "name": "雪落晨心",
     "type": "single",
-    "open": 1592467200,
+    "start": "2020-06-18 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -3993,13 +4561,14 @@
         "rarity": 4,
         "chars": ["char_258_podego"]
       }
-    ]
+    ],
+    "color": ["#0043a6"]
   },
   "NORM_10_0_2": {
     "id": "NORM_10_0_2",
     "name": "",
     "type": "standard",
-    "open": 1591819200,
+    "start": "2020-06-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4011,19 +4580,20 @@
     "id": "NORM_10_0_1",
     "name": "雾漫荒林",
     "type": "single",
-    "open": 1591070400,
+    "start": "2020-06-02 12:00",
     "pickup": [
       {
         "rarity": 5,
         "chars": ["char_378_asbest", "char_343_tknogi"]
       }
-    ]
+    ],
+    "color": ["#f6cd23"]
   },
   "NORM_9_0_6": {
     "id": "NORM_9_0_6",
     "name": "",
     "type": "standard",
-    "open": 1590609600,
+    "start": "2020-05-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4035,19 +4605,20 @@
     "id": "NORM_9_0_5",
     "name": "联合行动",
     "type": "joint",
-    "open": 1589529600,
+    "start": "2020-05-15 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_017_huang", "char_202_demkni", "char_213_mostma", "char_188_helage"]
       }
-    ]
+    ],
+    "color": ["#f6bf03"]
   },
   "NORM_9_0_4": {
     "id": "NORM_9_0_4",
     "name": "",
     "type": "standard",
-    "open": 1589400000,
+    "start": "2020-05-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4059,7 +4630,7 @@
     "id": "LIMITED_9_0_3",
     "name": "遗愿焰火",
     "type": "fes",
-    "open": 1588316400,
+    "start": "2020-05-01 15:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4069,13 +4640,14 @@
         "rarity": 5,
         "chars": ["char_401_elysm"]
       }
-    ]
+    ],
+    "color": ["#ff1200", "#45c9c7"]
   },
   "NORM_9_0_2": {
     "id": "NORM_9_0_2",
     "name": "",
     "type": "standard",
-    "open": 1588190400,
+    "start": "2020-04-30 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4087,7 +4659,8 @@
     "id": "NORM_9_0_1",
     "name": "往日幻象",
     "type": "single",
-    "open": 1587441600,
+    "sub": true,
+    "start": "2020-04-21 12:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4101,13 +4674,14 @@
         "rarity": 4,
         "chars": ["char_301_cutter"]
       }
-    ]
+    ],
+    "color": ["#eeb96b"]
   },
   "NORM_8_0_4": {
     "id": "NORM_8_0_4",
     "name": "",
     "type": "standard",
-    "open": 1586980800,
+    "start": "2020-04-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4119,7 +4693,7 @@
     "id": "NORM_8_0_3",
     "name": "",
     "type": "standard",
-    "open": 1585771200,
+    "start": "2020-04-02 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4131,7 +4705,7 @@
     "id": "NORM_8_0_2",
     "name": "",
     "type": "standard",
-    "open": 1584561600,
+    "start": "2020-03-19 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4143,7 +4717,7 @@
     "id": "NORM_8_0_1",
     "name": "草垛上的风笛声",
     "type": "single",
-    "open": 1584432000,
+    "start": "2020-03-17 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4157,13 +4731,14 @@
         "rarity": 4,
         "chars": ["char_337_utage"]
       }
-    ]
+    ],
+    "color": ["#f6dda0"]
   },
   "NORM_7_0_2": {
     "id": "NORM_7_0_2",
     "name": "",
     "type": "standard",
-    "open": 1583352000,
+    "start": "2020-03-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4175,7 +4750,7 @@
     "id": "NORM_7_0_1",
     "name": "百种兵器",
     "type": "single",
-    "open": 1582617600,
+    "start": "2020-02-25 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4185,13 +4760,14 @@
         "rarity": 5,
         "chars": ["char_306_leizi"]
       }
-    ]
+    ],
+    "color": ["#9c74b3"]
   },
   "NORM_6_0_7": {
     "id": "NORM_6_0_7",
     "name": "",
     "type": "standard",
-    "open": 1582142400,
+    "start": "2020-02-20 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4203,7 +4779,7 @@
     "id": "NORM_6_0_6",
     "name": "",
     "type": "standard",
-    "open": 1580932800,
+    "start": "2020-02-06 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4215,7 +4791,7 @@
     "id": "NORM_6_0_5",
     "name": "",
     "type": "standard",
-    "open": 1579723200,
+    "start": "2020-01-23 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4227,7 +4803,7 @@
     "id": "NORM_6_0_4",
     "name": "地生五金",
     "type": "spring",
-    "open": 1579161600,
+    "start": "2020-01-16 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4237,13 +4813,14 @@
         "rarity": 5,
         "chars": ["char_226_hmau"]
       }
-    ]
+    ],
+    "color": ["#ff5a27"]
   },
   "NORM_6_0_3": {
     "id": "NORM_6_0_3",
     "name": "",
     "type": "standard",
-    "open": 1578513600,
+    "start": "2020-01-09 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4255,7 +4832,7 @@
     "id": "NORM_6_0_2",
     "name": "",
     "type": "standard",
-    "open": 1577304000,
+    "start": "2019-12-26 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4267,7 +4844,7 @@
     "id": "NORM_6_0_1",
     "name": "热情，膨胀，爆发 !",
     "type": "single",
-    "open": 1577174400,
+    "start": "2019-12-24 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4281,13 +4858,14 @@
         "rarity": 4,
         "chars": ["char_302_glaze"]
       }
-    ]
+    ],
+    "color": ["#e72120"]
   },
   "NORM_5_0_4": {
     "id": "NORM_5_0_4",
     "name": "",
     "type": "standard",
-    "open": 1576094400,
+    "start": "2019-12-12 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4299,7 +4877,7 @@
     "id": "NORM_5_0_3",
     "name": "凝电之钻",
     "type": "single",
-    "open": 1575964800,
+    "start": "2019-12-10 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4309,13 +4887,14 @@
         "rarity": 5,
         "chars": ["char_261_sddrag", "char_356_broca"]
       }
-    ]
+    ],
+    "color": ["#fe9808"]
   },
   "NORM_5_0_2": {
     "id": "NORM_5_0_2",
     "name": "",
     "type": "standard",
-    "open": 1574884800,
+    "start": "2019-11-28 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4327,23 +4906,28 @@
     "id": "NORM_5_0_1",
     "name": "锁与匙的守卫者",
     "type": "single",
-    "open": 1574150400,
+    "start": "2019-11-19 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_213_mostma"]
       },
       {
+        "rarity": 5,
+        "chars": ["槐琥", "守林人"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_133_mm"]
       }
-    ]
+    ],
+    "color": ["#1e3265"]
   },
   "NORM_4_0_5": {
     "id": "NORM_4_0_5",
     "name": "",
     "type": "standard",
-    "open": 1573675200,
+    "start": "2019-11-14 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4359,19 +4943,20 @@
     "id": "NORM_4_0_4",
     "name": "联合行动",
     "type": "joint",
-    "open": 1572552000,
+    "start": "2019-11-01 04:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_010_chen", "char_172_svrash", "char_180_amgoat", "char_291_aglina"]
       }
-    ]
+    ],
+    "color": ["#f4d11f"]
   },
   "NORM_4_0_3": {
     "id": "NORM_4_0_3",
     "name": "",
     "type": "standard",
-    "open": 1572465600,
+    "start": "2019-10-31 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4383,7 +4968,7 @@
     "id": "NORM_4_0_2",
     "name": "",
     "type": "standard",
-    "open": 1571256000,
+    "start": "2019-10-17 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4395,7 +4980,7 @@
     "id": "NORM_4_0_1",
     "name": "冰封原野",
     "type": "single",
-    "open": 1571126400,
+    "start": "2019-10-15 16:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4403,19 +4988,20 @@
       },
       {
         "rarity": 5,
-        "chars": ["char_279_excu"]
+        "chars": ["char_279_excu", "char_108_silent"]
       },
       {
         "rarity": 4,
         "chars": ["char_190_clour"]
       }
-    ]
+    ],
+    "color": ["#6377f0"]
   },
   "NORM_3_0_6": {
     "id": "NORM_3_0_6",
     "name": "",
     "type": "standard",
-    "open": 1570046400,
+    "start": "2019-10-03 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4427,19 +5013,24 @@
     "id": "NORM_3_0_5",
     "name": "火舞之人",
     "type": "single",
-    "open": 1569916800,
+    "start": "2019-10-01 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_180_amgoat"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["普罗旺斯", "幽灵鲨"]
       }
-    ]
+    ],
+    "color": ["#fe492a"]
   },
   "NORM_3_0_4": {
     "id": "NORM_3_0_4",
     "name": "",
     "type": "standard",
-    "open": 1568836800,
+    "start": "2019-09-19 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4451,23 +5042,28 @@
     "id": "NORM_3_0_3",
     "name": "久铸尘铁",
     "type": "single",
-    "open": 1568102400,
+    "start": "2019-09-10 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_188_helage"]
       },
       {
+        "rarity": 5,
+        "chars": ["星极", "可颂"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_151_myrtle"]
       }
-    ]
+    ],
+    "color": ["#e5be31"]
   },
   "NORM_3_0_2": {
     "id": "NORM_3_0_2",
     "name": "",
     "type": "standard",
-    "open": 1567627200,
+    "start": "2019-09-05 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4479,23 +5075,28 @@
     "id": "NORM_3_0_1",
     "name": "深夏的守夜人",
     "type": "single",
-    "open": 1566892800,
+    "start": "2019-08-27 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_340_shwaz"]
       },
       {
+        "rarity": 5,
+        "chars": ["格劳克斯", "蓝毒"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_298_susuro"]
       }
-    ]
+    ],
+    "color": ["#be9eff"]
   },
   "NORM_2_0_6": {
     "id": "NORM_2_0_6",
     "name": "",
     "type": "standard",
-    "open": 1566417600,
+    "start": "2019-08-22 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4507,7 +5108,7 @@
     "id": "NORM_2_0_5",
     "name": "",
     "type": "standard",
-    "open": 1565208000,
+    "start": "2019-08-08 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4519,7 +5120,7 @@
     "id": "NORM_2_0_4",
     "name": "",
     "type": "standard",
-    "open": 1563998400,
+    "start": "2019-07-25 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4531,19 +5132,24 @@
     "id": "NORM_2_0_3",
     "name": "龙门特别行动专员寻访",
     "type": "single",
-    "open": 1563782400,
+    "start": "2019-07-22 16:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_136_hsguma"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["雷蛇", "陨星"]
       }
-    ]
+    ],
+    "color": ["#01dfe0"]
   },
   "NORM_2_0_2": {
     "id": "NORM_2_0_2",
     "name": "",
     "type": "standard",
-    "open": 1562788800,
+    "start": "2019-07-11 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4555,7 +5161,8 @@
     "id": "NORM_2_0_1",
     "name": "鞘中赤红",
     "type": "single",
-    "open": 1562659200,
+    "start": "2019-07-09 16:00",
+    "days": 13,
     "pickup": [
       {
         "rarity": 6,
@@ -4565,13 +5172,14 @@
         "rarity": 4,
         "chars": ["char_253_greyy"]
       }
-    ]
+    ],
+    "color": ["#9d0b16"]
   },
   "NORM_1_0_3": {
     "id": "NORM_1_0_3",
     "name": "",
     "type": "standard",
-    "open": 1561579200,
+    "start": "2019-06-27 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4583,7 +5191,7 @@
     "id": "NORM_1_0_2",
     "name": "",
     "type": "standard",
-    "open": 1560369600,
+    "start": "2019-06-13 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4595,7 +5203,7 @@
     "id": "NORM_0_1_4",
     "name": "",
     "type": "standard",
-    "open": 1559181600,
+    "start": "2019-05-30 10:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4607,23 +5215,29 @@
     "id": "NORM_1_0_1",
     "name": "搅动潮汐之剑",
     "type": "single",
-    "open": 1559181600,
+    "start": "2019-05-30 10:00",
     "pickup": [
       {
         "rarity": 6,
         "chars": ["char_263_skadi"]
       },
       {
+        "rarity": 5,
+        "chars": ["夜魔", "char_148_nearl"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_137_brownb", "char_236_rope"]
       }
-    ]
+    ],
+    "color": ["#467997"]
   },
   "NORM_0_1_3": {
     "id": "NORM_0_1_3",
     "name": "银灰色的荣耀",
     "type": "single",
-    "open": 1558576800,
+    "start": "2019-05-23 10:00",
+    "days": 7,
     "pickup": [
       {
         "rarity": 6,
@@ -4633,13 +5247,14 @@
         "rarity": 4,
         "chars": ["char_199_yak"]
       }
-    ]
+    ],
+    "color": ["#79cbff"]
   },
   "NORM_0_1_2": {
     "id": "NORM_0_1_2",
     "name": "",
     "type": "standard",
-    "open": 1557950400,
+    "start": "2019-05-16 04:00",
     "pickup": [
       {
         "rarity": 6,
@@ -4651,7 +5266,8 @@
     "id": "NORM_0_1_1",
     "name": "",
     "type": "standard",
-    "open": 1556589600,
+    "start": "2019-04-30 10:00",
+    "days": 15,
     "pickup": [
       {
         "rarity": 6,

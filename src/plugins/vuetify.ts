@@ -30,7 +30,8 @@ export default createVuetify({
           primary: '#0098dc',
           secondary: '#313131',
           success: '#81ba52',
-          warning: '#fbd401'
+          warning: '#ffd900',
+          error: '#ff6801'
         }
       }
     }

@@ -134,8 +134,21 @@
     "timeline": 0
   },
   {
+    "id": "actmain15",
+    "name": "EP15 xxxx",
+    "type": "MAINLINE",
+    "color": ["#6f6389"],
+    "start": "2025-04-02 16:00",
+    "days": 14,
+    "reward": {
+      "type": "char",
+      "id": ""
+    },
+    "timeline": 0
+  },
+  {
     "id": "act6fun",
-    "name": "好得不能再好了！泰拉投资大师课",
+    "name": "四月辑录",
     "type": "APRIL",
     "color": ["#0ea785"],
     "fake": true,
@@ -144,12 +157,35 @@
     "timeline": 4
   },
   {
+    "id": "act3yueside",
+    "name": "塔拉ss",
+    "type": "SIDESTORY",
+    "color": ["#1526f1", "#dbd3c8"],
+    "fake": true,
+    "start": "2025-03-08 16:00",
+    "days": 14,
+    "timeline": 0
+  },
+  {
+    "id": "act18mini",
+    "name": "惊蛰sp故事集",
+    "type": "MINISTORY",
+    "color": ["#b73553"],
+    "start": "2025-02-22 16:00",
+    "days": 7,
+    "reward": {
+      "type": "skin",
+      "id": "XX"
+    },
+    "timeline": 0
+  },
+  {
     "id": "act31sre",
     "name": "怀黍离·复刻",
     "type": "SIDESTORY",
     "color": ["#a9b94b"],
     "fake": true,
-    "start": "2025-02-13 16:00",
+    "start": "2025-02-12 16:00",
     "days": 10,
     "reward": {
       "type": "char",
@@ -171,20 +207,6 @@
       "id": "不知道"
     },
     "timeline": 3
-  },
-  {
-    "id": "crisis_v2_season_3_1",
-    "fake": true,
-    "name": "XX作战",
-    "type": "CRISIS",
-    "color": ["#ffe299"],
-    "start": "2025-02-13 16:00",
-    "days": 14,
-    "reward": {
-      "type": "skin",
-      "id": "不知道"
-    },
-    "timeline": 2
   },
   {
     "id": "actspringside",
@@ -209,6 +231,20 @@
     "start": "2025-01-09 16:00",
     "days": 10,
     "timeline": 3
+  },
+  {
+    "id": "crisis_v2_season_3_1",
+    "fake": true,
+    "name": "XX作战",
+    "type": "CRISIS",
+    "color": ["#ffe299"],
+    "start": "2025-01-08 16:00",
+    "days": 14,
+    "reward": {
+      "type": "skin",
+      "id": "不知道"
+    },
+    "timeline": 2
   },
   {
     "id": "actcamera",
@@ -258,6 +294,7 @@
       "id": "char_4114_harold"
     },
     "drop": ["zhi", "meng", "unit"],
+    "infinity": ["chun"],
     "timeline": 0
   },
   {
@@ -532,7 +569,7 @@
   },
   {
     "id": "act1mainss",
-    "name": "EP 14慈悲灯塔",
+    "name": "EP14 慈悲灯塔",
     "type": "MAINLINE",
     "color": ["#dca566"],
     "start": "2024-05-01 16:00",

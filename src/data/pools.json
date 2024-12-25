@@ -1,27 +1,39 @@
 {
-  "NORM_62_0_3": {
+  "LIMITED_69_0_1": {
     "fake": true,
-    "id": "NORM_56_0_3",
-    "name": "联合行动",
-    "type": "joint",
-    "start": "2025-02-13 16:00",
+    "id": "LIMITED_47_0_1",
+    "name": "拉特兰姐妹池",
+    "type": "fes",
+    "start": "2025-05-01 16:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": []
+        "chars": ["SP能天使", "安姐"]
       },
       {
         "rarity": 5,
-        "chars": [
-          "char_433_windft",
-          "char_1036_fang2",
-          "char_494_vendla",
-          "char_421_crow",
-          "char_4140_lasher",
-          "char_488_buildr"
-        ]
+        "chars": ["char_4122_grabds"]
       }
-    ]
+    ],
+    "color": ["#dcde4f", "#446cdb"]
+  },
+  "SINGLE_62_0_3": {
+    "fake": true,
+    "id": "SINGLE_57_0_3",
+    "name": "XXX",
+    "type": "single",
+    "start": "2025-02-22 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["惊蛰sp"]
+      },
+      {
+        "rarity": 5,
+        "chars": ["char_194_leto", "char_343_tknogi"]
+      }
+    ],
+    "color": ["#ba6f12"]
   },
   "NORM_61_0_1": {
     "fake": true,
@@ -142,6 +154,30 @@
       {
         "rarity": 5,
         "chars": ["char_226_hmau", "char_346_aosta", "char_174_slbell"]
+      }
+    ]
+  },
+  "NORM_62_0_3": {
+    "fake": true,
+    "id": "NORM_56_0_3",
+    "name": "联合行动",
+    "type": "joint",
+    "start": "2025-01-08 16:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": []
+      },
+      {
+        "rarity": 5,
+        "chars": [
+          "char_433_windft",
+          "char_1036_fang2",
+          "char_494_vendla",
+          "char_421_crow",
+          "char_4140_lasher",
+          "char_488_buildr"
+        ]
       }
     ]
   },

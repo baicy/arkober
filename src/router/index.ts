@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import MergePage from '@/components/pages/MergePage.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -18,16 +17,6 @@ const router = createRouter({
       path: '/activity/:module?/:item?',
       name: 'activityStat',
       component: import('@/components/pages/ActivityPage.vue')
-    },
-    // {
-    //   path: '/operator/:id',
-    //   name: 'operator',
-    //   component: OperatorPage
-    // },
-    {
-      path: '/game/merge',
-      name: 'merge',
-      component: MergePage
     }
   ]
 })

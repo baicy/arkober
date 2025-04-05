@@ -1,5 +1,45 @@
 [
   {
+    "id": "act41side",
+    "name": "挽歌燃烧殆尽",
+    "type": "SIDESTORY",
+    "first": "2025-03-07 16:00",
+    "rerun": "",
+    "reid": "",
+    "trail": "",
+    "reward": {
+      "type": "char",
+      "id": "char_shuidengx"
+    }
+  },
+  {
+    "id": "act18mini",
+    "name": "我们明日见",
+    "type": "MINISTORY",
+    "first": "2025-02-14 16:00",
+    "rerun": "",
+    "reid": "",
+    "trail": "",
+    "reward": {
+      "type": "skin",
+      "id": "char_4107_vrdant@unveiling#3"
+    },
+    "color": "#a41a1a"
+  },
+  {
+    "id": "act40side",
+    "name": "相见欢",
+    "type": "SIDESTORY",
+    "first": "2025-01-22 16:00",
+    "rerun": "",
+    "reid": "",
+    "trail": "",
+    "reward": {
+      "type": "char",
+      "id": "char_4172_xingzh"
+    }
+  },
+  {
     "id": "act39side",
     "name": "出苍白海",
     "type": "SIDESTORY",
@@ -10,8 +50,7 @@
     "reward": {
       "type": "char",
       "id": "char_4163_rosesa"
-    },
-    "color": "#1c2cf1"
+    }
   },
   {
     "id": "act38side",
@@ -42,7 +81,7 @@
   {
     "id": "act36side",
     "name": "泰拉饭",
-    "type": "LINKAGE",
+    "type": "SIDESTORY",
     "first": "2024-09-02 16:00",
     "rerun": "",
     "trail": "",
@@ -119,7 +158,7 @@
     "name": "怀黍离",
     "type": "SIDESTORY",
     "first": "2024-02-01 16:00",
-    "rerun": "",
+    "rerun": "2025-02-24 16:00",
     "reid": "",
     "trail": "",
     "reward": {
@@ -232,7 +271,7 @@
   {
     "id": "act24side",
     "name": "落叶逐火",
-    "type": "LINKAGE",
+    "type": "SIDESTORY",
     "first": "2023-03-07 16:00",
     "rerun": "",
     "trail": "",

@@ -1,20 +1,11 @@
 <script setup>
 import { ref, onMounted, nextTick, watch } from 'vue'
-import AffairCard from '@/components/AffairCard.vue'
+import TimelineItem from './TimelineItem.vue'
 import dayjs from 'dayjs'
 import { useRoute } from 'vue-router'
 import { useSystemStore } from '@/stores/system'
 import acts from '@/data/activities.json'
 import gachas from '@/data/pools.json'
-
-const Typeline = {
-  main: 1,
-  sub: 3,
-  attain: 4,
-  standard: 5,
-  classic: 6,
-  cattain: 6
-}
 
 const dayWidth = 30
 const cardHeight = 60
@@ -24,12 +15,13 @@ const activities = ref([])
 
 pools.value = []
 for (let i in gachas) {
-  const { id, name, type, sub = false, start, days = 14, color, pickup, fake } = gachas[i]
+  const { id, name, type, timeline = 1, start, days = 14, color, pickup, fake } = gachas[i]
   pools.value.push({
     id,
     fake,
     name: name || (type === 'standard' ? '标准寻访' : '中坚寻访'),
-    type: ['standard', 'classic', 'attain', 'cattain'].includes(type) ? type : sub ? 'sub' : 'main',
+    type,
+    timeline: type === 'standard' ? 5 : ['classic', 'cattain'].includes(type) ? 6 : timeline,
     rerun: type === 'rerun',
     start,
     days,
@@ -131,7 +123,7 @@ const changeMonth = (month) => {
 }
 </script>
 <template>
-  <v-sheet>
+  <v-sheet :elevation="6">
     <div
       class="mx-auto bg-surface overflow-x-auto position-relative ak-timeline"
       ref="timelineRef"
@@ -156,7 +148,7 @@ const changeMonth = (month) => {
       <div class="h60 position-relative">
         <div class="d-flex position-relative" :style="{ top: `${dayWidth}px` }">
           <div
-            class="b1 position-relative text-center calender-day"
+            class="border border-primary position-relative text-center calender-day text-primary"
             :class="{ 'calender-sunday': date.day() === 0 }"
             v-for="(date, index) in dates"
             :key="index"
@@ -171,7 +163,7 @@ const changeMonth = (month) => {
       </div>
       <!-- 活动 -->
       <div class="position-relative">
-        <affair-card
+        <timeline-item
           v-for="act in activities"
           :key="act.id"
           :affair="act"
@@ -183,20 +175,20 @@ const changeMonth = (month) => {
             height: `${cardHeight}px`
           }"
         >
-        </affair-card>
-        <affair-card
+        </timeline-item>
+        <timeline-item
           v-for="pool in pools"
           :key="pool.id"
           :affair="pool"
           @click="selectAffair(pool)"
           :style="{
             left: `${dayjs(pool.start).diff(firstDate, 'day') * dayWidth}px`,
-            top: `${cardHeight * Typeline[pool.type]}px`,
+            top: `${cardHeight * pool.timeline}px`,
             width: `${pool.days * dayWidth}px`,
             height: `${cardHeight}px`
           }"
         >
-        </affair-card>
+        </timeline-item>
       </div>
     </div>
     <div class="d-flex justify-end ga-2">
@@ -264,7 +256,7 @@ const changeMonth = (month) => {
     height: 8px;
     position: absolute;
     right: -1px;
-    background-color: #313131;
+    background-color: rgba(var(--v-theme-primary), 0.5);
     clip-path: polygon(0 0, 100% 0, 100% 100%);
   }
   .first-of-month {

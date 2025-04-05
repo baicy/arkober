@@ -133,8 +133,10 @@
       },
       "hammer": {
         "name": "撼地者",
-        "code": "",
-        "equiped": {}
+        "code": "ham",
+        "equiped": {
+          "x": "red"
+        }
       }
     }
   },
@@ -522,8 +524,10 @@
       },
       "alchemist": {
         "name": "炼金师",
-        "code": "",
-        "equiped": {}
+        "code": "alc",
+        "equiped": {
+          "x": "grey"
+        }
       },
       "skywalker": {
         "name": "巡空者",

@@ -51,12 +51,15 @@ interface Pickup {
 }
 
 export interface Pool {
+  fake: boolean
   id: string
   name: string
   type: string
-  open: number
+  start: string
   pickup: Pickup[]
-  color?: string[]
+  color: string[]
+  status: '' | 'up' | 'shop'
+  duration: number
 }
 
 export type PoolInfo = {
@@ -74,13 +77,17 @@ export type PoolInfo = {
 }
 
 export interface Affair {
-  type: 'activity' | 'pool'
-  status: 'present' | 'future' | 'past'
+  fake: boolean
   id: string
   name: string
-  open: number
-  close: number
-  remain: number
+  start: string
+  days?: number
+  type: string
+  rerun: boolean
+  color: string[]
+  pickup?: Pickup[]
+  reward?: any
+  drop?: string[]
 }
 
 export interface ActivityAffair extends Affair {
@@ -96,9 +103,11 @@ export interface PoolAffair extends Affair {
   pickup: Pickup[]
 }
 
-export type Character = {
+export interface Character {
   id: string
   name: string
+  color1: string
+  color2: string
   nationId: string | null
   groupId: string | null
   teamId: string | null
@@ -108,12 +117,28 @@ export type Character = {
   profession: string
   subProfession: string
   sp: number
+  passport: string
   type?: string
-  onlineTime?: number
   source?: string
-  classic?: boolean
-  recruit?: boolean
-  pools?: string[]
+  onlineTime: string
+  recruitTime: string
+  classicTime: string
+  comic: string
+  skins: Skin[]
+  pools: Pool[]
+  cultivate: any
+}
+
+export interface Skin {
+  id: string
+  char: string
+  img: string
+  name: string
+  colors: string[]
+  groupId: string
+  groupName: string
+  tag: string
+  online: string
 }
 
 export type Rogue = {

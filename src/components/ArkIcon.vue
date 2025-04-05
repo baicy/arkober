@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import { defineProps, onMounted, ref } from 'vue'
+import { onMounted, ref } from 'vue'
 import { getTextColor } from '@/utils'
 
 const alias: Record<string, string> = {

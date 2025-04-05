@@ -384,6 +384,7 @@ export const forces = [
 ]
 
 const officialGallery = 'https://web.hycdn.cn/arknights/game/assets'
+// 有：精一立绘、干员精一头像、其余头像
 const charGallery = `${officialGallery}/char`
 export const avatarGallery = `${charGallery}/avatar`
 export const portraitGallery = `${charGallery}/portrait`

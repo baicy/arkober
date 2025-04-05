@@ -2,6 +2,8 @@
 import { ref, reactive, watchEffect, watch, nextTick, computed } from 'vue'
 import stories from '@/data/stories.json'
 import activities from '@/data/activities.json'
+import characters from '@/data/characters.json'
+import pools from '@/data/pools.json'
 import { useRoute } from 'vue-router'
 import dayjs from 'dayjs'
 import ArkImg from '../ArkImg.vue'
@@ -68,6 +70,74 @@ const selectActivity = (act) => {
   }
 }
 
+const upList = {}
+for (const i in characters) {
+  const { id, name, type, rarity, onlineTime, classicTime } = characters[i]
+  if (!['rogue'].includes(type)) {
+    if (rarity === 6 && type === '') {
+      upList[id] = { id, name, onlineTime, classicTime, lastUp: '', lastShop: '' }
+    }
+  }
+}
+const upChar = (char, time) => {
+  if (!upList[char].lastUp) {
+    upList[char].lastUp = time
+  }
+}
+const shopChar = (char, time) => {
+  upChar(char, time)
+  if (!upList[char].lastShop) {
+    upList[char].lastShop = time
+  }
+}
+for (const id in pools) {
+  const { fake, type, start, pickup } = pools[id]
+  if (fake) continue
+  if (['attain', 'cattain'].includes(type)) continue
+  if (!pickup.length) continue
+  if (type === 'standard') {
+    shopChar(pickup[0].chars[0], start)
+    upChar(pickup[0].chars[1], start)
+  } else if (type === 'classic') {
+    if (pickup[0].chars.length > 2) {
+      for (const char of pickup[0].chars) {
+        shopChar(char, start)
+      }
+    } else {
+      shopChar(pickup[0].chars[0], start)
+      upChar(pickup[0].chars[1], start)
+    }
+  } else {
+    for (const i in pickup[0].chars) {
+      const char = pickup[0].chars[i]
+      if (upList[char]) {
+        upChar(char, start)
+      }
+    }
+  }
+}
+const upListHeader = [
+  { title: '干员', value: 'name', sortable: true },
+  {
+    title: '上线日期',
+    key: 'onlineTime',
+    sortable: true,
+    value: (item) => item.onlineTime.substring(0, 10)
+  },
+  {
+    title: '最近卡池日期',
+    key: 'lastUp',
+    sortable: true,
+    value: (item) => item.lastUp.substring(0, 10)
+  },
+  {
+    title: '最近兑换日期',
+    key: 'lastShop',
+    sortable: true,
+    value: (item) => item.lastShop.substring(0, 10)
+  }
+]
+
 const route = useRoute()
 const tab = ref('story')
 
@@ -101,8 +171,10 @@ watch(
     :style="{ '--header-height': `${tabHeaderHeight}px` }"
   >
     <v-tabs v-model="tab" color="primary" direction="vertical">
+      <v-btn prepend-icon="mdi-home" color="secondary" to="/"></v-btn>
       <v-tab prepend-icon="mdi-radioactive-circle-outline" text="情报记述" value="story"></v-tab>
       <v-tab prepend-icon="mdi-package-variant" text="材料掉落" value="material"></v-tab>
+      <v-tab prepend-icon="mdi-target" text="寻访列表" value="pool"></v-tab>
     </v-tabs>
     <v-tabs-window v-model="tab" class="h-100 w-100">
       <v-tabs-window-item value="story" class="h-100 w-100">
@@ -237,6 +309,32 @@ watch(
               </div>
             </div>
           </div>
+        </div>
+      </v-tabs-window-item>
+      <v-tabs-window-item value="pool" class="h-100">
+        <div class="text-body-1 text-secondary list-header">按照实装顺序倒序排列</div>
+        <div class="d-flex ga-1 overflow-auto" style="height: calc(100% - 60px)">
+          <!-- <div class="d-flex flex-column flex-wrap">
+            <v-card v-for="char in Object.values(upList)" :key="char.id">
+              <v-card-text> {{ char.name }} {{ char.lastUp }} {{ char.lastShop }} </v-card-text>
+            </v-card>
+          </div> -->
+          <v-data-table
+            :headers="upListHeader"
+            sticky
+            :items="Object.values(upList).filter((v) => !v.classicTime)"
+            density="compact"
+            :items-per-page="-1"
+            hide-default-footer
+          ></v-data-table>
+          <v-data-table
+            :headers="upListHeader"
+            sticky
+            :items="Object.values(upList).filter((v) => v.classicTime)"
+            density="compact"
+            :items-per-page="-1"
+            hide-default-footer
+          ></v-data-table>
         </div>
       </v-tabs-window-item>
     </v-tabs-window>

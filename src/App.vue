@@ -4,7 +4,7 @@ import { RouterView } from 'vue-router'
 import { useMessageStore } from './stores/message'
 import { useSystemStore } from '@/stores/system'
 import OperatorInfo from '@/components/operator/OperatorInfo.vue'
-import PoolInfo from '@/components/pool/poolInfo.vue'
+import PoolInfo from '@/components/pool/PoolInfo.vue'
 
 const message = useMessageStore()
 const msg = computed(() => {

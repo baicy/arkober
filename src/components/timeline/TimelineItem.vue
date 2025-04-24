@@ -81,9 +81,23 @@ const showPool = (pool) => {
     :class="{ 'opacity-60': !isActive }"
   >
     <div
-      class="w-100 h-100 pl-2 pt-1"
-      :style="{ borderLeft: `15px solid ${color[0] || '#0198dd'}` }"
+      class="w-100 h-100 pt-1"
+      :class="{ 'pl-2': !['LIVE', 'DEV'].includes(type) }"
+      :style="{
+        borderLeft: `${['LIVE', 'DEV'].includes(type) ? 0 : 15}px solid ${color[0] || '#0198dd'}`,
+        background: `${['LIVE', 'DEV'].includes(type) ? color[0] : 'transparent'}`
+      }"
     >
+      <div v-if="type === 'LIVE'" class="h-100 d-flex flex-column align-center justify-center">
+        <span class="text-white" style="font-size: 10px; font-weight: bold">LIVE</span>
+        <a href="https://live.bilibili.com/5555734" target="_blank">
+          <v-icon icon="mdi-arrow-right" color="#ffffff"></v-icon>
+        </a>
+      </div>
+      <div v-if="type === 'DEV'" class="h-100 d-flex flex-column align-center justify-center">
+        <div class="text-white" style="font-size: 10px; font-weight: bold">DEV</div>
+        <div class="text-white" style="font-size: 13px">#{{ affair.number }}</div>
+      </div>
       <div v-if="name" class="d-flex">
         <span v-if="fake">(疑)</span>
         <span :class="{ 'linked-tag': affairType === 'pool' }" @click="showPool(affair)">

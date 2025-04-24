@@ -1,4 +1,40 @@
 {
+  "DOUBLE_61_0_5": {
+    "fake": true,
+    "id": "DOUBLE_59_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2025-06-19 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_2012_typhon", "char_1039_thorn2"]
+      },
+      {
+        "rarity": 5,
+        "chars": []
+      }
+    ],
+    "color": []
+  },
+  "DOUBLE_61_0_4": {
+    "fake": true,
+    "id": "DOUBLE_59_0_4",
+    "name": "",
+    "type": "standard",
+    "start": "2025-06-05 04:00",
+    "pickup": [
+      {
+        "rarity": 6,
+        "chars": ["char_4055_bgsnow", "char_4065_judge"]
+      },
+      {
+        "rarity": 5,
+        "chars": []
+      }
+    ],
+    "color": []
+  },
   "DOUBLE_61_0_3": {
     "fake": true,
     "id": "DOUBLE_59_0_4",
@@ -8,7 +44,7 @@
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_1032_excu2", "char_4055_bgsnow"]
+        "chars": ["char_1032_excu2", "char_4064_mlynar"]
       },
       {
         "rarity": 5,
@@ -26,7 +62,7 @@
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_300_phenxi", "char_4064_mlynar"]
+        "chars": ["char_4048_doroth", "char_4026_vulpis"]
       },
       {
         "rarity": 5,
@@ -48,7 +84,7 @@
       },
       {
         "rarity": 5,
-        "chars": ["char_4122_grabds"]
+        "chars": ["SP安德切尔"]
       }
     ],
     "color": ["#dcde4f", "#446cdb"]
@@ -95,26 +131,25 @@
       }
     ]
   },
-  "DOUBLE_60_0_5": {
-    "fake": true,
-    "id": "DOUBLE_59_0_4",
+  "DOUBLE_60_0_4": {
+    "id": "DOUBLE_60_0_4",
     "name": "",
     "type": "standard",
     "start": "2025-04-24 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_4027_heyak", "char_4065_judge"]
+        "chars": ["char_4027_heyak", "char_4117_ray"]
       },
       {
         "rarity": 5,
-        "chars": []
+        "chars": ["char_1024_hbisc2", "char_1027_greyy2", "char_4016_kazema"]
       }
     ],
-    "color": []
+    "color": ["#ca4d55"]
   },
   "SINGLE_60_0_3": {
-    "id": "SINGLE_49_0_1",
+    "id": "SINGLE_60_0_3",
     "name": "如死亦终",
     "type": "rerun",
     "start": "2025-04-21 16:00",
@@ -124,68 +159,70 @@
         "chars": ["char_4132_ascln"]
       },
       {
+        "rarity": 5,
+        "chars": ["char_194_leto", "char_446_aroma"]
+      },
+      {
         "rarity": 4,
         "chars": ["char_4130_luton"]
       }
     ],
-    "color": ["#914bd0"],
+    "color": ["#543683"],
     "timeline": 2
   },
-  "CLASSIC_DOUBLE_60_0_2": {
-    "fake": true,
-    "id": "CLASSIC_DOUBLE_59_0_1",
+  "CLASSIC_DOUBLE_60_0_1": {
+    "id": "CLASSIC_DOUBLE_60_0_1",
     "name": "",
     "type": "classic",
     "start": "2025-04-17 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_003_kalts", "char_213_mostma"]
+        "chars": ["char_147_shining", "char_213_mostma"]
       },
       {
         "rarity": 5,
-        "chars": []
+        "chars": ["char_373_lionhd", "char_106_franka", "char_201_moeshd"]
       }
     ]
   },
   "DOUBLE_60_0_2": {
-    "fake": true,
-    "id": "DOUBLE_59_0_4",
+    "id": "DOUBLE_60_0_2",
     "name": "",
     "type": "standard",
     "start": "2025-04-10 04:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_4046_ebnhlz", "char_4026_vulpis"]
+        "chars": ["char_4046_ebnhlz", "char_2012_typhon"]
       },
       {
         "rarity": 5,
-        "chars": []
+        "chars": ["char_341_sntlla", "char_4122_grabds", "char_4164_tecno"]
       }
     ],
-    "color": []
+    "color": ["#9b6bdb"]
   },
   "SINGLE_60_0_1": {
-    "id": "SINGLE_59_0_1",
+    "id": "SINGLE_60_0_1",
     "name": "指令·重构",
     "type": "single",
     "start": "2025-04-07 16:00",
     "pickup": [
       {
         "rarity": 6,
-        "chars": ["char_m3"]
+        "chars": ["char_4179_monstr"]
       },
       {
         "rarity": 5,
-        "chars": ["char_alanna", "char_4014_lunacu"]
+        "chars": ["char_4178_alanna", "char_4014_lunacu"]
       },
       {
         "rarity": 4,
-        "chars": ["char_chengfeng"]
+        "chars": ["char_445_wscoot"]
       }
     ],
-    "color": ["#afde1c"]
+    "color": ["#7fa900"]
   },
   "CLASSIC_DOUBLE_59_0_2": {
     "id": "CLASSIC_DOUBLE_59_0_1",
@@ -1618,7 +1655,7 @@
         "chars": ["char_4130_luton"]
       }
     ],
-    "color": ["#914bd0"]
+    "color": ["#543683"]
   },
   "NORM_48_0_6": {
     "id": "NORM_48_0_6",

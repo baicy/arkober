@@ -90,19 +90,6 @@ export interface Affair {
   drop?: string[]
 }
 
-export interface ActivityAffair extends Affair {
-  color?: string
-  activityType: string
-  activityStatus: 'battle' | 'shop'
-  isReplicate: boolean
-}
-
-export interface PoolAffair extends Affair {
-  color?: string[]
-  poolType: string
-  pickup: Pickup[]
-}
-
 export interface Character {
   id: string
   name: string
